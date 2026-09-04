@@ -1,38 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="278" viewBox="0 0 480 278">
-<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.t{font-size:14px;font-weight:600;fill:#e6edf3}.s{font-size:10.5px;fill:#8b949e}.n{font-size:12px;fill:#c9d1d9}.p{font-size:12px;font-weight:600;fill:#e6edf3}</style>
-<rect x="0.5" y="0.5" width="479" height="277" rx="6" fill="#0d1117" stroke="#30363d"/>
-<text class="t" x="16" y="26">Top Languages</text>
-<text class="s" x="16" y="43">averaged per repository across 49 repos &#183; private included</text>
-<text class="n" x="16" y="75.0">C</text>
-<rect x="132" y="67.0" width="280" height="8" rx="4.0" fill="#21262d"/>
-<rect x="132" y="67.0" width="280.0" height="8" rx="4.0" fill="#555555"/>
-<text class="p" x="464" y="75.0" text-anchor="end">37.5%</text>
-<text class="n" x="16" y="101.0">Jupyter Notebook</text>
-<rect x="132" y="93.0" width="280" height="8" rx="4.0" fill="#21262d"/>
-<rect x="132" y="93.0" width="132.2" height="8" rx="4.0" fill="#DA5B0B"/>
-<text class="p" x="464" y="101.0" text-anchor="end">17.7%</text>
-<text class="n" x="16" y="127.0">Python</text>
-<rect x="132" y="119.0" width="280" height="8" rx="4.0" fill="#21262d"/>
-<rect x="132" y="119.0" width="110.2" height="8" rx="4.0" fill="#3572A5"/>
-<text class="p" x="464" y="127.0" text-anchor="end">14.8%</text>
-<text class="n" x="16" y="153.0">HTML</text>
-<rect x="132" y="145.0" width="280" height="8" rx="4.0" fill="#21262d"/>
-<rect x="132" y="145.0" width="78.7" height="8" rx="4.0" fill="#e34c26"/>
-<text class="p" x="464" y="153.0" text-anchor="end">10.5%</text>
-<text class="n" x="16" y="179.0">C++</text>
-<rect x="132" y="171.0" width="280" height="8" rx="4.0" fill="#21262d"/>
-<rect x="132" y="171.0" width="48.5" height="8" rx="4.0" fill="#f34b7d"/>
-<text class="p" x="464" y="179.0" text-anchor="end">6.5%</text>
-<text class="n" x="16" y="205.0">TypeScript</text>
-<rect x="132" y="197.0" width="280" height="8" rx="4.0" fill="#21262d"/>
-<rect x="132" y="197.0" width="39.5" height="8" rx="4.0" fill="#3178c6"/>
-<text class="p" x="464" y="205.0" text-anchor="end">5.3%</text>
-<text class="n" x="16" y="231.0">JavaScript</text>
-<rect x="132" y="223.0" width="280" height="8" rx="4.0" fill="#21262d"/>
-<rect x="132" y="223.0" width="38.5" height="8" rx="4.0" fill="#f1e05a"/>
-<text class="p" x="464" y="231.0" text-anchor="end">5.2%</text>
-<text class="n" x="16" y="257.0">Perl</text>
-<rect x="132" y="249.0" width="280" height="8" rx="4.0" fill="#21262d"/>
-<rect x="132" y="249.0" width="19.2" height="8" rx="4.0" fill="#0298c3"/>
-<text class="p" x="464" y="257.0" text-anchor="end">2.6%</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.t{font-size:15px;font-weight:600;fill:#e6edf3}.s{font-size:11px;fill:#8b949e}.n{font-size:13px;fill:#c9d1d9}.p{font-size:13px;font-weight:600;fill:#e6edf3}</style>
+<rect x="0.5" y="0.5" width="879" height="299" rx="6" fill="#0d1117" stroke="#30363d"/>
+<text class="t" x="20" y="30">Top Languages</text>
+<text class="s" x="20" y="48">averaged per repository across 49 repos &#183; private included</text>
+<text class="n" x="20" y="82.0">C</text>
+<rect x="170" y="73.0" width="632" height="10" rx="5.0" fill="#21262d"/>
+<rect x="170" y="73.0" width="632.0" height="10" rx="5.0" fill="#555555"/>
+<text class="p" x="860" y="82.0" text-anchor="end">37.5%</text>
+<text class="n" x="20" y="110.0">Jupyter Notebook</text>
+<rect x="170" y="101.0" width="632" height="10" rx="5.0" fill="#21262d"/>
+<rect x="170" y="101.0" width="298.4" height="10" rx="5.0" fill="#DA5B0B"/>
+<text class="p" x="860" y="110.0" text-anchor="end">17.7%</text>
+<text class="n" x="20" y="138.0">Python</text>
+<rect x="170" y="129.0" width="632" height="10" rx="5.0" fill="#21262d"/>
+<rect x="170" y="129.0" width="248.8" height="10" rx="5.0" fill="#3572A5"/>
+<text class="p" x="860" y="138.0" text-anchor="end">14.8%</text>
+<text class="n" x="20" y="166.0">HTML</text>
+<rect x="170" y="157.0" width="632" height="10" rx="5.0" fill="#21262d"/>
+<rect x="170" y="157.0" width="177.6" height="10" rx="5.0" fill="#e34c26"/>
+<text class="p" x="860" y="166.0" text-anchor="end">10.5%</text>
+<text class="n" x="20" y="194.0">C++</text>
+<rect x="170" y="185.0" width="632" height="10" rx="5.0" fill="#21262d"/>
+<rect x="170" y="185.0" width="109.6" height="10" rx="5.0" fill="#f34b7d"/>
+<text class="p" x="860" y="194.0" text-anchor="end">6.5%</text>
+<text class="n" x="20" y="222.0">TypeScript</text>
+<rect x="170" y="213.0" width="632" height="10" rx="5.0" fill="#21262d"/>
+<rect x="170" y="213.0" width="89.3" height="10" rx="5.0" fill="#3178c6"/>
+<text class="p" x="860" y="222.0" text-anchor="end">5.3%</text>
+<text class="n" x="20" y="250.0">JavaScript</text>
+<rect x="170" y="241.0" width="632" height="10" rx="5.0" fill="#21262d"/>
+<rect x="170" y="241.0" width="87.0" height="10" rx="5.0" fill="#f1e05a"/>
+<text class="p" x="860" y="250.0" text-anchor="end">5.2%</text>
+<text class="n" x="20" y="278.0">Perl</text>
+<rect x="170" y="269.0" width="632" height="10" rx="5.0" fill="#21262d"/>
+<rect x="170" y="269.0" width="43.4" height="10" rx="5.0" fill="#0298c3"/>
+<text class="p" x="860" y="278.0" text-anchor="end">2.6%</text>
 </svg>
