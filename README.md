@@ -41,9 +41,9 @@
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,python,ts,js,php,nodejs,express,fastapi,laravel,react,vue,nuxtjs,vite&theme=dark&perline=14" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,python,ts,js,php,nodejs,express,fastapi,laravel,react,vue,nuxtjs,vite&theme=light&perline=14" />
-    <img alt="C, C++, Python, TypeScript, JavaScript, PHP, Node.js, Express, FastAPI, Laravel, React, Vue, Nuxt, Vite" src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,php,nodejs,express,fastapi,laravel,react,vue,nuxtjs,vite&theme=dark&perline=14" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpython%2Cts%2Cjs%2Cphp%2Cnodejs%2Cexpress%2Cfastapi%2Claravel%2Creact%2Cvue%2Cnuxtjs%2Cvite&theme=dark&perline=14" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpython%2Cts%2Cjs%2Cphp%2Cnodejs%2Cexpress%2Cfastapi%2Claravel%2Creact%2Cvue%2Cnuxtjs%2Cvite&theme=light&perline=14" />
+    <img alt="C, C++, Python, TypeScript, JavaScript, PHP, Node.js, Express, FastAPI, Laravel, React, Vue, Nuxt, Vite" src="https://skillicons.dev/icons?i=c%2Ccpp%2Cpython%2Cts%2Cjs%2Cphp%2Cnodejs%2Cexpress%2Cfastapi%2Claravel%2Creact%2Cvue%2Cnuxtjs%2Cvite&theme=dark&perline=14" />
   </picture>
 </p>
 
@@ -51,9 +51,9 @@
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,prisma&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,prisma&theme=light" />
-    <img alt="PostgreSQL, Prisma" src="https://skillicons.dev/icons?i=postgres,prisma&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cprisma&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cprisma&theme=light" />
+    <img alt="PostgreSQL, Prisma" src="https://skillicons.dev/icons?i=postgres%2Cprisma&theme=dark" />
   </picture>
 </p>
 
@@ -61,11 +61,16 @@
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,vscode,docker,postman,linux,bash,cmake&theme=dark&perline=9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,vscode,docker,postman,linux,bash,cmake&theme=light&perline=9" />
-    <img alt="Git, GitHub, GitLab, VS Code, Docker, Postman, Linux, Bash, CMake" src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,docker,postman,linux,bash,cmake&theme=dark&perline=9" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cgitlab%2Cvscode%2Cdocker%2Cpostman%2Clinux%2Cbash%2Ccmake&theme=dark&perline=9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cgitlab%2Cvscode%2Cdocker%2Cpostman%2Clinux%2Cbash%2Ccmake&theme=light&perline=9" />
+    <img alt="Git, GitHub, GitLab, VS Code, Docker, Postman, Linux, Bash, CMake" src="https://skillicons.dev/icons?i=git%2Cgithub%2Cgitlab%2Cvscode%2Cdocker%2Cpostman%2Clinux%2Cbash%2Ccmake&theme=dark&perline=9" />
   </picture>
 </p>
+
+<!-- The commas in `i=` MUST stay percent-encoded as %2C. `srcset` treats a bare
+     comma as the separator between image candidates, so a literal comma makes
+     the browser request only `?i=c` and render a single enlarged icon. -->
+
 
 **Embedded, RTOS & Protocols**
 
