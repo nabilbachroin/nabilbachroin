@@ -1,53 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="265" viewBox="0 0 880 265">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="299" viewBox="0 0 880 299">
 <defs>
 <linearGradient id="g-ml-dark" x1="0" y1="0" x2="1" y2="0">
 <stop offset="0%" stop-color="#22c55e"/>
 <stop offset="55%" stop-color="#3b82f6"/>
 <stop offset="100%" stop-color="#d946ef"/>
 </linearGradient>
+<filter id="f-ml-dark" x="-5%" y="-600%" width="110%" height="1300%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.ti{font-size:15px;font-weight:600;fill:#c084fc}.hd{font-size:9.5px;font-weight:600;fill:#6e7681;letter-spacing:.9px}.nm{font-size:12.5px;font-weight:600;fill:#e6edf3}.ds{font-size:11px;fill:#8b949e}.ch{font-size:10px;font-weight:500;fill:#c084fc}.nu{font-size:12px;font-weight:600;fill:#e6edf3}</style>
-<rect x="0.5" y="0.5" width="879" height="264" rx="8" fill="#0d1117" stroke="#30363d"/>
-<rect x="20" y="30" width="4" height="16" rx="2" fill="#c084fc"/>
-<text class="ti" x="34" y="43">Machine Learning &amp; Research</text>
-<rect x="20" y="46" width="840" height="1.5" rx="0.75" fill="url(#g-ml-dark)"/>
-<text class="hd" x="20" y="58">PROJECT</text>
-<text class="hd" x="235" y="58">WHAT IT DOES</text>
-<text class="hd" x="540" y="58">STACK</text>
-<text class="hd" x="720" y="58">COMMITS</text>
-<text class="nm" x="20" y="91.0">clusterCraft</text>
-<g fill="none" stroke="#6e7681" stroke-width="1.1"><rect x="111.2" y="84.0" width="7" height="5.5" rx="1.2" fill="#6e7681" stroke="none"/><path d="M112.7 84.0 v-1.6 a2.1 2.1 0 0 1 4.2 0 V84.0"/></g>
-<text class="ds" x="235" y="90.0">A finite state machine for cluster coordination</text>
-<rect x="540.0" y="86.5" width="47.8" height="19" rx="9.5" fill="#c084fc" fill-opacity="0.18"/>
-<text class="ch" x="548.0" y="99.5">Python</text>
-<rect x="720" y="92.5" width="94" height="7" rx="3.5" fill="#21262d"/>
-<rect x="720" y="92.5" width="41.1" height="7" rx="3.5" fill="url(#g-ml-dark)"/>
-<text class="nu" x="860" y="100.0" text-anchor="end">49</text>
-<rect x="20" y="118.0" width="840" height="1" fill="#21262d"/>
-<text class="nm" x="20" y="147.0">Baby cry classification</text>
-<g fill="none" stroke="#6e7681" stroke-width="1.1"><rect x="190.3" y="140.0" width="7" height="5.5" rx="1.2" fill="#6e7681" stroke="none"/><path d="M191.7 140.0 v-1.6 a2.1 2.1 0 0 1 4.2 0 V140.0"/></g>
-<text class="ds" x="235" y="146.0">Classifies why an infant is crying - belly pain,</text>
-<text class="ds" x="235" y="160.0">hunger, discomfort, tiredness - from audio</text>
-<text class="ds" x="235" y="174.0">converted to spectrograms</text>
-<rect x="540.0" y="147.5" width="47.8" height="19" rx="9.5" fill="#c084fc" fill-opacity="0.18"/>
-<text class="ch" x="548.0" y="160.5">Python</text>
-<rect x="592.8" y="147.5" width="53.1" height="19" rx="9.5" fill="#c084fc" fill-opacity="0.18"/>
-<text class="ch" x="600.8" y="160.5">Jupyter</text>
-<rect x="720" y="153.5" width="94" height="7" rx="3.5" fill="#21262d"/>
-<rect x="720" y="153.5" width="9.2" height="7" rx="3.5" fill="url(#g-ml-dark)"/>
-<text class="nu" x="860" y="161.0" text-anchor="end">11</text>
-<rect x="20" y="184.0" width="840" height="1" fill="#21262d"/>
-<text class="nm" x="20" y="213.0">VE3DOR</text>
-<text class="ds" x="235" y="212.0">3D object reconstruction taking NeRF as the</text>
-<text class="ds" x="235" y="226.0">baseline and extending it, scored with IoU and</text>
-<text class="ds" x="235" y="240.0">Chamfer Distance</text>
-<rect x="540.0" y="202.0" width="47.8" height="19" rx="9.5" fill="#c084fc" fill-opacity="0.18"/>
-<text class="ch" x="548.0" y="215.0">Python</text>
-<rect x="592.8" y="202.0" width="53.1" height="19" rx="9.5" fill="#c084fc" fill-opacity="0.18"/>
-<text class="ch" x="600.8" y="215.0">Jupyter</text>
-<rect x="540.0" y="226.0" width="69.0" height="19" rx="9.5" fill="#c084fc" fill-opacity="0.18"/>
-<text class="ch" x="548.0" y="239.0">nerfstudio</text>
-<rect x="720" y="220.0" width="94" height="7" rx="3.5" fill="#21262d"/>
-<rect x="720" y="220.0" width="6.0" height="7" rx="3.5" fill="url(#g-ml-dark)"/>
-<text class="nu" x="860" y="227.5" text-anchor="end">6</text>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.ti{font-size:19px;font-weight:600;fill:#c084fc}.hd{font-size:10px;font-weight:600;fill:#6e7681;letter-spacing:.9px}.nm{font-size:12.5px;font-weight:600;fill:#e6edf3}.ds{font-size:11px;fill:#8b949e}.ch{font-size:10px;font-weight:500;fill:#c084fc}.nu{font-size:12px;font-weight:600;fill:#e6edf3}</style>
+<rect x="0.5" y="0.5" width="879" height="298" rx="8" fill="#0d1117" stroke="#30363d"/>
+<g filter="url(#f-ml-dark)"><rect x="20" y="27" width="5" height="23" rx="2.5" fill="#c084fc"/></g>
+<text class="ti" x="36" y="46">Machine Learning &amp; Research</text>
+<g filter="url(#f-ml-dark)"><rect x="20" y="66" width="840" height="2" rx="1" fill="url(#g-ml-dark)"/></g>
+<text class="hd" x="20" y="88">PROJECT</text>
+<text class="hd" x="235" y="88">WHAT IT DOES</text>
+<text class="hd" x="540" y="88">STACK</text>
+<text class="hd" x="720" y="88">COMMITS</text>
+<text class="nm" x="20" y="125.0">clusterCraft</text>
+<g fill="none" stroke="#6e7681" stroke-width="1.1"><rect x="111.2" y="118.0" width="7" height="5.5" rx="1.2" fill="#6e7681" stroke="none"/><path d="M112.7 118.0 v-1.6 a2.1 2.1 0 0 1 4.2 0 V118.0"/></g>
+<text class="ds" x="235" y="124.0">A finite state machine for cluster coordination</text>
+<rect x="540.0" y="120.5" width="47.8" height="19" rx="9.5" fill="#c084fc" fill-opacity="0.18"/>
+<text class="ch" x="548.0" y="133.5">Python</text>
+<rect x="720" y="126.5" width="94" height="7" rx="3.5" fill="#21262d"/>
+<rect x="720" y="126.5" width="41.1" height="7" rx="3.5" fill="url(#g-ml-dark)"/>
+<text class="nu" x="860" y="134.0" text-anchor="end">49</text>
+<rect x="20" y="152.0" width="840" height="1" fill="#21262d"/>
+<text class="nm" x="20" y="181.0">Baby cry classification</text>
+<g fill="none" stroke="#6e7681" stroke-width="1.1"><rect x="190.3" y="174.0" width="7" height="5.5" rx="1.2" fill="#6e7681" stroke="none"/><path d="M191.7 174.0 v-1.6 a2.1 2.1 0 0 1 4.2 0 V174.0"/></g>
+<text class="ds" x="235" y="180.0">Classifies why an infant is crying - belly pain,</text>
+<text class="ds" x="235" y="194.0">hunger, discomfort, tiredness - from audio</text>
+<text class="ds" x="235" y="208.0">converted to spectrograms</text>
+<rect x="540.0" y="181.5" width="47.8" height="19" rx="9.5" fill="#c084fc" fill-opacity="0.18"/>
+<text class="ch" x="548.0" y="194.5">Python</text>
+<rect x="592.8" y="181.5" width="53.1" height="19" rx="9.5" fill="#c084fc" fill-opacity="0.18"/>
+<text class="ch" x="600.8" y="194.5">Jupyter</text>
+<rect x="720" y="187.5" width="94" height="7" rx="3.5" fill="#21262d"/>
+<rect x="720" y="187.5" width="9.2" height="7" rx="3.5" fill="url(#g-ml-dark)"/>
+<text class="nu" x="860" y="195.0" text-anchor="end">11</text>
+<rect x="20" y="218.0" width="840" height="1" fill="#21262d"/>
+<text class="nm" x="20" y="247.0">VE3DOR</text>
+<text class="ds" x="235" y="246.0">3D object reconstruction taking NeRF as the</text>
+<text class="ds" x="235" y="260.0">baseline and extending it, scored with IoU and</text>
+<text class="ds" x="235" y="274.0">Chamfer Distance</text>
+<rect x="540.0" y="236.0" width="47.8" height="19" rx="9.5" fill="#c084fc" fill-opacity="0.18"/>
+<text class="ch" x="548.0" y="249.0">Python</text>
+<rect x="592.8" y="236.0" width="53.1" height="19" rx="9.5" fill="#c084fc" fill-opacity="0.18"/>
+<text class="ch" x="600.8" y="249.0">Jupyter</text>
+<rect x="540.0" y="260.0" width="69.0" height="19" rx="9.5" fill="#c084fc" fill-opacity="0.18"/>
+<text class="ch" x="548.0" y="273.0">nerfstudio</text>
+<rect x="720" y="254.0" width="94" height="7" rx="3.5" fill="#21262d"/>
+<rect x="720" y="254.0" width="6.0" height="7" rx="3.5" fill="url(#g-ml-dark)"/>
+<text class="nu" x="860" y="261.5" text-anchor="end">6</text>
 </svg>

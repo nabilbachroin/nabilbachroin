@@ -1,100 +1,101 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="434" viewBox="0 0 880 434">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="468" viewBox="0 0 880 468">
 <defs>
 <linearGradient id="g-web-dark" x1="0" y1="0" x2="1" y2="0">
 <stop offset="0%" stop-color="#84cc16"/>
 <stop offset="55%" stop-color="#06b6d4"/>
 <stop offset="100%" stop-color="#8b5cf6"/>
 </linearGradient>
+<filter id="f-web-dark" x="-5%" y="-600%" width="110%" height="1300%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.ti{font-size:15px;font-weight:600;fill:#34d399}.hd{font-size:9.5px;font-weight:600;fill:#6e7681;letter-spacing:.9px}.nm{font-size:12.5px;font-weight:600;fill:#e6edf3}.ds{font-size:11px;fill:#8b949e}.ch{font-size:10px;font-weight:500;fill:#34d399}.nu{font-size:12px;font-weight:600;fill:#e6edf3}</style>
-<rect x="0.5" y="0.5" width="879" height="433" rx="8" fill="#0d1117" stroke="#30363d"/>
-<rect x="20" y="30" width="4" height="16" rx="2" fill="#34d399"/>
-<text class="ti" x="34" y="43">Web &amp; Automation</text>
-<rect x="20" y="46" width="840" height="1.5" rx="0.75" fill="url(#g-web-dark)"/>
-<text class="hd" x="20" y="58">PROJECT</text>
-<text class="hd" x="235" y="58">WHAT IT DOES</text>
-<text class="hd" x="540" y="58">STACK</text>
-<text class="hd" x="720" y="58">COMMITS</text>
-<text class="nm" x="20" y="91.0">Tempong Order Hub &amp;</text>
-<text class="nm" x="20" y="107.0">n8n-warung</text>
-<g fill="none" stroke="#6e7681" stroke-width="1.1"><rect x="96.9" y="100.0" width="7" height="5.5" rx="1.2" fill="#6e7681" stroke="none"/><path d="M98.3 100.0 v-1.6 a2.1 2.1 0 0 1 4.2 0 V100.0"/></g>
-<text class="ds" x="235" y="90.0">Order management for a small food business,</text>
-<text class="ds" x="235" y="104.0">wired to automated workflows for orders,</text>
-<text class="ds" x="235" y="118.0">notifications and reporting</text>
-<rect x="540.0" y="80.0" width="53.1" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
-<text class="ch" x="548.0" y="93.0">FastAPI</text>
-<rect x="598.1" y="80.0" width="47.8" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
-<text class="ch" x="606.1" y="93.0">Python</text>
-<rect x="650.9" y="80.0" width="42.5" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
-<text class="ch" x="658.9" y="93.0">React</text>
-<rect x="540.0" y="104.0" width="69.0" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
-<text class="ch" x="548.0" y="117.0">PostgreSQL</text>
-<rect x="614.0" y="104.0" width="31.9" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
-<text class="ch" x="622.0" y="117.0">n8n</text>
-<rect x="720" y="98.0" width="94" height="7" rx="3.5" fill="#21262d"/>
-<rect x="720" y="98.0" width="94.0" height="7" rx="3.5" fill="url(#g-web-dark)"/>
-<text class="nu" x="860" y="105.5" text-anchor="end">112</text>
-<rect x="20" y="129.0" width="840" height="1" fill="#21262d"/>
-<text class="nm" x="20" y="158.0">family-finance</text>
-<g fill="none" stroke="#6e7681" stroke-width="1.1"><rect x="125.6" y="151.0" width="7" height="5.5" rx="1.2" fill="#6e7681" stroke="none"/><path d="M127.0 151.0 v-1.6 a2.1 2.1 0 0 1 4.2 0 V151.0"/></g>
-<text class="ds" x="235" y="157.0">Household budgeting and finance tracker</text>
-<rect x="540.0" y="147.0" width="53.1" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
-<text class="ch" x="548.0" y="160.0">Fastify</text>
-<rect x="598.1" y="147.0" width="69.0" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
-<text class="ch" x="606.1" y="160.0">TypeScript</text>
-<rect x="540.0" y="171.0" width="47.8" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
-<text class="ch" x="548.0" y="184.0">Prisma</text>
-<rect x="592.8" y="171.0" width="69.0" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
-<text class="ch" x="600.8" y="184.0">PostgreSQL</text>
-<rect x="720" y="165.0" width="94" height="7" rx="3.5" fill="#21262d"/>
-<rect x="720" y="165.0" width="62.1" height="7" rx="3.5" fill="url(#g-web-dark)"/>
-<text class="nu" x="860" y="172.5" text-anchor="end">74</text>
-<rect x="20" y="196.0" width="840" height="1" fill="#21262d"/>
-<text class="nm" x="20" y="225.0">RTRS - Remote Timer Rental</text>
-<text class="nm" x="20" y="241.0">System</text>
-<g fill="none" stroke="#6e7681" stroke-width="1.1"><rect x="68.1" y="234.0" width="7" height="5.5" rx="1.2" fill="#6e7681" stroke="none"/><path d="M69.5 234.0 v-1.6 a2.1 2.1 0 0 1 4.2 0 V234.0"/></g>
-<text class="ds" x="235" y="224.0">Session timers for a children's toy rental</text>
-<text class="ds" x="235" y="238.0">business that survive interruption and recover</text>
-<text class="ds" x="235" y="252.0">mid-session</text>
-<rect x="540.0" y="214.0" width="42.5" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
-<text class="ch" x="548.0" y="227.0">React</text>
-<rect x="587.5" y="214.0" width="69.0" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
-<text class="ch" x="595.5" y="227.0">TypeScript</text>
-<rect x="540.0" y="238.0" width="53.1" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
-<text class="ch" x="548.0" y="251.0">Express</text>
-<rect x="598.1" y="238.0" width="69.0" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
-<text class="ch" x="606.1" y="251.0">PostgreSQL</text>
-<rect x="540.0" y="262.0" width="47.8" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
-<text class="ch" x="548.0" y="275.0">Docker</text>
-<rect x="720" y="244.0" width="94" height="7" rx="3.5" fill="#21262d"/>
-<rect x="720" y="244.0" width="16.8" height="7" rx="3.5" fill="url(#g-web-dark)"/>
-<text class="nu" x="860" y="251.5" text-anchor="end">20</text>
-<rect x="20" y="287.0" width="840" height="1" fill="#21262d"/>
-<text class="nm" x="20" y="316.0">The Birth of Bilboo</text>
-<g fill="none" stroke="#6e7681" stroke-width="1.1"><rect x="161.6" y="309.0" width="7" height="5.5" rx="1.2" fill="#6e7681" stroke="none"/><path d="M163.0 309.0 v-1.6 a2.1 2.1 0 0 1 4.2 0 V309.0"/></g>
-<text class="ds" x="235" y="315.0">Birth announcement site for my child,</text>
-<text class="ds" x="235" y="329.0">containerised and self-hosted</text>
-<rect x="540.0" y="305.0" width="69.0" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
-<text class="ch" x="548.0" y="318.0">Laravel 11</text>
-<rect x="614.0" y="305.0" width="53.1" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
-<text class="ch" x="622.0" y="318.0">PHP 8.3</text>
-<rect x="540.0" y="329.0" width="47.8" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
-<text class="ch" x="548.0" y="342.0">Docker</text>
-<rect x="720" y="323.0" width="94" height="7" rx="3.5" fill="#21262d"/>
-<rect x="720" y="323.0" width="15.9" height="7" rx="3.5" fill="url(#g-web-dark)"/>
-<text class="nu" x="860" y="330.5" text-anchor="end">19</text>
-<rect x="20" y="354.0" width="840" height="1" fill="#21262d"/>
-<text class="nm" x="20" y="383.0">Netflix-style wedding</text>
-<text class="nm" x="20" y="399.0">invitation</text>
-<g fill="none" stroke="#6e7681" stroke-width="1.1"><rect x="96.9" y="392.0" width="7" height="5.5" rx="1.2" fill="#6e7681" stroke="none"/><path d="M98.3 392.0 v-1.6 a2.1 2.1 0 0 1 4.2 0 V392.0"/></g>
-<text class="ds" x="235" y="382.0">Our wedding invitation built as a</text>
-<text class="ds" x="235" y="396.0">streaming-service browse page, complete with</text>
-<text class="ds" x="235" y="410.0">title cards</text>
-<rect x="540.0" y="383.5" width="47.8" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
-<text class="ch" x="548.0" y="396.5">Nuxt 3</text>
-<rect x="592.8" y="383.5" width="31.9" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
-<text class="ch" x="600.8" y="396.5">Vue</text>
-<rect x="720" y="389.5" width="94" height="7" rx="3.5" fill="#21262d"/>
-<rect x="720" y="389.5" width="11.8" height="7" rx="3.5" fill="url(#g-web-dark)"/>
-<text class="nu" x="860" y="397.0" text-anchor="end">14</text>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.ti{font-size:19px;font-weight:600;fill:#34d399}.hd{font-size:10px;font-weight:600;fill:#6e7681;letter-spacing:.9px}.nm{font-size:12.5px;font-weight:600;fill:#e6edf3}.ds{font-size:11px;fill:#8b949e}.ch{font-size:10px;font-weight:500;fill:#34d399}.nu{font-size:12px;font-weight:600;fill:#e6edf3}</style>
+<rect x="0.5" y="0.5" width="879" height="467" rx="8" fill="#0d1117" stroke="#30363d"/>
+<g filter="url(#f-web-dark)"><rect x="20" y="27" width="5" height="23" rx="2.5" fill="#34d399"/></g>
+<text class="ti" x="36" y="46">Web &amp; Automation</text>
+<g filter="url(#f-web-dark)"><rect x="20" y="66" width="840" height="2" rx="1" fill="url(#g-web-dark)"/></g>
+<text class="hd" x="20" y="88">PROJECT</text>
+<text class="hd" x="235" y="88">WHAT IT DOES</text>
+<text class="hd" x="540" y="88">STACK</text>
+<text class="hd" x="720" y="88">COMMITS</text>
+<text class="nm" x="20" y="125.0">Tempong Order Hub &amp;</text>
+<text class="nm" x="20" y="141.0">n8n-warung</text>
+<g fill="none" stroke="#6e7681" stroke-width="1.1"><rect x="96.9" y="134.0" width="7" height="5.5" rx="1.2" fill="#6e7681" stroke="none"/><path d="M98.3 134.0 v-1.6 a2.1 2.1 0 0 1 4.2 0 V134.0"/></g>
+<text class="ds" x="235" y="124.0">Order management for a small food business,</text>
+<text class="ds" x="235" y="138.0">wired to automated workflows for orders,</text>
+<text class="ds" x="235" y="152.0">notifications and reporting</text>
+<rect x="540.0" y="114.0" width="53.1" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
+<text class="ch" x="548.0" y="127.0">FastAPI</text>
+<rect x="598.1" y="114.0" width="47.8" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
+<text class="ch" x="606.1" y="127.0">Python</text>
+<rect x="650.9" y="114.0" width="42.5" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
+<text class="ch" x="658.9" y="127.0">React</text>
+<rect x="540.0" y="138.0" width="69.0" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
+<text class="ch" x="548.0" y="151.0">PostgreSQL</text>
+<rect x="614.0" y="138.0" width="31.9" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
+<text class="ch" x="622.0" y="151.0">n8n</text>
+<rect x="720" y="132.0" width="94" height="7" rx="3.5" fill="#21262d"/>
+<rect x="720" y="132.0" width="94.0" height="7" rx="3.5" fill="url(#g-web-dark)"/>
+<text class="nu" x="860" y="139.5" text-anchor="end">112</text>
+<rect x="20" y="163.0" width="840" height="1" fill="#21262d"/>
+<text class="nm" x="20" y="192.0">family-finance</text>
+<g fill="none" stroke="#6e7681" stroke-width="1.1"><rect x="125.6" y="185.0" width="7" height="5.5" rx="1.2" fill="#6e7681" stroke="none"/><path d="M127.0 185.0 v-1.6 a2.1 2.1 0 0 1 4.2 0 V185.0"/></g>
+<text class="ds" x="235" y="191.0">Household budgeting and finance tracker</text>
+<rect x="540.0" y="181.0" width="53.1" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
+<text class="ch" x="548.0" y="194.0">Fastify</text>
+<rect x="598.1" y="181.0" width="69.0" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
+<text class="ch" x="606.1" y="194.0">TypeScript</text>
+<rect x="540.0" y="205.0" width="47.8" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
+<text class="ch" x="548.0" y="218.0">Prisma</text>
+<rect x="592.8" y="205.0" width="69.0" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
+<text class="ch" x="600.8" y="218.0">PostgreSQL</text>
+<rect x="720" y="199.0" width="94" height="7" rx="3.5" fill="#21262d"/>
+<rect x="720" y="199.0" width="62.1" height="7" rx="3.5" fill="url(#g-web-dark)"/>
+<text class="nu" x="860" y="206.5" text-anchor="end">74</text>
+<rect x="20" y="230.0" width="840" height="1" fill="#21262d"/>
+<text class="nm" x="20" y="259.0">RTRS - Remote Timer Rental</text>
+<text class="nm" x="20" y="275.0">System</text>
+<g fill="none" stroke="#6e7681" stroke-width="1.1"><rect x="68.1" y="268.0" width="7" height="5.5" rx="1.2" fill="#6e7681" stroke="none"/><path d="M69.5 268.0 v-1.6 a2.1 2.1 0 0 1 4.2 0 V268.0"/></g>
+<text class="ds" x="235" y="258.0">Session timers for a children's toy rental</text>
+<text class="ds" x="235" y="272.0">business that survive interruption and recover</text>
+<text class="ds" x="235" y="286.0">mid-session</text>
+<rect x="540.0" y="248.0" width="42.5" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
+<text class="ch" x="548.0" y="261.0">React</text>
+<rect x="587.5" y="248.0" width="69.0" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
+<text class="ch" x="595.5" y="261.0">TypeScript</text>
+<rect x="540.0" y="272.0" width="53.1" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
+<text class="ch" x="548.0" y="285.0">Express</text>
+<rect x="598.1" y="272.0" width="69.0" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
+<text class="ch" x="606.1" y="285.0">PostgreSQL</text>
+<rect x="540.0" y="296.0" width="47.8" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
+<text class="ch" x="548.0" y="309.0">Docker</text>
+<rect x="720" y="278.0" width="94" height="7" rx="3.5" fill="#21262d"/>
+<rect x="720" y="278.0" width="16.8" height="7" rx="3.5" fill="url(#g-web-dark)"/>
+<text class="nu" x="860" y="285.5" text-anchor="end">20</text>
+<rect x="20" y="321.0" width="840" height="1" fill="#21262d"/>
+<text class="nm" x="20" y="350.0">The Birth of Bilboo</text>
+<g fill="none" stroke="#6e7681" stroke-width="1.1"><rect x="161.6" y="343.0" width="7" height="5.5" rx="1.2" fill="#6e7681" stroke="none"/><path d="M163.0 343.0 v-1.6 a2.1 2.1 0 0 1 4.2 0 V343.0"/></g>
+<text class="ds" x="235" y="349.0">Birth announcement site for my child,</text>
+<text class="ds" x="235" y="363.0">containerised and self-hosted</text>
+<rect x="540.0" y="339.0" width="69.0" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
+<text class="ch" x="548.0" y="352.0">Laravel 11</text>
+<rect x="614.0" y="339.0" width="53.1" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
+<text class="ch" x="622.0" y="352.0">PHP 8.3</text>
+<rect x="540.0" y="363.0" width="47.8" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
+<text class="ch" x="548.0" y="376.0">Docker</text>
+<rect x="720" y="357.0" width="94" height="7" rx="3.5" fill="#21262d"/>
+<rect x="720" y="357.0" width="15.9" height="7" rx="3.5" fill="url(#g-web-dark)"/>
+<text class="nu" x="860" y="364.5" text-anchor="end">19</text>
+<rect x="20" y="388.0" width="840" height="1" fill="#21262d"/>
+<text class="nm" x="20" y="417.0">Netflix-style wedding</text>
+<text class="nm" x="20" y="433.0">invitation</text>
+<g fill="none" stroke="#6e7681" stroke-width="1.1"><rect x="96.9" y="426.0" width="7" height="5.5" rx="1.2" fill="#6e7681" stroke="none"/><path d="M98.3 426.0 v-1.6 a2.1 2.1 0 0 1 4.2 0 V426.0"/></g>
+<text class="ds" x="235" y="416.0">Our wedding invitation built as a</text>
+<text class="ds" x="235" y="430.0">streaming-service browse page, complete with</text>
+<text class="ds" x="235" y="444.0">title cards</text>
+<rect x="540.0" y="417.5" width="47.8" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
+<text class="ch" x="548.0" y="430.5">Nuxt 3</text>
+<rect x="592.8" y="417.5" width="31.9" height="19" rx="9.5" fill="#34d399" fill-opacity="0.18"/>
+<text class="ch" x="600.8" y="430.5">Vue</text>
+<rect x="720" y="423.5" width="94" height="7" rx="3.5" fill="#21262d"/>
+<rect x="720" y="423.5" width="11.8" height="7" rx="3.5" fill="url(#g-web-dark)"/>
+<text class="nu" x="860" y="431.0" text-anchor="end">14</text>
 </svg>
