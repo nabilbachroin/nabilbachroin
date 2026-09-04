@@ -1,7 +1,7 @@
 <h1 align="center">Nabil Bachroin</h1>
 
 <p align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=00B4D8&center=true&vCenter=true&width=560&lines=Embedded+Firmware+Engineer;BLE+%26+USB+Audio+on+Actions+SoCs;Opus+Codec+%26+DSP+Optimization;Bare-metal+C+by+day%2C+TypeScript+by+night" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=00B4D8&center=true&vCenter=true&width=560&lines=Embedded+Firmware+Engineer;Low-Latency+Wireless+Audio+%26+HID;Opus+Codec+%26+DSP+Optimization;Bare-metal+C+by+day%2C+TypeScript+by+night" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ### 🔌 About
 
-- Embedded firmware engineer working on **Bluetooth audio & HID SoCs** — Actions `ATS2855` / `ATS308X` / `ATS3085`, Nordic `nRF5`
+- Embedded firmware engineer working on **Bluetooth audio & HID system-on-chips**
 - Day-to-day: **BLE stacks, USB HID / XInput, Opus codec & DSP optimization**, low-latency wireless audio
 - Research background in **computer vision** — NeRF, volumetric rendering, 3D reconstruction
 - Based in **Taipei, Taiwan** 🇹🇼 · originally from **Banyuwangi, Indonesia** 🇮🇩
@@ -42,7 +42,6 @@
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Bluetooth LE](https://img.shields.io/badge/Bluetooth%20LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 ![USB HID](https://img.shields.io/badge/USB%20HID-1B1B1B?style=for-the-badge&logo=usb&logoColor=white)
-![Nordic nRF](https://img.shields.io/badge/Nordic%20nRF5-00A9CE?style=for-the-badge&logo=nordicsemiconductor&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
@@ -71,8 +70,8 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **BLE Audio & HID Firmware** *(private, NDA)* | Production firmware for Bluetooth gamepads and wireless audio devices — BLE stack, USB HID/XInput, dual-mode connectivity | C, Actions SoC |
-| **Opus Codec DSP Optimization** *(private, NDA)* | Cycle-level optimization of the Opus codec bank for a resource-constrained DSP core | C, Assembly |
+| **BLE Audio & HID Firmware** *(private, NDA)* | Production firmware for Bluetooth gamepads and wireless audio devices — BLE stack, USB HID/XInput, dual-mode connectivity | C, bare-metal |
+| **Audio Codec DSP Optimization** *(private, NDA)* | Cycle-level optimization of an audio codec bank for a resource-constrained DSP core | C, Assembly |
 | **Tempong Order Hub** | Order management system for a small food business — API, web app, WhatsApp integration | Python, TypeScript |
 | **family-finance** | Personal finance tracker for household budgeting | TypeScript |
 | **n8n-warung** | Workflow automation for a small shop: orders, notifications, reporting | JavaScript, n8n |
@@ -88,8 +87,7 @@
 </p>
 
 <p align="center">
-  <img alt="Languages" src="./metrics/languages.svg" width="48%" />
-  <img alt="Coding habits" src="./metrics/habits.svg" width="48%" />
+  <img alt="Languages" src="./metrics/languages.svg" width="60%" />
 </p>
 
 <p align="center">
