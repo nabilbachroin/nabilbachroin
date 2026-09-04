@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="360" viewBox="0 0 880 360">
+<defs>
+<linearGradient id="g-emb-light" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#10b981"/>
+<stop offset="55%" stop-color="#0ea5e9"/>
+<stop offset="100%" stop-color="#6366f1"/>
+</linearGradient>
+</defs>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.ti{font-size:15px;font-weight:600;fill:#0969da}.hd{font-size:9.5px;font-weight:600;fill:#8c959f;letter-spacing:.9px}.nm{font-size:12.5px;font-weight:600;fill:#1f2328}.ds{font-size:11px;fill:#656d76}.ch{font-size:10px;font-weight:500;fill:#0969da}.nu{font-size:12px;font-weight:600;fill:#1f2328}</style>
+<rect x="0.5" y="0.5" width="879" height="359" rx="8" fill="#ffffff" stroke="#d8dee4"/>
+<rect x="20" y="30" width="4" height="16" rx="2" fill="#0969da"/>
+<text class="ti" x="34" y="43">Embedded &amp; Firmware</text>
+<rect x="20" y="46" width="840" height="1.5" rx="0.75" fill="url(#g-emb-light)"/>
+<text class="hd" x="20" y="58">PROJECT</text>
+<text class="hd" x="220" y="58">WHAT IT DOES</text>
+<text class="hd" x="540" y="58">STACK</text>
+<text class="hd" x="730" y="58">COMMITS</text>
+<text class="nm" x="20" y="82.0">Licensed game controller firmware</text>
+<g fill="none" stroke="#8c959f" stroke-width="1.1"><rect x="191.0" y="75.5" width="7" height="5.5" rx="1.2" fill="#8c959f" stroke="none"/><path d="M192.4 75.5 v-1.6 a2.1 2.1 0 0 1 4.2 0 V75.5"/></g>
+<text class="ds" x="220" y="81.0">USB XInput, BLE HID, dual-mode pairing and USB</text>
+<text class="ds" x="220" y="95.0">audio on a single device</text>
+<rect x="540.0" y="90.5" width="21.3" height="19" rx="9.5" fill="#0969da" fill-opacity="0.14"/>
+<text class="ch" x="548.0" y="103.5">C</text>
+<rect x="566.3" y="90.5" width="31.9" height="19" rx="9.5" fill="#0969da" fill-opacity="0.14"/>
+<text class="ch" x="574.3" y="103.5">BLE</text>
+<rect x="603.2" y="90.5" width="53.1" height="19" rx="9.5" fill="#0969da" fill-opacity="0.14"/>
+<text class="ch" x="611.2" y="103.5">USB HID</text>
+<rect x="730" y="96.5" width="84" height="7" rx="3.5" fill="#eaeef2"/>
+<rect x="730" y="96.5" width="82.5" height="7" rx="3.5" fill="url(#g-emb-light)"/>
+<text class="nu" x="860" y="104.0" text-anchor="end">110</text>
+<rect x="20" y="126.0" width="840" height="1" fill="#eaeef2"/>
+<text class="nm" x="20" y="146.0">Ultra-low-latency wireless HID &amp; audio</text>
+<g fill="none" stroke="#8c959f" stroke-width="1.1"><rect x="191.0" y="139.5" width="7" height="5.5" rx="1.2" fill="#8c959f" stroke="none"/><path d="M192.4 139.5 v-1.6 a2.1 2.1 0 0 1 4.2 0 V139.5"/></g>
+<text class="ds" x="220" y="145.0">The latency-critical path for wireless input and</text>
+<text class="ds" x="220" y="159.0">audio: radio scheduling and buffering tuned until</text>
+<text class="ds" x="220" y="173.0">the lag stops being perceptible</text>
+<rect x="540.0" y="161.5" width="21.3" height="19" rx="9.5" fill="#0969da" fill-opacity="0.14"/>
+<text class="ch" x="548.0" y="174.5">C</text>
+<rect x="566.3" y="161.5" width="31.9" height="19" rx="9.5" fill="#0969da" fill-opacity="0.14"/>
+<text class="ch" x="574.3" y="174.5">BLE</text>
+<rect x="603.2" y="161.5" width="37.2" height="19" rx="9.5" fill="#0969da" fill-opacity="0.14"/>
+<text class="ch" x="611.2" y="174.5">RTOS</text>
+<rect x="730" y="167.5" width="84" height="7" rx="3.5" fill="#eaeef2"/>
+<rect x="730" y="167.5" width="61.5" height="7" rx="3.5" fill="url(#g-emb-light)"/>
+<text class="nu" x="860" y="175.0" text-anchor="end">82</text>
+<rect x="20" y="204.0" width="840" height="1" fill="#eaeef2"/>
+<text class="nm" x="20" y="224.0">Audio codec DSP development</text>
+<g fill="none" stroke="#8c959f" stroke-width="1.1"><rect x="191.0" y="217.5" width="7" height="5.5" rx="1.2" fill="#8c959f" stroke="none"/><path d="M192.4 217.5 v-1.6 a2.1 2.1 0 0 1 4.2 0 V217.5"/></g>
+<text class="ds" x="220" y="223.0">Opus and LC3 codec development on a</text>
+<text class="ds" x="220" y="237.0">resource-constrained DSP core, optimised at the</text>
+<text class="ds" x="220" y="251.0">cycle level</text>
+<rect x="540.0" y="239.5" width="21.3" height="19" rx="9.5" fill="#0969da" fill-opacity="0.14"/>
+<text class="ch" x="548.0" y="252.5">C</text>
+<rect x="566.3" y="239.5" width="58.4" height="19" rx="9.5" fill="#0969da" fill-opacity="0.14"/>
+<text class="ch" x="574.3" y="252.5">Assembly</text>
+<rect x="629.7" y="239.5" width="31.9" height="19" rx="9.5" fill="#0969da" fill-opacity="0.14"/>
+<text class="ch" x="637.7" y="252.5">DSP</text>
+<rect x="730" y="245.5" width="84" height="7" rx="3.5" fill="#eaeef2"/>
+<text class="nu" x="860" y="253.0" text-anchor="end" fill="#8c959f">&#8212;</text>
+<rect x="20" y="282.0" width="840" height="1" fill="#eaeef2"/>
+<text class="nm" x="20" y="302.0">Wireless ESL / EPD display</text>
+<g fill="none" stroke="#8c959f" stroke-width="1.1"><rect x="191.0" y="295.5" width="7" height="5.5" rx="1.2" fill="#8c959f" stroke="none"/><path d="M192.4 295.5 v-1.6 a2.1 2.1 0 0 1 4.2 0 V295.5"/></g>
+<text class="ds" x="220" y="301.0">Firmware for battery-powered electronic shelf</text>
+<text class="ds" x="220" y="315.0">labels driving e-paper panels over a wireless link</text>
+<rect x="540.0" y="310.5" width="21.3" height="19" rx="9.5" fill="#0969da" fill-opacity="0.14"/>
+<text class="ch" x="548.0" y="323.5">C</text>
+<rect x="566.3" y="310.5" width="53.1" height="19" rx="9.5" fill="#0969da" fill-opacity="0.14"/>
+<text class="ch" x="574.3" y="323.5">e-paper</text>
+<rect x="624.4" y="310.5" width="31.9" height="19" rx="9.5" fill="#0969da" fill-opacity="0.14"/>
+<text class="ch" x="632.4" y="323.5">BLE</text>
+<rect x="730" y="316.5" width="84" height="7" rx="3.5" fill="#eaeef2"/>
+<rect x="730" y="316.5" width="27.8" height="7" rx="3.5" fill="url(#g-emb-light)"/>
+<text class="nu" x="860" y="324.0" text-anchor="end">37</text>
+</svg>
