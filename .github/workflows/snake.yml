@@ -2,7 +2,7 @@ name: Snake
 
 on:
   schedule:
-    - cron: "30 17 * * *" # 30 min after the metrics job
+    - cron: "53 17 * * *" # 30 min after the metrics job; odd minute avoids the :00 load spike
   workflow_dispatch:
   push:
     branches: ["main"]
