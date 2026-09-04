@@ -74,13 +74,21 @@
 
 **Embedded, RTOS & Protocols**
 
-FreeRTOS · Zephyr · Keil MDK · Bluetooth LE · USB HID / XInput · Opus & LC3 codecs · DSP optimisation
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logoColor=white)
+![Zephyr](https://img.shields.io/badge/Zephyr%20RTOS-009C82?style=for-the-badge&logoColor=white)
+![Keil MDK](https://img.shields.io/badge/Keil%20MDK-D9820D?style=for-the-badge&logoColor=white)
+![Bluetooth LE](https://img.shields.io/badge/Bluetooth%20LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![USB HID / XInput](https://img.shields.io/badge/USB%20HID%20%2F%20XInput-2C5282?style=for-the-badge&logoColor=white)
+![Opus & LC3](https://img.shields.io/badge/Opus%20%26%20LC3-7B2CBF?style=for-the-badge&logoColor=white)
+![DSP](https://img.shields.io/badge/DSP%20Optimisation-9333EA?style=for-the-badge&logoColor=white)
 
-<!-- This row is typography rather than icons on purpose: FreeRTOS, Zephyr and
-     Keil MDK have no logo in skillicons.dev, and simple-icons (which shields.io
-     draws from) returns 404 for freertos, zephyrproject and keil. Text badges
-     here would sit badly beside the uniform icon grid above, so the row is set
-     as plain type instead. n8n and Fastify are in the same position. -->
+<!-- These are badges rather than icon tiles because none of them has a logo to
+     use: skillicons.dev has no FreeRTOS, Zephyr or Keil, and simple-icons (what
+     shields.io draws from) 404s on freertos, zephyrproject and keil. Bluetooth
+     is the one exception and does carry its logo.
+     Colours group the row by category rather than being decorative: teal for
+     RTOS, amber for the toolchain, blue for wire protocols, purple for codec
+     and DSP work. -->
 
 ### 🚀 Selected Work
 
@@ -89,7 +97,35 @@ have not opened up. Nothing here is linked: the firmware work is under NDA, and
 the personal sites are unlisted by design. Firmware entries are described by the
 technology rather than the platform holder.
 
-<details open>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-emb-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./metrics/projects-emb.svg" />
+    <img alt="🔌 Embedded &amp; Firmware" src="./metrics/projects-emb.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-web-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./metrics/projects-web.svg" />
+    <img alt="🌐 Web &amp; Automation" src="./metrics/projects-web.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-ml-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./metrics/projects-ml.svg" />
+    <img alt="🧠 Machine Learning &amp; Research" src="./metrics/projects-ml.svg" />
+  </picture>
+</p>
+
+<details>
+<summary>Same content as selectable text &#8212; the cards above are images, so this table is here for screen readers, search and copy-paste</summary>
+<br />
+
+<details>
 <summary><b>🔌 Embedded &amp; Firmware</b></summary>
 <br />
 
@@ -102,7 +138,7 @@ technology rather than the platform holder.
 
 </details>
 
-<details open>
+<details>
 <summary><b>🌐 Web &amp; Automation</b></summary>
 <br />
 
@@ -116,7 +152,7 @@ technology rather than the platform holder.
 
 </details>
 
-<details open>
+<details>
 <summary><b>🧠 Machine Learning &amp; Research</b></summary>
 <br />
 
@@ -125,6 +161,8 @@ technology rather than the platform holder.
 | **VE3DOR** | 3D object reconstruction taking NeRF as the baseline and extending it, with reconstruction quality scored by IoU and Chamfer Distance | Python · Jupyter · nerfstudio |
 | **Baby cry classification** 🔒 | Classifies *why* an infant is crying — belly pain, hunger, discomfort, tiredness — from audio converted to spectrograms | Python · Jupyter |
 | **clusterCraft** 🔒 | A finite state machine for cluster coordination | Python |
+
+</details>
 
 </details>
 
