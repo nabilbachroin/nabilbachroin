@@ -26,45 +26,48 @@
 
 <p align="left">
   <!-- FILL-2: tambahkan GitLab / portfolio / X / IG di sini bila perlu -->
-  <!-- FILL-1: kirim URL LinkedIn, lalu hapus dua baris penanda komentar ini
-  <a href="LINKEDIN_URL"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Nabil%20Bachroin-0A66C2?logo=linkedin-white&logoColor=white" /></a>
-  -->
+  <a href="https://www.linkedin.com/in/nabilbachroin/"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Nabil%20Bachroin-0A66C2?logo=linkedin-white&logoColor=white" /></a>
   <a href="https://github.com/nabilbachroin"><img alt="GitHub" src="https://img.shields.io/badge/-nabilbachroin-0d1117?style=flat&logo=github" /></a>
   <a href="mailto:nabilbachroin@nabloom.id"><img alt="Email" src="https://img.shields.io/badge/-nabilbachroin@nabloom.id-c14438?style=flat&logo=maildotru&logoColor=white" /></a>
 </p>
 
 ### 🧰 Tech Stack
 
-**Embedded & Firmware**
+**Programming Languages & Frameworks**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=gnubash&logoColor=white)
-![Bluetooth LE](https://img.shields.io/badge/Bluetooth%20LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
-![USB HID](https://img.shields.io/badge/USB%20HID-1B1B1B?style=for-the-badge&logo=usb&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,python,ts,js,php,nodejs,express,fastapi,laravel,react,vue,nuxtjs,vite&theme=dark&perline=14" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,python,ts,js,php,nodejs,express,fastapi,laravel,react,vue,nuxtjs,vite&theme=light&perline=14" />
+    <img alt="C, C++, Python, TypeScript, JavaScript, PHP, Node.js, Express, FastAPI, Laravel, React, Vue, Nuxt, Vite" src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,php,nodejs,express,fastapi,laravel,react,vue,nuxtjs,vite&theme=dark&perline=14" />
+  </picture>
+</p>
 
-**Software & Web**
+**Database & ORM**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,prisma&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,prisma&theme=light" />
+    <img alt="PostgreSQL, Prisma" src="https://skillicons.dev/icons?i=postgres,prisma&theme=dark" />
+  </picture>
+</p>
 
-**Tooling**
+**Tools**
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,vscode,docker,postman,linux,bash,cmake&theme=dark&perline=9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,vscode,docker,postman,linux,bash,cmake&theme=light&perline=9" />
+    <img alt="Git, GitHub, GitLab, VS Code, Docker, Postman, Linux, Bash, CMake" src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,docker,postman,linux,bash,cmake&theme=dark&perline=9" />
+  </picture>
+</p>
 
-<!-- FILL-3: tambah/hapus badge sesuai kenyataan. Kandidat yang belum saya masukkan
-     karena belum ada buktinya di repo: FreeRTOS, Zephyr, Segger J-Link, Keil MDK,
-     Docker, Laravel, React. Kabari kalau memang kamu pakai. -->
+<!-- Icon-only, via skillicons.dev. Domain expertise that has no icon anywhere
+     (BLE stacks, USB HID/XInput, audio codec DSP work) is carried by the About
+     and Selected Work sections instead of being forced into this grid.
+     FILL-3: n8n is genuinely used but skillicons has no icon for it; likewise
+     Fastify. Say the word if you want them back as text badges. -->
 
 ### 🚀 Selected Work
 
@@ -87,7 +90,11 @@
 </p>
 
 <p align="center">
-  <img alt="Most used languages" src="./metrics/languages.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./metrics/languages.svg" />
+    <img alt="Top languages" src="./metrics/languages.svg" />
+  </picture>
 </p>
 
 <p align="center">
@@ -97,17 +104,6 @@
     <img alt="Streak" src="https://streak-stats.demolab.com?user=nabilbachroin&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   </picture>
 </p>
-
-<!-- ── github-readme-stats ────────────────────────────────────────────────────
-     SENGAJA DINONAKTIFKAN. Instance publiknya tidak bisa membaca repo privat,
-     jadi kartunya akan menampilkan 0 commit / 0 star — memalukan, bukan menarik.
-     Aktifkan blok ini HANYA setelah kamu deploy instance sendiri di Vercel,
-     lalu ganti YOUR-INSTANCE dengan domain Vercel milikmu.
-
-<p align="center">
-  <img alt="Stats" src="https://YOUR-INSTANCE.vercel.app/api?username=nabilbachroin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react" height="180" />
-</p>
-─────────────────────────────────────────────────────────────────────────── -->
 
 ### 🐍 Contribution Graph
 
