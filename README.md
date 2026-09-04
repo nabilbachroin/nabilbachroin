@@ -86,12 +86,9 @@
   <img alt="Overview" src="./metrics/overview.svg" />
 </p>
 
-<!-- Dinonaktifkan sementara: kartu ini masih "0 Languages".
-     Otomatis diperbaiki oleh generator privat; buka komentarnya setelah itu.
 <p align="center">
-  <img alt="Languages" src="./metrics/languages.svg" width="60%" />
+  <img alt="Most used languages" src="./metrics/languages.svg" />
 </p>
--->
 
 <p align="center">
   <picture>
