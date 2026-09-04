@@ -80,8 +80,9 @@ FreeRTOS · Zephyr · Keil MDK · Bluetooth LE · USB HID / XInput · Opus & LC3
 ### 🚀 Selected Work
 
 🔒 marks a private repository — client work under NDA, or a personal project I
-have not opened up. Firmware entries are described by the technology rather than
-the platform holder.
+have not opened up. Nothing here is linked: the firmware work is under NDA, and
+the personal sites are unlisted by design. Firmware entries are described by the
+technology rather than the platform holder.
 
 <details open>
 <summary><b>🔌 Embedded &amp; Firmware</b></summary>
@@ -102,7 +103,7 @@ the platform holder.
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[The Birth of Bilboo](https://birth-of-bilboo.nabloom.id)** | Birth announcement site for my child, containerised and self-hosted — **live** | Laravel 11 · PHP 8.3 · Docker |
+| **The Birth of Bilboo** 🔒 | Birth announcement site for my child, containerised and self-hosted | Laravel 11 · PHP 8.3 · Docker |
 | **Netflix-style wedding invitation** 🔒 | Our wedding invitation built as a streaming-service browse page, complete with title cards | Nuxt 3 · Vue |
 | **RTRS — Remote Timer Rental System** 🔒 | Rental management for a children's toy rental business: session timers that survive interruption and recover mid-session | React · TypeScript · Express · PostgreSQL · Docker |
 | **Tempong Order Hub & n8n-warung** 🔒 | Order management for a small food business, wired to automated workflows for orders, notifications and reporting | FastAPI · Python · React · PostgreSQL · n8n |
@@ -116,7 +117,7 @@ the platform holder.
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[VE3DOR](https://github.com/nabilbachroin/VE3DOR)** | 3D object reconstruction taking NeRF as the baseline and extending it, with reconstruction quality scored by IoU and Chamfer Distance | Python · Jupyter · nerfstudio |
+| **VE3DOR** | 3D object reconstruction taking NeRF as the baseline and extending it, with reconstruction quality scored by IoU and Chamfer Distance | Python · Jupyter · nerfstudio |
 | **Baby cry classification** 🔒 | Classifies *why* an infant is crying — belly pain, hunger, discomfort, tiredness — from audio converted to spectrograms | Python · Jupyter |
 | **clusterCraft** 🔒 | A finite state machine for cluster coordination | Python |
 
