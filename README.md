@@ -25,8 +25,12 @@
 ### 🌐 Connect
 
 <p align="left">
-  <!-- FILL-2: tambahkan GitLab / portfolio / X / IG di sini bila perlu -->
+  <!-- GitLab deliberately not linked: the account lives on an internal office
+       host at a private RFC 1918 address, so the link is unreachable from
+       outside and would only publish internal network detail. The GitLab icon
+       in Tools already covers the experience. -->
   <a href="https://www.linkedin.com/in/nabilbachroin/"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Nabil%20Bachroin-0A66C2?logo=linkedin-white&logoColor=white" /></a>
+  <a href="https://www.instagram.com/nabilbachroin/"><img alt="Instagram" src="https://img.shields.io/badge/-nabilbachroin-bf3a96?style=flat&logo=instagram&logoColor=white" /></a>
   <a href="https://github.com/nabilbachroin"><img alt="GitHub" src="https://img.shields.io/badge/-nabilbachroin-0d1117?style=flat&logo=github" /></a>
   <a href="mailto:nabilbachroin@nabloom.id"><img alt="Email" src="https://img.shields.io/badge/-nabilbachroin@nabloom.id-c14438?style=flat&logo=maildotru&logoColor=white" /></a>
 </p>
@@ -63,25 +67,60 @@
   </picture>
 </p>
 
-<!-- Icon-only, via skillicons.dev. Domain expertise that has no icon anywhere
-     (BLE stacks, USB HID/XInput, audio codec DSP work) is carried by the About
-     and Selected Work sections instead of being forced into this grid.
-     FILL-3: n8n is genuinely used but skillicons has no icon for it; likewise
-     Fastify. Say the word if you want them back as text badges. -->
+**Embedded, RTOS & Protocols**
+
+FreeRTOS · Zephyr · Keil MDK · Bluetooth LE · USB HID / XInput · Opus & LC3 codecs · DSP optimisation
+
+<!-- This row is typography rather than icons on purpose: FreeRTOS, Zephyr and
+     Keil MDK have no logo in skillicons.dev, and simple-icons (which shields.io
+     draws from) returns 404 for freertos, zephyrproject and keil. Text badges
+     here would sit badly beside the uniform icon grid above, so the row is set
+     as plain type instead. n8n and Fastify are in the same position. -->
 
 ### 🚀 Selected Work
 
-| Project | What it is | Stack |
-|---|---|---|
-| **BLE Audio & HID Firmware** *(private, NDA)* | Production firmware for Bluetooth gamepads and wireless audio devices — BLE stack, USB HID/XInput, dual-mode connectivity | C, bare-metal |
-| **Audio Codec DSP Optimization** *(private, NDA)* | Cycle-level optimization of an audio codec bank for a resource-constrained DSP core | C, Assembly |
-| **Tempong Order Hub** | Order management system for a small food business — API, web app, WhatsApp integration | Python, TypeScript |
-| **family-finance** | Personal finance tracker for household budgeting | TypeScript |
-| **n8n-warung** | Workflow automation for a small shop: orders, notifications, reporting | JavaScript, n8n |
-| **VE3DOR / TransX-Ray** | Research code: 3D reconstruction and X-ray transform experiments | Python, Jupyter |
+🔒 marks a private repository — client work under NDA, or a personal project I
+have not opened up. Firmware entries are described by the technology rather than
+the platform holder.
 
-<!-- FILL-4: koreksi deskripsinya, dan bilang mana yang repo-nya mau kamu jadikan publik
-     supaya judulnya bisa saya ubah jadi link. -->
+<details open>
+<summary><b>🔌 Embedded &amp; Firmware</b></summary>
+<br />
+
+| Project | What it does | Stack |
+|---|---|---|
+| **Licensed game controller firmware** 🔒 | Production firmware for wireless game controllers: USB XInput, BLE HID, dual-mode pairing, and USB audio on the same device | C · BLE · USB HID |
+| **Ultra-low-latency wireless HID & audio** 🔒 | The latency-critical path for wireless input and audio — radio scheduling and buffering tuned until the lag stops being perceptible | C · BLE · RTOS |
+| **Audio codec DSP development** 🔒 | Opus and LC3 codec development on a resource-constrained DSP core, optimised at the cycle level | C · Assembly · DSP |
+| **Wireless ESL / EPD display** 🔒 | Firmware for battery-powered electronic shelf labels driving e-paper panels over a wireless link | C · e-paper · BLE |
+
+</details>
+
+<details open>
+<summary><b>🌐 Web &amp; Automation</b></summary>
+<br />
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[The Birth of Bilboo](https://birth-of-bilboo.nabloom.id)** | Birth announcement site for my child, containerised and self-hosted — **live** | Laravel 11 · PHP 8.3 · Docker |
+| **Netflix-style wedding invitation** 🔒 | Our wedding invitation built as a streaming-service browse page, complete with title cards | Nuxt 3 · Vue |
+| **RTRS — Remote Timer Rental System** 🔒 | Rental management for a children's toy rental business: session timers that survive interruption and recover mid-session | React · TypeScript · Express · PostgreSQL · Docker |
+| **Tempong Order Hub & n8n-warung** 🔒 | Order management for a small food business, wired to automated workflows for orders, notifications and reporting | FastAPI · Python · React · PostgreSQL · n8n |
+| **family-finance** 🔒 | Household budgeting and finance tracker | Fastify · TypeScript · Prisma · PostgreSQL |
+
+</details>
+
+<details open>
+<summary><b>🧠 Machine Learning &amp; Research</b></summary>
+<br />
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[VE3DOR](https://github.com/nabilbachroin/VE3DOR)** | 3D object reconstruction taking NeRF as the baseline and extending it, with reconstruction quality scored by IoU and Chamfer Distance | Python · Jupyter · nerfstudio |
+| **Baby cry classification** 🔒 | Classifies *why* an infant is crying — belly pain, hunger, discomfort, tiredness — from audio converted to spectrograms | Python · Jupyter |
+| **clusterCraft** 🔒 | A finite state machine for cluster coordination | Python |
+
+</details>
 
 ### 📊 GitHub Metrics
 
