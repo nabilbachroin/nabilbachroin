@@ -74,21 +74,24 @@
 
 **Embedded, RTOS & Protocols**
 
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logoColor=white)
-![Zephyr](https://img.shields.io/badge/Zephyr%20RTOS-009C82?style=for-the-badge&logoColor=white)
-![Keil MDK](https://img.shields.io/badge/Keil%20MDK-D9820D?style=for-the-badge&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBkPSJNMTkuNSAxMy41QTggOCAwIDEgMSAxNiA1LjgiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjEuNCAzLjJsLjYgNi4yLTYtMS41eiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjIuNiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==&logoColor=white)
+![Zephyr RTOS](https://img.shields.io/badge/Zephyr%20RTOS-009C82?style=for-the-badge&logo=linuxfoundation&logoColor=white)
+![Keil MDK](https://img.shields.io/badge/Keil%20MDK-D9820D?style=for-the-badge&logo=arm&logoColor=white)
 ![Bluetooth LE](https://img.shields.io/badge/Bluetooth%20LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
-![USB HID / XInput](https://img.shields.io/badge/USB%20HID%20%2F%20XInput-2C5282?style=for-the-badge&logoColor=white)
-![Opus & LC3](https://img.shields.io/badge/Opus%20%26%20LC3-7B2CBF?style=for-the-badge&logoColor=white)
-![DSP](https://img.shields.io/badge/DSP%20Optimisation-9333EA?style=for-the-badge&logoColor=white)
+![USB HID / XInput](https://img.shields.io/badge/USB%20HID%20%2F%20XInput-2C5282?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEuOSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBkPSJNNSAxMmgxM00xMC41IDEybDMuNS00LjZNMTMuNSAxMmwtMy41IDQuNiIvPjxjaXJjbGUgY3g9IjQuNCIgY3k9IjEyIiByPSIyLjQiIGZpbGw9IiNmZmYiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTcuNiA4LjloMy40djMuNGgtMy40eiIvPjxjaXJjbGUgY3g9IjkuNiIgY3k9IjE3LjQiIHI9IjIuMiIgZmlsbD0iI2ZmZiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xOC40IDkuMmw0LjQgMi44LTQuNCAyLjh6Ii8+PC9zdmc+&logoColor=white)
+![Opus & LC3](https://img.shields.io/badge/Opus%20%26%20LC3-7B2CBF?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGcgZmlsbD0iI2ZmZiI+PHJlY3QgeD0iMi40IiB5PSI5IiB3aWR0aD0iMi44IiBoZWlnaHQ9IjYiIHJ4PSIxLjQiLz48cmVjdCB4PSI3LjIiIHk9IjQuNSIgd2lkdGg9IjIuOCIgaGVpZ2h0PSIxNSIgcng9IjEuNCIvPjxyZWN0IHg9IjEyIiB5PSI3IiB3aWR0aD0iMi44IiBoZWlnaHQ9IjEwIiByeD0iMS40Ii8+PHJlY3QgeD0iMTYuOCIgeT0iMi44IiB3aWR0aD0iMi44IiBoZWlnaHQ9IjE4LjQiIHJ4PSIxLjQiLz48L2c+PC9zdmc+&logoColor=white)
+![DSP Optimisation](https://img.shields.io/badge/DSP%20Optimisation-9333EA?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZD0iTTEuNSAxMmMyLjYtNy40IDUuMi03LjQgNy44IDBzNS4yIDcuNCA3LjggMCAzLjktNC42IDUuNC0zLjQiLz48ZyBmaWxsPSIjZmZmIj48Y2lyY2xlIGN4PSI1LjQiIGN5PSI2LjQiIHI9IjEuNyIvPjxjaXJjbGUgY3g9IjEyLjkiIGN5PSIxNy42IiByPSIxLjciLz48Y2lyY2xlIGN4PSIyMC40IiBjeT0iOC45IiByPSIxLjciLz48L2c+PC9zdmc+&logoColor=white)
 
-<!-- These are badges rather than icon tiles because none of them has a logo to
-     use: skillicons.dev has no FreeRTOS, Zephyr or Keil, and simple-icons (what
-     shields.io draws from) 404s on freertos, zephyrproject and keil. Bluetooth
-     is the one exception and does carry its logo.
-     Colours group the row by category rather than being decorative: teal for
-     RTOS, amber for the toolchain, blue for wire protocols, purple for codec
-     and DSP work. -->
+<!-- Every badge carries an icon. Bluetooth uses its own simple-icons
+     logo; Keil MDK uses the Arm logo because Keil MDK is an Arm product,
+     and Zephyr the Linux Foundation logo because Zephyr is an LF project.
+     FreeRTOS, USB, Opus/LC3 and DSP have no simple-icons entry at all, so
+     those four pass a hand-drawn glyph through shields.io's
+     `logo=data:image/svg+xml;base64,...` parameter - which is why those
+     URLs are long. The glyphs are symbolic, not official marks, except the
+     USB trident which is the real USB symbol.
+     Colours group the row by category: teal for RTOS, amber for the
+     toolchain, blue for wire protocols, purple for codec and DSP work. -->
 
 ### 🚀 Selected Work
 
