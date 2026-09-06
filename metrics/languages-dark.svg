@@ -13,8 +13,8 @@
 <text class="p" x="860" y="110.0" text-anchor="end">16.5%</text>
 <text class="n" x="20" y="138.0">Python</text>
 <rect x="170" y="129.0" width="632" height="10" rx="5.0" fill="#21262d"/>
-<rect x="170" y="129.0" width="86.8" height="10" rx="5.0" fill="#3572A5"/>
-<text class="p" x="860" y="138.0" text-anchor="end">13.7%</text>
+<rect x="170" y="129.0" width="86.0" height="10" rx="5.0" fill="#3572A5"/>
+<text class="p" x="860" y="138.0" text-anchor="end">13.6%</text>
 <text class="n" x="20" y="166.0">HTML</text>
 <rect x="170" y="157.0" width="632" height="10" rx="5.0" fill="#21262d"/>
 <rect x="170" y="157.0" width="62.0" height="10" rx="5.0" fill="#e34c26"/>
@@ -23,14 +23,14 @@
 <rect x="170" y="185.0" width="632" height="10" rx="5.0" fill="#21262d"/>
 <rect x="170" y="185.0" width="38.2" height="10" rx="5.0" fill="#f34b7d"/>
 <text class="p" x="860" y="194.0" text-anchor="end">6.0%</text>
-<text class="n" x="20" y="222.0">TypeScript</text>
+<text class="n" x="20" y="222.0">JavaScript</text>
 <rect x="170" y="213.0" width="632" height="10" rx="5.0" fill="#21262d"/>
-<rect x="170" y="213.0" width="31.1" height="10" rx="5.0" fill="#3178c6"/>
+<rect x="170" y="213.0" width="31.2" height="10" rx="5.0" fill="#f1e05a"/>
 <text class="p" x="860" y="222.0" text-anchor="end">4.9%</text>
-<text class="n" x="20" y="250.0">JavaScript</text>
+<text class="n" x="20" y="250.0">TypeScript</text>
 <rect x="170" y="241.0" width="632" height="10" rx="5.0" fill="#21262d"/>
-<rect x="170" y="241.0" width="30.3" height="10" rx="5.0" fill="#f1e05a"/>
-<text class="p" x="860" y="250.0" text-anchor="end">4.8%</text>
+<rect x="170" y="241.0" width="31.1" height="10" rx="5.0" fill="#3178c6"/>
+<text class="p" x="860" y="250.0" text-anchor="end">4.9%</text>
 <text class="n" x="20" y="278.0">Perl</text>
 <rect x="170" y="269.0" width="632" height="10" rx="5.0" fill="#21262d"/>
 <rect x="170" y="269.0" width="15.1" height="10" rx="5.0" fill="#0298c3"/>

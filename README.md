@@ -24,28 +24,28 @@ Professional work is described by technology. Personal projects and family websi
 <!-- PROJECTS:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-emb-mobile-dark.svg?v=d6f138417ab9" />
-    <source media="(max-width: 600px)" srcset="./metrics/projects-emb-mobile.svg?v=b7578629077d" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-emb-dark.svg?v=f71c6e56599a" />
-    <img alt="Embedded &amp; Firmware" src="./metrics/projects-emb.svg?v=a366153cb858" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-emb-mobile-dark.svg?v=d3db5f640f00" />
+    <source media="(max-width: 600px)" srcset="./metrics/projects-emb-mobile.svg?v=1033b3c56a8a" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-emb-dark.svg?v=b7a7dae809dc" />
+    <img alt="Embedded &amp; Firmware" src="./metrics/projects-emb.svg?v=a3ecb5b0782a" width="880" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-web-mobile-dark.svg?v=136213f1d99a" />
-    <source media="(max-width: 600px)" srcset="./metrics/projects-web-mobile.svg?v=d3bf1e1ec3c7" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-web-dark.svg?v=a16db0e17878" />
-    <img alt="Web &amp; Automation" src="./metrics/projects-web.svg?v=47a294c4e56c" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-web-mobile-dark.svg?v=2cfff6a9c2a6" />
+    <source media="(max-width: 600px)" srcset="./metrics/projects-web-mobile.svg?v=9dd6ea4f71f7" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-web-dark.svg?v=a69c7166c2b1" />
+    <img alt="Web &amp; Automation" src="./metrics/projects-web.svg?v=6d7ef3b46176" width="880" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-ml-mobile-dark.svg?v=79e1f4b4ae46" />
-    <source media="(max-width: 600px)" srcset="./metrics/projects-ml-mobile.svg?v=8174ebb3c90b" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-ml-dark.svg?v=5ea88b2bf5c1" />
-    <img alt="Machine Learning &amp; Research" src="./metrics/projects-ml.svg?v=530b9f8a8438" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-ml-mobile-dark.svg?v=31f4f10286a4" />
+    <source media="(max-width: 600px)" srcset="./metrics/projects-ml-mobile.svg?v=2d49b729eece" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-ml-dark.svg?v=b85d4f273290" />
+    <img alt="Machine Learning &amp; Research" src="./metrics/projects-ml.svg?v=41e5fb991678" width="880" />
   </picture>
 </p>
 
@@ -145,10 +145,10 @@ Repository commits include all authors on the default branch. Grouped projects s
 <!-- LANGUAGES:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/languages-mobile-dark.svg?v=bc93de03a5e5" />
-    <source media="(max-width: 600px)" srcset="./metrics/languages-mobile.svg?v=c27d25c305f7" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg?v=f17ce6a298d0" />
-    <img alt="Repository language mix" src="./metrics/languages.svg?v=0c08f8cd3d9e" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/languages-mobile-dark.svg?v=3689a26397c2" />
+    <source media="(max-width: 600px)" srcset="./metrics/languages-mobile.svg?v=2fe64c40dc2c" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg?v=f99a336bc9b5" />
+    <img alt="Repository language mix" src="./metrics/languages.svg?v=cd8aff2217ea" width="880" />
   </picture>
 </p>
 <!-- LANGUAGES:END -->
