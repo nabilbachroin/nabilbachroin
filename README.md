@@ -1,76 +1,89 @@
 <h1 align="center">Nabil Bachroin</h1>
 
-<p align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=00B4D8&center=true&vCenter=true&width=560&lines=Embedded+Firmware+Engineer;Low-Latency+Wireless+Audio+%26+HID;Opus+Codec+%26+DSP+Optimization;Bare-metal+C+by+day%2C+TypeScript+by+night" />
-</p>
+<p align="center"><strong>Embedded Firmware Engineer</strong><br />
+Wireless audio · Bluetooth LE · USB HID · DSP</p>
+
+<p align="center">Taipei, Taiwan · Banyuwangi, Indonesia</p>
 
 <p align="center">
-  <a href="https://github.com/nabilbachroin?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/nabilbachroin?label=Followers&style=social" /></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=nabilbachroin&label=Profile%20views&color=00b4d8&style=social" />
-</p>
-
----
-
-### 🔌 About
-
-- Embedded firmware engineer working on **Bluetooth audio & HID system-on-chips**
-- Day-to-day: **BLE stacks, USB HID / XInput, Opus codec & DSP optimization**, low-latency wireless audio
-- Research background in **computer vision** — NeRF, volumetric rendering, 3D reconstruction
-- Based in **Taipei, Taiwan** 🇹🇼 · originally from **Banyuwangi, Indonesia** 🇮🇩
-- Off-hours: full-stack side projects in **TypeScript / Python / Vue** and workflow automation with **n8n**
-
-> Most of my professional work lives in private repositories under NDA.
-> The metrics below **include private contributions in aggregate** — no client names, repository names, or commit messages are exposed.
-
-### 🌐 Connect
-
-<p align="left">
-  <!-- GitLab deliberately not linked: the account lives on an internal office
-       host at a private RFC 1918 address, so the link is unreachable from
-       outside and would only publish internal network detail. The GitLab icon
-       in Tools already covers the experience. -->
   <a href="https://www.linkedin.com/in/nabilbachroin/"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Nabil%20Bachroin-0A66C2?logo=linkedin-white&logoColor=white" /></a>
   <a href="https://www.instagram.com/nabilbachroin/"><img alt="Instagram" src="https://img.shields.io/badge/-nabilbachroin-bf3a96?style=flat&logo=instagram&logoColor=white" /></a>
   <a href="https://github.com/nabilbachroin"><img alt="GitHub" src="https://img.shields.io/badge/-nabilbachroin-0d1117?style=flat&logo=github" /></a>
   <a href="mailto:nabilbachroin@nabloom.id"><img alt="Email" src="https://img.shields.io/badge/-nabilbachroin@nabloom.id-c14438?style=flat&logo=maildotru&logoColor=white" /></a>
 </p>
 
-### 🧰 Tech Stack
+I build firmware for connected devices, with a focus on wireless input, audio codecs, and DSP optimization.
+Outside embedded systems, I build web applications and automation for everyday needs, with a research background in computer vision and 3D reconstruction.
 
-**Programming Languages & Frameworks**
+<p align="center"><a href="#selected-work">Selected Work</a> · <a href="#tech-stack">Tech Stack</a> · <a href="#activity">Activity</a></p>
 
-<p align="left">
+## Selected Work
+
+Professional work is described by technology. Personal projects and family websites remain unlinked.
+
+<!-- PROJECTS:START -->
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpython%2Cts%2Cjs%2Cphp%2Cnodejs%2Cexpress%2Cfastapi%2Claravel%2Creact%2Cvue%2Cnuxtjs%2Cvite&theme=dark&perline=14" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpython%2Cts%2Cjs%2Cphp%2Cnodejs%2Cexpress%2Cfastapi%2Claravel%2Creact%2Cvue%2Cnuxtjs%2Cvite&theme=light&perline=14" />
-    <img alt="C, C++, Python, TypeScript, JavaScript, PHP, Node.js, Express, FastAPI, Laravel, React, Vue, Nuxt, Vite" src="https://skillicons.dev/icons?i=c%2Ccpp%2Cpython%2Cts%2Cjs%2Cphp%2Cnodejs%2Cexpress%2Cfastapi%2Claravel%2Creact%2Cvue%2Cnuxtjs%2Cvite&theme=dark&perline=14" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-emb-mobile-dark.svg?v=d6f138417ab9" />
+    <source media="(max-width: 600px)" srcset="./metrics/projects-emb-mobile.svg?v=b7578629077d" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-emb-dark.svg?v=f71c6e56599a" />
+    <img alt="Embedded &amp; Firmware" src="./metrics/projects-emb.svg?v=a366153cb858" width="880" />
   </picture>
 </p>
 
-**Database & ORM**
-
-<p align="left">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cprisma&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cprisma&theme=light" />
-    <img alt="PostgreSQL, Prisma" src="https://skillicons.dev/icons?i=postgres%2Cprisma&theme=dark" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-web-mobile-dark.svg?v=136213f1d99a" />
+    <source media="(max-width: 600px)" srcset="./metrics/projects-web-mobile.svg?v=d3bf1e1ec3c7" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-web-dark.svg?v=a16db0e17878" />
+    <img alt="Web &amp; Automation" src="./metrics/projects-web.svg?v=47a294c4e56c" width="880" />
   </picture>
 </p>
 
-**Tools**
-
-<p align="left">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cgitlab%2Cvscode%2Cdocker%2Cpostman%2Clinux%2Cbash%2Ccmake&theme=dark&perline=9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cgitlab%2Cvscode%2Cdocker%2Cpostman%2Clinux%2Cbash%2Ccmake&theme=light&perline=9" />
-    <img alt="Git, GitHub, GitLab, VS Code, Docker, Postman, Linux, Bash, CMake" src="https://skillicons.dev/icons?i=git%2Cgithub%2Cgitlab%2Cvscode%2Cdocker%2Cpostman%2Clinux%2Cbash%2Ccmake&theme=dark&perline=9" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-ml-mobile-dark.svg?v=79e1f4b4ae46" />
+    <source media="(max-width: 600px)" srcset="./metrics/projects-ml-mobile.svg?v=8174ebb3c90b" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-ml-dark.svg?v=5ea88b2bf5c1" />
+    <img alt="Machine Learning &amp; Research" src="./metrics/projects-ml.svg?v=530b9f8a8438" width="880" />
   </picture>
 </p>
 
-<!-- The commas in `i=` MUST stay percent-encoded as %2C. `srcset` treats a bare
-     comma as the separator between image candidates, so a literal comma makes
-     the browser request only `?i=c` and render a single enlarged icon. -->
+Repository commits include all authors on the default branch. Grouped projects sum their repository histories; counts are not a measure of individual output.
+<details>
+<summary>Project descriptions</summary>
 
+#### Embedded & Firmware
+
+| Project | Focus | Stack |
+|---|---|---|
+| Licensed game controller firmware | USB XInput, BLE HID, dual-mode pairing and USB audio on a single device | C, BLE, USB HID |
+| Ultra-low-latency wireless HID & audio | The latency-critical path for wireless input and audio: radio scheduling, buffering and latency analysis | C, BLE, RTOS |
+| Audio codec DSP development | Opus and LC3 codec development on a resource-constrained DSP core, optimised at the cycle level | C, Assembly, DSP |
+| Wireless ESL / EPD display | Firmware for battery-powered electronic shelf labels driving e-paper panels over a wireless link | C, e-paper, BLE |
+
+#### Web & Automation
+
+| Project | Focus | Stack |
+|---|---|---|
+| Tempong Order Hub & n8n-warung | Order management for a small food business, wired to automated workflows for orders, notifications and reporting | FastAPI, Python, React, PostgreSQL, n8n |
+| family-finance | Household budgeting and finance tracker | Fastify, TypeScript, Prisma, PostgreSQL |
+| RTRS - Remote Timer Rental System | Session timers for a children's toy rental business that survive interruption and recover mid-session | React, TypeScript, Express, PostgreSQL, Docker |
+| The Birth of Bilboo | Birth announcement site for my child, containerised and self-hosted | Laravel 11, PHP 8.3, Docker |
+| Netflix-style wedding invitation | Our wedding invitation built as a streaming-service browse page, complete with title cards | Nuxt 3, Vue |
+
+#### Machine Learning & Research
+
+| Project | Focus | Stack |
+|---|---|---|
+| clusterCraft | A finite state machine for cluster coordination | Python |
+| Baby cry classification | Classifies why an infant is crying - belly pain, hunger, discomfort, tiredness - from audio converted to spectrograms | Python, Jupyter |
+| VE3DOR | NeRF-based 3D reconstruction experiments evaluated with IoU and Chamfer Distance | Python, Jupyter, nerfstudio |
+
+</details>
+<!-- PROJECTS:END -->
+
+## Tech Stack
 
 **Embedded, RTOS & Protocols**
 
@@ -82,121 +95,76 @@
 ![Opus & LC3](https://img.shields.io/badge/Opus%20%26%20LC3-7B2CBF?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGcgZmlsbD0iI2ZmZiI+PHJlY3QgeD0iMi40IiB5PSI5IiB3aWR0aD0iMi44IiBoZWlnaHQ9IjYiIHJ4PSIxLjQiLz48cmVjdCB4PSI3LjIiIHk9IjQuNSIgd2lkdGg9IjIuOCIgaGVpZ2h0PSIxNSIgcng9IjEuNCIvPjxyZWN0IHg9IjEyIiB5PSI3IiB3aWR0aD0iMi44IiBoZWlnaHQ9IjEwIiByeD0iMS40Ii8+PHJlY3QgeD0iMTYuOCIgeT0iMi44IiB3aWR0aD0iMi44IiBoZWlnaHQ9IjE4LjQiIHJ4PSIxLjQiLz48L2c+PC9zdmc+&logoColor=white)
 ![DSP Optimisation](https://img.shields.io/badge/DSP%20Optimisation-9333EA?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZD0iTTEuNSAxMmMyLjYtNy40IDUuMi03LjQgNy44IDBzNS4yIDcuNCA3LjggMCAzLjktNC42IDUuNC0zLjQiLz48ZyBmaWxsPSIjZmZmIj48Y2lyY2xlIGN4PSI1LjQiIGN5PSI2LjQiIHI9IjEuNyIvPjxjaXJjbGUgY3g9IjEyLjkiIGN5PSIxNy42IiByPSIxLjciLz48Y2lyY2xlIGN4PSIyMC40IiBjeT0iOC45IiByPSIxLjciLz48L2c+PC9zdmc+&logoColor=white)
 
-<!-- Every badge carries an icon. Bluetooth uses its own simple-icons
-     logo; Keil MDK uses the Arm logo because Keil MDK is an Arm product,
-     and Zephyr the Linux Foundation logo because Zephyr is an LF project.
-     FreeRTOS, USB, Opus/LC3 and DSP have no simple-icons entry at all, so
-     those four pass a hand-drawn glyph through shields.io's
-     `logo=data:image/svg+xml;base64,...` parameter - which is why those
-     URLs are long. The glyphs are symbolic, not official marks, except the
-     USB trident which is the real USB symbol.
-     Colours group the row by category: teal for RTOS, amber for the
-     toolchain, blue for wire protocols, purple for codec and DSP work. -->
+**Languages**
 
-### 🚀 Selected Work
-
-🔒 marks a private repository — client work under NDA, or a personal project I
-have not opened up. Nothing here is linked: the firmware work is under NDA, and
-the personal sites are unlisted by design. Firmware entries are described by the
-technology rather than the platform holder.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-emb-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./metrics/projects-emb.svg" />
-    <img alt="🔌 Embedded &amp; Firmware" src="./metrics/projects-emb.svg" />
-  </picture>
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/c-dark.svg" /><img src="./assets/icons/c-light.svg" alt="C" title="C" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/cpp-dark.svg" /><img src="./assets/icons/cpp-light.svg" alt="C++" title="C++" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/python-dark.svg" /><img src="./assets/icons/python-light.svg" alt="Python" title="Python" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/ts-dark.svg" /><img src="./assets/icons/ts-light.svg" alt="TypeScript" title="TypeScript" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/js-dark.svg" /><img src="./assets/icons/js-light.svg" alt="JavaScript" title="JavaScript" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/php-dark.svg" /><img src="./assets/icons/php-light.svg" alt="PHP" title="PHP" width="42" height="42" /></picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-web-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./metrics/projects-web.svg" />
-    <img alt="🌐 Web &amp; Automation" src="./metrics/projects-web.svg" />
-  </picture>
+**Frameworks & Runtimes**
+
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/nodejs-dark.svg" /><img src="./assets/icons/nodejs-light.svg" alt="Node.js" title="Node.js" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/express-dark.svg" /><img src="./assets/icons/express-light.svg" alt="Express" title="Express" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/fastapi-dark.svg" /><img src="./assets/icons/fastapi-light.svg" alt="FastAPI" title="FastAPI" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/laravel-dark.svg" /><img src="./assets/icons/laravel-light.svg" alt="Laravel" title="Laravel" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/react-dark.svg" /><img src="./assets/icons/react-light.svg" alt="React" title="React" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/vue-dark.svg" /><img src="./assets/icons/vue-light.svg" alt="Vue" title="Vue" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/nuxtjs-dark.svg" /><img src="./assets/icons/nuxtjs-light.svg" alt="Nuxt" title="Nuxt" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/vite-dark.svg" /><img src="./assets/icons/vite-light.svg" alt="Vite" title="Vite" width="42" height="42" /></picture>
 </p>
 
+**Database & ORM**
+
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/postgres-dark.svg" /><img src="./assets/icons/postgres-light.svg" alt="PostgreSQL" title="PostgreSQL" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/prisma-dark.svg" /><img src="./assets/icons/prisma-light.svg" alt="Prisma" title="Prisma" width="42" height="42" /></picture>
+</p>
+
+**Tools**
+
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/git-dark.svg" /><img src="./assets/icons/git-light.svg" alt="Git" title="Git" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/github-dark.svg" /><img src="./assets/icons/github-light.svg" alt="GitHub" title="GitHub" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/gitlab-dark.svg" /><img src="./assets/icons/gitlab-light.svg" alt="GitLab" title="GitLab" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/vscode-dark.svg" /><img src="./assets/icons/vscode-light.svg" alt="VS Code" title="VS Code" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/docker-dark.svg" /><img src="./assets/icons/docker-light.svg" alt="Docker" title="Docker" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/postman-dark.svg" /><img src="./assets/icons/postman-light.svg" alt="Postman" title="Postman" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/linux-dark.svg" /><img src="./assets/icons/linux-light.svg" alt="Linux" title="Linux" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/bash-dark.svg" /><img src="./assets/icons/bash-light.svg" alt="Bash" title="Bash" width="42" height="42" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/cmake-dark.svg" /><img src="./assets/icons/cmake-light.svg" alt="CMake" title="CMake" width="42" height="42" /></picture>
+</p>
+
+## Activity
+
+<!-- LANGUAGES:START -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-ml-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./metrics/projects-ml.svg" />
-    <img alt="🧠 Machine Learning &amp; Research" src="./metrics/projects-ml.svg" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/languages-mobile-dark.svg?v=bc93de03a5e5" />
+    <source media="(max-width: 600px)" srcset="./metrics/languages-mobile.svg?v=c27d25c305f7" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg?v=f17ce6a298d0" />
+    <img alt="Repository language mix" src="./metrics/languages.svg?v=0c08f8cd3d9e" width="880" />
   </picture>
 </p>
+<!-- LANGUAGES:END -->
 
 <details>
-<summary>Same content as selectable text &#8212; the cards above are images, so this table is here for screen readers, search and copy-paste</summary>
-<br />
+<summary>Contribution calendar and GitHub overview</summary>
 
-<details>
-<summary><b>🔌 Embedded &amp; Firmware</b></summary>
-<br />
-
-| Project | What it does | Stack |
-|---|---|---|
-| **Licensed game controller firmware** 🔒 | Production firmware for wireless game controllers: USB XInput, BLE HID, dual-mode pairing, and USB audio on the same device | C · BLE · USB HID |
-| **Ultra-low-latency wireless HID & audio** 🔒 | The latency-critical path for wireless input and audio — radio scheduling and buffering tuned until the lag stops being perceptible | C · BLE · RTOS |
-| **Audio codec DSP development** 🔒 | Opus and LC3 codec development on a resource-constrained DSP core, optimised at the cycle level | C · Assembly · DSP |
-| **Wireless ESL / EPD display** 🔒 | Firmware for battery-powered electronic shelf labels driving e-paper panels over a wireless link | C · e-paper · BLE |
+<p align="center"><img alt="GitHub overview and isometric contribution calendar" src="./metrics/overview.svg" width="480" /></p>
 
 </details>
-
-<details>
-<summary><b>🌐 Web &amp; Automation</b></summary>
-<br />
-
-| Project | What it does | Stack |
-|---|---|---|
-| **The Birth of Bilboo** 🔒 | Birth announcement site for my child, containerised and self-hosted | Laravel 11 · PHP 8.3 · Docker |
-| **Netflix-style wedding invitation** 🔒 | Our wedding invitation built as a streaming-service browse page, complete with title cards | Nuxt 3 · Vue |
-| **RTRS — Remote Timer Rental System** 🔒 | Rental management for a children's toy rental business: session timers that survive interruption and recover mid-session | React · TypeScript · Express · PostgreSQL · Docker |
-| **Tempong Order Hub & n8n-warung** 🔒 | Order management for a small food business, wired to automated workflows for orders, notifications and reporting | FastAPI · Python · React · PostgreSQL · n8n |
-| **family-finance** 🔒 | Household budgeting and finance tracker | Fastify · TypeScript · Prisma · PostgreSQL |
-
-</details>
-
-<details>
-<summary><b>🧠 Machine Learning &amp; Research</b></summary>
-<br />
-
-| Project | What it does | Stack |
-|---|---|---|
-| **VE3DOR** | 3D object reconstruction taking NeRF as the baseline and extending it, with reconstruction quality scored by IoU and Chamfer Distance | Python · Jupyter · nerfstudio |
-| **Baby cry classification** 🔒 | Classifies *why* an infant is crying — belly pain, hunger, discomfort, tiredness — from audio converted to spectrograms | Python · Jupyter |
-| **clusterCraft** 🔒 | A finite state machine for cluster coordination | Python |
-
-</details>
-
-</details>
-
-### 📊 GitHub Metrics
-
-<p align="center">
-  <img alt="Overview" src="./metrics/overview.svg" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./metrics/languages.svg" />
-    <img alt="Top languages" src="./metrics/languages.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nabilbachroin&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=nabilbachroin&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-    <img alt="Streak" src="https://streak-stats.demolab.com?user=nabilbachroin&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  </picture>
-</p>
-
-### 🐍 Contribution Graph
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabilbachroin/nabilbachroin/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabilbachroin/nabilbachroin/output/snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/nabilbachroin/nabilbachroin/output/snake.svg" />
+    <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/nabilbachroin/nabilbachroin/output/snake.svg" width="880" />
   </picture>
 </p>
+
+<sub>Project metrics refresh automatically. Skill icons by <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a>.</sub>

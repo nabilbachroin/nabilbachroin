@@ -1,38 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="366" viewBox="0 0 880 366" role="img" aria-label="Repository language mix">
 <style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.t{font-size:15px;font-weight:600;fill:#e6edf3}.s{font-size:11px;fill:#8b949e}.n{font-size:13px;fill:#c9d1d9}.p{font-size:13px;font-weight:600;fill:#e6edf3}</style>
-<rect x="0.5" y="0.5" width="879" height="299" rx="6" fill="#0d1117" stroke="#30363d"/>
-<text class="t" x="20" y="30">Top Languages</text>
-<text class="s" x="20" y="48">averaged per repository across 49 repos &#183; private included</text>
+<rect x="0.5" y="0.5" width="879" height="365" rx="6" fill="#0d1117" stroke="#30363d"/>
+<text class="t" x="20" y="30">Repository Language Mix</text>
+<text class="s" x="20" y="48">49 repositories · equal weight per repository</text>
 <text class="n" x="20" y="82.0">C</text>
 <rect x="170" y="73.0" width="632" height="10" rx="5.0" fill="#21262d"/>
-<rect x="170" y="73.0" width="632.0" height="10" rx="5.0" fill="#555555"/>
-<text class="p" x="860" y="82.0" text-anchor="end">37.5%</text>
+<rect x="170" y="73.0" width="220.5" height="10" rx="5.0" fill="#555555"/>
+<text class="p" x="860" y="82.0" text-anchor="end">34.9%</text>
 <text class="n" x="20" y="110.0">Jupyter Notebook</text>
 <rect x="170" y="101.0" width="632" height="10" rx="5.0" fill="#21262d"/>
-<rect x="170" y="101.0" width="298.4" height="10" rx="5.0" fill="#DA5B0B"/>
-<text class="p" x="860" y="110.0" text-anchor="end">17.7%</text>
+<rect x="170" y="101.0" width="104.1" height="10" rx="5.0" fill="#DA5B0B"/>
+<text class="p" x="860" y="110.0" text-anchor="end">16.5%</text>
 <text class="n" x="20" y="138.0">Python</text>
 <rect x="170" y="129.0" width="632" height="10" rx="5.0" fill="#21262d"/>
-<rect x="170" y="129.0" width="248.8" height="10" rx="5.0" fill="#3572A5"/>
-<text class="p" x="860" y="138.0" text-anchor="end">14.8%</text>
+<rect x="170" y="129.0" width="86.8" height="10" rx="5.0" fill="#3572A5"/>
+<text class="p" x="860" y="138.0" text-anchor="end">13.7%</text>
 <text class="n" x="20" y="166.0">HTML</text>
 <rect x="170" y="157.0" width="632" height="10" rx="5.0" fill="#21262d"/>
-<rect x="170" y="157.0" width="177.6" height="10" rx="5.0" fill="#e34c26"/>
-<text class="p" x="860" y="166.0" text-anchor="end">10.5%</text>
+<rect x="170" y="157.0" width="62.0" height="10" rx="5.0" fill="#e34c26"/>
+<text class="p" x="860" y="166.0" text-anchor="end">9.8%</text>
 <text class="n" x="20" y="194.0">C++</text>
 <rect x="170" y="185.0" width="632" height="10" rx="5.0" fill="#21262d"/>
-<rect x="170" y="185.0" width="109.6" height="10" rx="5.0" fill="#f34b7d"/>
-<text class="p" x="860" y="194.0" text-anchor="end">6.5%</text>
+<rect x="170" y="185.0" width="38.2" height="10" rx="5.0" fill="#f34b7d"/>
+<text class="p" x="860" y="194.0" text-anchor="end">6.0%</text>
 <text class="n" x="20" y="222.0">TypeScript</text>
 <rect x="170" y="213.0" width="632" height="10" rx="5.0" fill="#21262d"/>
-<rect x="170" y="213.0" width="89.3" height="10" rx="5.0" fill="#3178c6"/>
-<text class="p" x="860" y="222.0" text-anchor="end">5.3%</text>
+<rect x="170" y="213.0" width="31.1" height="10" rx="5.0" fill="#3178c6"/>
+<text class="p" x="860" y="222.0" text-anchor="end">4.9%</text>
 <text class="n" x="20" y="250.0">JavaScript</text>
 <rect x="170" y="241.0" width="632" height="10" rx="5.0" fill="#21262d"/>
-<rect x="170" y="241.0" width="87.0" height="10" rx="5.0" fill="#f1e05a"/>
-<text class="p" x="860" y="250.0" text-anchor="end">5.2%</text>
+<rect x="170" y="241.0" width="30.3" height="10" rx="5.0" fill="#f1e05a"/>
+<text class="p" x="860" y="250.0" text-anchor="end">4.8%</text>
 <text class="n" x="20" y="278.0">Perl</text>
 <rect x="170" y="269.0" width="632" height="10" rx="5.0" fill="#21262d"/>
-<rect x="170" y="269.0" width="43.4" height="10" rx="5.0" fill="#0298c3"/>
-<text class="p" x="860" y="278.0" text-anchor="end">2.6%</text>
+<rect x="170" y="269.0" width="15.1" height="10" rx="5.0" fill="#0298c3"/>
+<text class="p" x="860" y="278.0" text-anchor="end">2.4%</text>
+<text class="n" x="20" y="306.0">Other</text>
+<rect x="170" y="297.0" width="632" height="10" rx="5.0" fill="#21262d"/>
+<rect x="170" y="297.0" width="43.8" height="10" rx="5.0" fill="#8294a8"/>
+<text class="p" x="860" y="306.0" text-anchor="end">6.9%</text>
+<text class="s" x="20" y="341">Public + private; selected vendor repos excluded.</text>
+<text class="s" x="20" y="356">Repository composition, not authorship or coding time.</text>
 </svg>
