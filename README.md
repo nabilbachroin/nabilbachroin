@@ -28,10 +28,10 @@ Outside embedded systems, I build web applications and automation for everyday n
 <!-- SIGNAL:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/signal-flow-mobile-dark.svg?v=8f37913463ec" />
-    <source media="(max-width: 600px)" srcset="./metrics/signal-flow-mobile.svg?v=cfa748bebd44" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/signal-flow-dark.svg?v=b7e849643d17" />
-    <img alt="Animated embedded systems signal flow" src="./metrics/signal-flow.svg?v=cd033507a282" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/signal-flow-mobile-dark.svg?v=21c02f6231d2" />
+    <source media="(max-width: 600px)" srcset="./metrics/signal-flow-mobile.svg?v=4e94a38d5e2e" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/signal-flow-dark.svg?v=06c683941db0" />
+    <img alt="Animated embedded systems signal flow" src="./metrics/signal-flow.svg?v=46f36602de80" width="880" />
   </picture>
 </p>
 <!-- SIGNAL:END -->
