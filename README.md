@@ -28,10 +28,10 @@ Outside embedded systems, I build web applications and automation for everyday n
 <!-- SIGNAL:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/signal-flow-mobile-dark.svg?v=f7472f63f11c" />
-    <source media="(max-width: 600px)" srcset="./metrics/signal-flow-mobile.svg?v=c5320d06ced5" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/signal-flow-dark.svg?v=8a963b5fbfa0" />
-    <img alt="Animated embedded systems signal flow" src="./metrics/signal-flow.svg?v=144e0807dac1" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/signal-flow-mobile-dark.svg?v=a253fc723166" />
+    <source media="(max-width: 600px)" srcset="./metrics/signal-flow-mobile.svg?v=97c304869728" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/signal-flow-dark.svg?v=b9f1429e9459" />
+    <img alt="Animated embedded systems signal flow" src="./metrics/signal-flow.svg?v=a297964d7f37" width="880" />
   </picture>
 </p>
 <!-- SIGNAL:END -->
@@ -137,10 +137,10 @@ Repository commits include all authors on the default branch. Grouped projects s
 <!-- LANGUAGES:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/languages-mobile-dark.svg?v=1cb65e6318c5" />
-    <source media="(max-width: 600px)" srcset="./metrics/languages-mobile.svg?v=05f88e6ac7a5" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg?v=9ac8551ca3ee" />
-    <img alt="Repository language mix" src="./metrics/languages.svg?v=3004ef221b19" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/languages-mobile-dark.svg?v=6574b991e503" />
+    <source media="(max-width: 600px)" srcset="./metrics/languages-mobile.svg?v=75c1d61736a1" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg?v=9df4bd0d539b" />
+    <img alt="Repository language mix" src="./metrics/languages.svg?v=b7dd5c79891f" width="880" />
   </picture>
 </p>
 <!-- LANGUAGES:END -->

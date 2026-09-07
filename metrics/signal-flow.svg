@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="370" viewBox="0 0 880 370" role="img" aria-labelledby="title desc">
 <title id="title">Animated low-latency wireless audio and XInput signal flow</title>
-<desc id="desc">Conceptual end-to-end paths between a USB host, dongle firmware, BLE ISO link, joypad firmware and device input-output. Microphone PCM is captured by the joypad audio codec, LC3-encoded by the joypad, decoded by the dongle and delivered to the host as USB microphone input. Playback audio follows the opposite codec path.</desc>
+<desc id="desc">Conceptual end-to-end paths between a USB host, dongle firmware, BLE ISO link, joypad firmware and device input-output. Microphone audio is converted to PCM by the joypad ADC, LC3-encoded by the joypad, decoded by the dongle and delivered to the host as USB microphone input. Playback PCM follows the opposite path through the joypad DAC and speaker.</desc>
 <defs>
 <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dce5ec" stroke-width=".6" opacity=".45"/></pattern>
 <linearGradient id="header" gradientUnits="userSpaceOnUse" x1="20" y1="0" x2="860" y2="0"><stop stop-color="#069fb7"/><stop offset=".48" stop-color="#8c55d9"/><stop offset="1" stop-color="#d34f8c"/></linearGradient>
@@ -76,6 +76,6 @@
 <text x="597" y="319" font-size="11.5" font-weight="700" fill="#1f2328" text-anchor="middle" textLength="70.15" lengthAdjust="spacingAndGlyphs">LC3 ENCODE</text>
 <text x="597" y="337" font-size="9.5" font-weight="500" fill="#59636e" text-anchor="middle" textLength="57.95" lengthAdjust="spacingAndGlyphs">joypad DSP</text>
 <g filter="url(#soft)"><rect x="702" y="298" width="158" height="48" rx="5" fill="#f6f8fa" stroke="#d34f8c" stroke-width="1.2"/><path d="M709 306V338" stroke="#d34f8c" stroke-width="3" stroke-linecap="round"/></g>
-<text x="784" y="319" font-size="11.5" font-weight="700" fill="#1f2328" text-anchor="middle" textLength="77.165" lengthAdjust="spacingAndGlyphs">AUDIO CODEC</text>
+<text x="784" y="319" font-size="11.5" font-weight="700" fill="#1f2328" text-anchor="middle" textLength="63.135" lengthAdjust="spacingAndGlyphs">MIC / ADC</text>
 <text x="784" y="337" font-size="9.5" font-weight="500" fill="#59636e" text-anchor="middle" textLength="63.745" lengthAdjust="spacingAndGlyphs">PCM capture</text>
 </svg>
