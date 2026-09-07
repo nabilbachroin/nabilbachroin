@@ -23,7 +23,7 @@
 I build firmware for connected devices, with a focus on wireless input, audio codecs, and DSP optimization.
 Outside embedded systems, I build web applications and automation for everyday needs, with a research background in computer vision and 3D reconstruction.
 
-<p align="center"><a href="#tech-stack">Tech Stack</a> · <a href="#selected-work">Selected Work</a> · <a href="#activity">Activity</a></p>
+<p align="center"><a href="#mini-project-demo">Mini Demo</a> · <a href="#tech-stack">Tech Stack</a> · <a href="#selected-work">Selected Work</a> · <a href="#activity">Activity</a></p>
 
 <!-- SIGNAL:START -->
 <p align="center">
@@ -35,6 +35,19 @@ Outside embedded systems, I build web applications and automation for everyday n
   </picture>
 </p>
 <!-- SIGNAL:END -->
+
+## Mini Project Demo
+
+<!-- DEMO:START -->
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/mini-demo-mobile-dark.svg?v=2acb9eeb2cfc" />
+    <source media="(max-width: 600px)" srcset="./metrics/mini-demo-mobile.svg?v=27d638ba79d8" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/mini-demo-dark.svg?v=b29aaad9933c" />
+    <img alt="Animated firmware system console mini project" src="./metrics/mini-demo.svg?v=4bd9be87d976" width="880" />
+  </picture>
+</p>
+<!-- DEMO:END -->
 
 ## Tech Stack
 
