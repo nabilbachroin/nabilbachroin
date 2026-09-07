@@ -23,28 +23,17 @@
 I build firmware for connected devices, with a focus on wireless input, audio codecs, and DSP optimization.
 Outside embedded systems, I build web applications and automation for everyday needs, with a research background in computer vision and 3D reconstruction.
 
-<p align="center"><a href="#mini-project-demo">Mini Demo</a> · <a href="#tech-stack">Tech Stack</a> · <a href="#selected-work">Selected Work</a> · <a href="#activity">Activity</a></p>
+<p align="center"><a href="#engineering-portfolio-console">Portfolio</a> · <a href="#tech-stack">Stack</a> · <a href="#selected-work">Work</a> · <a href="#featured-embedded-system">Featured System</a> · <a href="#activity">Activity</a></p>
 
-<!-- SIGNAL:START -->
-<p align="center">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/signal-flow-mobile-dark.svg?v=a253fc723166" />
-    <source media="(max-width: 600px)" srcset="./metrics/signal-flow-mobile.svg?v=97c304869728" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/signal-flow-dark.svg?v=b9f1429e9459" />
-    <img alt="Animated embedded systems signal flow" src="./metrics/signal-flow.svg?v=a297964d7f37" width="880" />
-  </picture>
-</p>
-<!-- SIGNAL:END -->
-
-## Mini Project Demo
+## Engineering Portfolio Console
 
 <!-- DEMO:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/mini-demo-mobile-dark.svg?v=2acb9eeb2cfc" />
-    <source media="(max-width: 600px)" srcset="./metrics/mini-demo-mobile.svg?v=27d638ba79d8" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/mini-demo-dark.svg?v=b29aaad9933c" />
-    <img alt="Animated firmware system console mini project" src="./metrics/mini-demo.svg?v=4bd9be87d976" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/mini-demo-mobile-dark.svg?v=7bdad29716fd" />
+    <source media="(max-width: 600px)" srcset="./metrics/mini-demo-mobile.svg?v=3f31d9ee136f" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/mini-demo-dark.svg?v=19c1637f8afe" />
+    <img alt="Animated engineering portfolio console" src="./metrics/mini-demo.svg?v=d9658a83c9cb" width="880" />
   </picture>
 </p>
 <!-- DEMO:END -->
@@ -144,6 +133,19 @@ Repository commits include all authors on the default branch. Grouped projects s
 
 [Read the text version of selected work](./PROJECTS.md).
 <!-- PROJECTS:END -->
+
+## Featured Embedded System
+
+<!-- SIGNAL:START -->
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/signal-flow-mobile-dark.svg?v=a253fc723166" />
+    <source media="(max-width: 600px)" srcset="./metrics/signal-flow-mobile.svg?v=97c304869728" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/signal-flow-dark.svg?v=b9f1429e9459" />
+    <img alt="Animated embedded systems signal flow" src="./metrics/signal-flow.svg?v=a297964d7f37" width="880" />
+  </picture>
+</p>
+<!-- SIGNAL:END -->
 
 ## Activity
 

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="660" viewBox="0 0 360 660" role="img" aria-labelledby="title desc">
-<title id="title">Animated firmware system console mini project</title>
-<desc id="desc">A compact synthetic simulation of XInput, LC3 full-duplex audio, Opus DSP work, and link recovery. Values are illustrative rather than measured.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="720" viewBox="0 0 360 720" role="img" aria-labelledby="title desc">
+<title id="title">Animated multi-domain engineering portfolio console</title>
+<desc id="desc">A compact synthetic overview of embedded systems, Opus and LC3 audio DSP, web automation, and computer vision with 3D reconstruction. It contains no live or measured system data.</desc>
 <defs>
 <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dce5ec" stroke-width=".6" opacity=".42"/></pattern>
 <linearGradient id="spectrum" gradientUnits="userSpaceOnUse" x1="20" y1="0" x2="340" y2="0"><stop stop-color="#069fb7"/><stop offset=".38" stop-color="#159f72"/><stop offset=".7" stop-color="#8250df"/><stop offset="1" stop-color="#d34f8c"/></linearGradient>
@@ -8,89 +8,96 @@
 <filter id="soft" x="-15%" y="-15%" width="130%" height="130%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000" flood-opacity=".16"/></filter>
 </defs>
 <style>text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:0}.trace{stroke-dasharray:8 9;animation:flow 1.7s linear infinite}.audio{animation-duration:2.15s}.led{animation:blink 1.5s ease-in-out infinite}.event{animation:event 12s linear infinite}.e2{animation-delay:-2s}.e3{animation-delay:-4s}.e4{animation-delay:-6s}.e5{animation-delay:-8s}.e6{animation-delay:-10s}.state{animation:state 5s ease-in-out infinite}.s2{animation-delay:-1s}.s3{animation-delay:-2s}.s4{animation-delay:-3s}.s5{animation-delay:-4s}.packet{filter:url(#glow)}@keyframes flow{to{stroke-dashoffset:-34}}@keyframes blink{0%,100%{opacity:.3}50%{opacity:1}}@keyframes event{0%,13%{opacity:.72}17%,100%{opacity:.08}}@keyframes state{0%,18%{opacity:1}22%,100%{opacity:.25}}@media(prefers-reduced-motion:reduce){.trace,.led,.event,.state{animation:none}.packet{display:none}}</style>
-<rect x=".5" y=".5" width="359" height="659" rx="6" fill="#ffffff" stroke="#d0d7de"/>
-<rect x="1" y="1" width="358" height="658" rx="6" fill="url(#grid)" opacity=".52"/>
-<text x="20" y="32" font-size="16" font-weight="700" fill="#1f2328" text-anchor="start" textLength="224.48" lengthAdjust="spacingAndGlyphs">FIRMWARE SYSTEM CONSOLE</text>
-<text x="20" y="52" font-size="9.2" font-weight="600" fill="#59636e" text-anchor="start" textLength="202.032" lengthAdjust="spacingAndGlyphs">XINPUT + LC3 + OPUS / SYNTHETIC DEMO</text>
+<rect x=".5" y=".5" width="359" height="719" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="1" y="1" width="358" height="718" rx="6" fill="url(#grid)" opacity=".52"/>
+<text x="20" y="32" font-size="16" font-weight="700" fill="#1f2328" text-anchor="start" textLength="283.04" lengthAdjust="spacingAndGlyphs">ENGINEERING PORTFOLIO CONSOLE</text>
+<text x="20" y="52" font-size="9.2" font-weight="600" fill="#59636e" text-anchor="start" textLength="207.644" lengthAdjust="spacingAndGlyphs">EMBEDDED + DSP + WEB + 3D / SYNTHETIC</text>
 <path d="M20 68H340" stroke="url(#spectrum)" stroke-width="1.5"/>
 <rect x="20" y="83" width="154" height="38" rx="4" fill="#edf3f7" stroke="#069fb7" stroke-opacity=".8"/>
 <circle class="led" cx="32" cy="96" r="3" fill="#069fb7" filter="url(#glow)"/>
-<text x="42" y="99" font-size="8.5" font-weight="700" fill="#1f2328" text-anchor="start" textLength="20.74" lengthAdjust="spacingAndGlyphs">LINK</text>
-<text x="32" y="114" font-size="7.2" font-weight="500" fill="#59636e" text-anchor="start" textLength="65.88" lengthAdjust="spacingAndGlyphs">BLE / ISO READY</text>
-<rect x="186" y="83" width="154" height="38" rx="4" fill="#edf3f7" stroke="#3578e5" stroke-opacity=".8"/>
-<circle class="led" cx="198" cy="96" r="3" fill="#3578e5" filter="url(#glow)"/>
-<text x="208" y="99" font-size="8.5" font-weight="700" fill="#1f2328" text-anchor="start" textLength="36.295" lengthAdjust="spacingAndGlyphs">CONTROL</text>
-<text x="198" y="114" font-size="7.2" font-weight="500" fill="#59636e" text-anchor="start" textLength="61.488" lengthAdjust="spacingAndGlyphs">XINPUT REPORTS</text>
+<text x="42" y="99" font-size="8.5" font-weight="700" fill="#1f2328" text-anchor="start" textLength="41.48" lengthAdjust="spacingAndGlyphs">EMBEDDED</text>
+<text x="32" y="114" font-size="7.2" font-weight="500" fill="#59636e" text-anchor="start" textLength="70.272" lengthAdjust="spacingAndGlyphs">RTOS + BLE + USB</text>
+<rect x="186" y="83" width="154" height="38" rx="4" fill="#edf3f7" stroke="#8250df" stroke-opacity=".8"/>
+<circle class="led" cx="198" cy="96" r="3" fill="#8250df" filter="url(#glow)"/>
+<text x="208" y="99" font-size="8.5" font-weight="700" fill="#1f2328" text-anchor="start" textLength="46.665" lengthAdjust="spacingAndGlyphs">AUDIO DSP</text>
+<text x="198" y="114" font-size="7.2" font-weight="500" fill="#59636e" text-anchor="start" textLength="43.92" lengthAdjust="spacingAndGlyphs">OPUS + LC3</text>
 <rect x="20" y="129" width="154" height="38" rx="4" fill="#edf3f7" stroke="#159f72" stroke-opacity=".8"/>
 <circle class="led" cx="32" cy="142" r="3" fill="#159f72" filter="url(#glow)"/>
-<text x="42" y="145" font-size="8.5" font-weight="700" fill="#1f2328" text-anchor="start" textLength="25.925" lengthAdjust="spacingAndGlyphs">AUDIO</text>
-<text x="32" y="160" font-size="7.2" font-weight="500" fill="#59636e" text-anchor="start" textLength="65.88" lengthAdjust="spacingAndGlyphs">FULL-DUPLEX LC3</text>
-<rect x="186" y="129" width="154" height="38" rx="4" fill="#edf3f7" stroke="#8250df" stroke-opacity=".8"/>
-<circle class="led" cx="198" cy="142" r="3" fill="#8250df" filter="url(#glow)"/>
-<text x="208" y="145" font-size="8.5" font-weight="700" fill="#1f2328" text-anchor="start" textLength="36.295" lengthAdjust="spacingAndGlyphs">DSP LAB</text>
-<text x="198" y="160" font-size="7.2" font-weight="500" fill="#59636e" text-anchor="start" textLength="43.92" lengthAdjust="spacingAndGlyphs">LC3 + OPUS</text>
-<g filter="url(#soft)"><rect x="20" y="183" width="320" height="203" rx="5" fill="#f6f8fa" stroke="#d0d7de"/></g>
-<text x="34" y="206" font-size="9" font-weight="700" fill="#59636e" text-anchor="start" textLength="93.33" lengthAdjust="spacingAndGlyphs">LIVE SIGNAL LANES</text>
-<text x="34" y="228" font-size="8.5" font-weight="700" fill="#069fb7" text-anchor="start" textLength="31.11" lengthAdjust="spacingAndGlyphs">XINPUT</text>
-<text x="34" y="243" font-size="7.2" font-weight="500" fill="#59636e" text-anchor="start" textLength="61.488" lengthAdjust="spacingAndGlyphs">DEVICE -&gt; HOST</text>
+<text x="42" y="145" font-size="8.5" font-weight="700" fill="#1f2328" text-anchor="start" textLength="57.035" lengthAdjust="spacingAndGlyphs">WEB SYSTEMS</text>
+<text x="32" y="160" font-size="7.2" font-weight="500" fill="#59636e" text-anchor="start" textLength="74.664" lengthAdjust="spacingAndGlyphs">APIS + AUTOMATION</text>
+<rect x="186" y="129" width="154" height="38" rx="4" fill="#edf3f7" stroke="#d34f8c" stroke-opacity=".8"/>
+<circle class="led" cx="198" cy="142" r="3" fill="#d34f8c" filter="url(#glow)"/>
+<text x="208" y="145" font-size="8.5" font-weight="700" fill="#1f2328" text-anchor="start" textLength="57.035" lengthAdjust="spacingAndGlyphs">VISION / 3D</text>
+<text x="198" y="160" font-size="7.2" font-weight="500" fill="#59636e" text-anchor="start" textLength="92.232" lengthAdjust="spacingAndGlyphs">NERF + RECONSTRUCTION</text>
+<g filter="url(#soft)"><rect x="20" y="183" width="320" height="250" rx="5" fill="#f6f8fa" stroke="#d0d7de"/></g>
+<text x="34" y="206" font-size="9" font-weight="700" fill="#59636e" text-anchor="start" textLength="104.31" lengthAdjust="spacingAndGlyphs">ENGINEERING DOMAINS</text>
+<text x="34" y="228" font-size="8.5" font-weight="700" fill="#069fb7" text-anchor="start" textLength="41.48" lengthAdjust="spacingAndGlyphs">EMBEDDED</text>
+<text x="34" y="243" font-size="7.2" font-weight="500" fill="#59636e" text-anchor="start" textLength="83.448" lengthAdjust="spacingAndGlyphs">INPUT -&gt; FW -&gt; LINK</text>
 <path d="M146 232H312" stroke="#c7d2dc" stroke-width="6" stroke-linecap="round"/>
 <path class="trace " d="M146 232H312" stroke="#069fb7" stroke-width="2" stroke-linecap="round"/>
 <circle cx="146" cy="232" r="3" fill="#069fb7"/>
 <circle cx="312" cy="232" r="3" fill="#069fb7"/>
-<circle class="packet" r="4" fill="#069fb7"><animateMotion path="M312 232H146" dur="3.4s" repeatCount="indefinite"/></circle>
-<text x="34" y="282" font-size="8.5" font-weight="700" fill="#159f72" text-anchor="start" textLength="62.22" lengthAdjust="spacingAndGlyphs">LC3 PLAYBACK</text>
-<text x="34" y="297" font-size="7.2" font-weight="500" fill="#59636e" text-anchor="start" textLength="48.312" lengthAdjust="spacingAndGlyphs">HOST -&gt; DAC</text>
+<circle class="packet" r="4" fill="#069fb7"><animateMotion path="M146 232H312" dur="3.4s" repeatCount="indefinite"/></circle>
+<text x="34" y="282" font-size="8.5" font-weight="700" fill="#8250df" text-anchor="start" textLength="46.665" lengthAdjust="spacingAndGlyphs">AUDIO DSP</text>
+<text x="34" y="297" font-size="7.2" font-weight="500" fill="#59636e" text-anchor="start" textLength="83.448" lengthAdjust="spacingAndGlyphs">PCM -&gt; CODEC -&gt; DSP</text>
 <path d="M146 286H312" stroke="#c7d2dc" stroke-width="6" stroke-linecap="round"/>
-<path class="trace audio" d="M146 286H312" stroke="#159f72" stroke-width="2" stroke-linecap="round"/>
-<circle cx="146" cy="286" r="3" fill="#159f72"/>
-<circle cx="312" cy="286" r="3" fill="#159f72"/>
-<circle class="packet" r="4" fill="#159f72"><animateMotion path="M146 286H312" dur="3.4s" repeatCount="indefinite"/></circle>
-<text x="34" y="336" font-size="8.5" font-weight="700" fill="#d34f8c" text-anchor="start" textLength="36.295" lengthAdjust="spacingAndGlyphs">LC3 MIC</text>
-<text x="34" y="351" font-size="7.2" font-weight="500" fill="#59636e" text-anchor="start" textLength="48.312" lengthAdjust="spacingAndGlyphs">ADC -&gt; HOST</text>
+<path class="trace " d="M146 286H312" stroke="#8250df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="146" cy="286" r="3" fill="#8250df"/>
+<circle cx="312" cy="286" r="3" fill="#8250df"/>
+<circle class="packet" r="4" fill="#8250df"><animateMotion path="M146 286H312" dur="3.4s" repeatCount="indefinite"/></circle>
+<text x="34" y="336" font-size="8.5" font-weight="700" fill="#159f72" text-anchor="start" textLength="72.59" lengthAdjust="spacingAndGlyphs">WEB AUTOMATION</text>
+<text x="34" y="351" font-size="7.2" font-weight="500" fill="#59636e" text-anchor="start" textLength="87.84" lengthAdjust="spacingAndGlyphs">EVENT -&gt; API -&gt; FLOW</text>
 <path d="M146 340H312" stroke="#c7d2dc" stroke-width="6" stroke-linecap="round"/>
-<path class="trace audio" d="M146 340H312" stroke="#d34f8c" stroke-width="2" stroke-linecap="round"/>
-<circle cx="146" cy="340" r="3" fill="#d34f8c"/>
-<circle cx="312" cy="340" r="3" fill="#d34f8c"/>
-<circle class="packet" r="4" fill="#d34f8c"><animateMotion path="M312 340H146" dur="3.4s" repeatCount="indefinite"/></circle>
-<g filter="url(#soft)"><rect x="20" y="402" width="320" height="162" rx="5" fill="#f6f8fa" stroke="#d0d7de"/></g>
-<text x="34" y="425" font-size="9" font-weight="700" fill="#59636e" text-anchor="start" textLength="60.39" lengthAdjust="spacingAndGlyphs">EVENT TRACE</text>
-<rect class="event e1" x="34" y="430" width="292" height="19" rx="3" fill="#069fb7"/>
-<rect x="40" y="433" width="2" height="13" rx="1" fill="#069fb7"/>
-<text x="48" y="443" font-size="8.2" font-weight="600" fill="#59636e" text-anchor="start" textLength="10.004" lengthAdjust="spacingAndGlyphs">00</text>
-<text x="70" y="443" font-size="8.2" font-weight="600" fill="#1f2328" text-anchor="start" textLength="50.02" lengthAdjust="spacingAndGlyphs">LINK_READY</text>
-<rect class="event e2" x="34" y="449" width="292" height="19" rx="3" fill="#3578e5"/>
-<rect x="40" y="452" width="2" height="13" rx="1" fill="#3578e5"/>
-<text x="48" y="462" font-size="8.2" font-weight="600" fill="#59636e" text-anchor="start" textLength="10.004" lengthAdjust="spacingAndGlyphs">01</text>
-<text x="70" y="462" font-size="8.2" font-weight="600" fill="#1f2328" text-anchor="start" textLength="50.02" lengthAdjust="spacingAndGlyphs">HID_REPORT</text>
-<rect class="event e3" x="34" y="468" width="292" height="19" rx="3" fill="#159f72"/>
-<rect x="40" y="471" width="2" height="13" rx="1" fill="#159f72"/>
-<text x="48" y="481" font-size="8.2" font-weight="600" fill="#59636e" text-anchor="start" textLength="10.004" lengthAdjust="spacingAndGlyphs">02</text>
-<text x="70" y="481" font-size="8.2" font-weight="600" fill="#1f2328" text-anchor="start" textLength="60.024" lengthAdjust="spacingAndGlyphs">LC3_PLAYBACK</text>
-<rect class="event e4" x="34" y="487" width="292" height="19" rx="3" fill="#d34f8c"/>
-<rect x="40" y="490" width="2" height="13" rx="1" fill="#d34f8c"/>
-<text x="48" y="500" font-size="8.2" font-weight="600" fill="#59636e" text-anchor="start" textLength="10.004" lengthAdjust="spacingAndGlyphs">03</text>
-<text x="70" y="500" font-size="8.2" font-weight="600" fill="#1f2328" text-anchor="start" textLength="35.014" lengthAdjust="spacingAndGlyphs">LC3_MIC</text>
-<rect class="event e5" x="34" y="506" width="292" height="19" rx="3" fill="#8250df"/>
-<rect x="40" y="509" width="2" height="13" rx="1" fill="#8250df"/>
-<text x="48" y="519" font-size="8.2" font-weight="600" fill="#59636e" text-anchor="start" textLength="10.004" lengthAdjust="spacingAndGlyphs">04</text>
-<text x="70" y="519" font-size="8.2" font-weight="600" fill="#1f2328" text-anchor="start" textLength="70.028" lengthAdjust="spacingAndGlyphs">OPUS_DSP_FRAME</text>
-<rect class="event e6" x="34" y="525" width="292" height="19" rx="3" fill="#b66a00"/>
-<rect x="40" y="528" width="2" height="13" rx="1" fill="#b66a00"/>
-<text x="48" y="538" font-size="8.2" font-weight="600" fill="#59636e" text-anchor="start" textLength="10.004" lengthAdjust="spacingAndGlyphs">05</text>
-<text x="70" y="538" font-size="8.2" font-weight="600" fill="#1f2328" text-anchor="start" textLength="80.032" lengthAdjust="spacingAndGlyphs">STREAM_RECOVERED</text>
-<g filter="url(#soft)"><rect x="20" y="580" width="320" height="58" rx="5" fill="#f6f8fa" stroke="#d0d7de"/></g>
-<text x="34" y="603" font-size="9" font-weight="700" fill="#59636e" text-anchor="start" textLength="43.92" lengthAdjust="spacingAndGlyphs">RECOVERY</text>
-<path d="M38 610H322" stroke="#c7d2dc" stroke-width="2"/>
-<circle class="state s1" cx="38" cy="610" r="6" fill="#069fb7" stroke="#ffffff" stroke-width="2" filter="url(#glow)"/>
-<text x="38" y="630" font-size="7.2" font-weight="600" fill="#59636e" text-anchor="middle" textLength="17.568" lengthAdjust="spacingAndGlyphs">BOOT</text>
-<circle class="state s2" cx="106" cy="610" r="6" fill="#3578e5" stroke="#ffffff" stroke-width="2" filter="url(#glow)"/>
-<text x="106" y="630" font-size="7.2" font-weight="600" fill="#59636e" text-anchor="middle" textLength="17.568" lengthAdjust="spacingAndGlyphs">LINK</text>
-<circle class="state s3" cx="174" cy="610" r="6" fill="#159f72" stroke="#ffffff" stroke-width="2" filter="url(#glow)"/>
-<text x="174" y="630" font-size="7.2" font-weight="600" fill="#59636e" text-anchor="middle" textLength="26.352" lengthAdjust="spacingAndGlyphs">STREAM</text>
-<circle class="state s4" cx="242" cy="610" r="6" fill="#b66a00" stroke="#ffffff" stroke-width="2" filter="url(#glow)"/>
-<text x="242" y="630" font-size="7.2" font-weight="600" fill="#59636e" text-anchor="middle" textLength="21.96" lengthAdjust="spacingAndGlyphs">RETRY</text>
-<circle class="state s5" cx="322" cy="610" r="6" fill="#d34f8c" stroke="#ffffff" stroke-width="2" filter="url(#glow)"/>
-<text x="322" y="630" font-size="7.2" font-weight="600" fill="#59636e" text-anchor="middle" textLength="8.784" lengthAdjust="spacingAndGlyphs">OK</text>
-<text x="20" y="651" font-size="8.2" font-weight="600" fill="#59636e" text-anchor="start" textLength="120.048" lengthAdjust="spacingAndGlyphs">SYNTHETIC / NOT MEASURED</text>
-<text x="340" y="651" font-size="8.2" font-weight="600" fill="#59636e" text-anchor="end" textLength="65.026" lengthAdjust="spacingAndGlyphs">AUTO-RECOVERY</text>
+<path class="trace " d="M146 340H312" stroke="#159f72" stroke-width="2" stroke-linecap="round"/>
+<circle cx="146" cy="340" r="3" fill="#159f72"/>
+<circle cx="312" cy="340" r="3" fill="#159f72"/>
+<circle class="packet" r="4" fill="#159f72"><animateMotion path="M146 340H312" dur="3.4s" repeatCount="indefinite"/></circle>
+<text x="34" y="390" font-size="8.5" font-weight="700" fill="#d34f8c" text-anchor="start" textLength="88.145" lengthAdjust="spacingAndGlyphs">3D RECONSTRUCTION</text>
+<text x="34" y="405" font-size="7.2" font-weight="500" fill="#59636e" text-anchor="start" textLength="101.016" lengthAdjust="spacingAndGlyphs">IMAGES -&gt; NERF -&gt; SCENE</text>
+<path d="M146 394H312" stroke="#c7d2dc" stroke-width="6" stroke-linecap="round"/>
+<path class="trace " d="M146 394H312" stroke="#d34f8c" stroke-width="2" stroke-linecap="round"/>
+<circle cx="146" cy="394" r="3" fill="#d34f8c"/>
+<circle cx="312" cy="394" r="3" fill="#d34f8c"/>
+<circle class="packet" r="4" fill="#d34f8c"><animateMotion path="M146 394H312" dur="3.4s" repeatCount="indefinite"/></circle>
+<g filter="url(#soft)"><rect x="20" y="449" width="320" height="162" rx="5" fill="#f6f8fa" stroke="#d0d7de"/></g>
+<text x="34" y="472" font-size="9" font-weight="700" fill="#59636e" text-anchor="start" textLength="115.29" lengthAdjust="spacingAndGlyphs">PORTFOLIO EVENT TRACE</text>
+<rect class="event e1" x="34" y="477" width="292" height="19" rx="3" fill="#069fb7"/>
+<rect x="40" y="480" width="2" height="13" rx="1" fill="#069fb7"/>
+<text x="48" y="490" font-size="8.2" font-weight="600" fill="#59636e" text-anchor="start" textLength="10.004" lengthAdjust="spacingAndGlyphs">00</text>
+<text x="70" y="490" font-size="8.2" font-weight="600" fill="#1f2328" text-anchor="start" textLength="45.018" lengthAdjust="spacingAndGlyphs">RTOS_TASK</text>
+<rect class="event e2" x="34" y="496" width="292" height="19" rx="3" fill="#3578e5"/>
+<rect x="40" y="499" width="2" height="13" rx="1" fill="#3578e5"/>
+<text x="48" y="509" font-size="8.2" font-weight="600" fill="#59636e" text-anchor="start" textLength="10.004" lengthAdjust="spacingAndGlyphs">01</text>
+<text x="70" y="509" font-size="8.2" font-weight="600" fill="#1f2328" text-anchor="start" textLength="50.02" lengthAdjust="spacingAndGlyphs">HID_REPORT</text>
+<rect class="event e3" x="34" y="515" width="292" height="19" rx="3" fill="#8250df"/>
+<rect x="40" y="518" width="2" height="13" rx="1" fill="#8250df"/>
+<text x="48" y="528" font-size="8.2" font-weight="600" fill="#59636e" text-anchor="start" textLength="10.004" lengthAdjust="spacingAndGlyphs">02</text>
+<text x="70" y="528" font-size="8.2" font-weight="600" fill="#1f2328" text-anchor="start" textLength="50.02" lengthAdjust="spacingAndGlyphs">OPUS_FRAME</text>
+<rect class="event e4" x="34" y="534" width="292" height="19" rx="3" fill="#d34f8c"/>
+<rect x="40" y="537" width="2" height="13" rx="1" fill="#d34f8c"/>
+<text x="48" y="547" font-size="8.2" font-weight="600" fill="#59636e" text-anchor="start" textLength="10.004" lengthAdjust="spacingAndGlyphs">03</text>
+<text x="70" y="547" font-size="8.2" font-weight="600" fill="#1f2328" text-anchor="start" textLength="50.02" lengthAdjust="spacingAndGlyphs">LC3_STREAM</text>
+<rect class="event e5" x="34" y="553" width="292" height="19" rx="3" fill="#159f72"/>
+<rect x="40" y="556" width="2" height="13" rx="1" fill="#159f72"/>
+<text x="48" y="566" font-size="8.2" font-weight="600" fill="#59636e" text-anchor="start" textLength="10.004" lengthAdjust="spacingAndGlyphs">04</text>
+<text x="70" y="566" font-size="8.2" font-weight="600" fill="#1f2328" text-anchor="start" textLength="90.036" lengthAdjust="spacingAndGlyphs">WORKFLOW_TRIGGERED</text>
+<rect class="event e6" x="34" y="572" width="292" height="19" rx="3" fill="#b66a00"/>
+<rect x="40" y="575" width="2" height="13" rx="1" fill="#b66a00"/>
+<text x="48" y="585" font-size="8.2" font-weight="600" fill="#59636e" text-anchor="start" textLength="10.004" lengthAdjust="spacingAndGlyphs">05</text>
+<text x="70" y="585" font-size="8.2" font-weight="600" fill="#1f2328" text-anchor="start" textLength="80.032" lengthAdjust="spacingAndGlyphs">NERF_SCENE_BUILT</text>
+<g filter="url(#soft)"><rect x="20" y="627" width="320" height="70" rx="5" fill="#f6f8fa" stroke="#d0d7de"/></g>
+<text x="34" y="650" font-size="9" font-weight="700" fill="#59636e" text-anchor="start" textLength="109.8" lengthAdjust="spacingAndGlyphs">ENGINEERING WORKFLOW</text>
+<path d="M38 665H322" stroke="#c7d2dc" stroke-width="2"/>
+<circle class="state s1" cx="38" cy="665" r="6" fill="#069fb7" stroke="#ffffff" stroke-width="2" filter="url(#glow)"/>
+<text x="38" y="685" font-size="7.2" font-weight="600" fill="#59636e" text-anchor="middle" textLength="35.136" lengthAdjust="spacingAndGlyphs">DISCOVER</text>
+<circle class="state s2" cx="106" cy="665" r="6" fill="#3578e5" stroke="#ffffff" stroke-width="2" filter="url(#glow)"/>
+<text x="106" y="685" font-size="7.2" font-weight="600" fill="#59636e" text-anchor="middle" textLength="26.352" lengthAdjust="spacingAndGlyphs">DESIGN</text>
+<circle class="state s3" cx="174" cy="665" r="6" fill="#159f72" stroke="#ffffff" stroke-width="2" filter="url(#glow)"/>
+<text x="174" y="685" font-size="7.2" font-weight="600" fill="#59636e" text-anchor="middle" textLength="21.96" lengthAdjust="spacingAndGlyphs">BUILD</text>
+<circle class="state s4" cx="242" cy="665" r="6" fill="#b66a00" stroke="#ffffff" stroke-width="2" filter="url(#glow)"/>
+<text x="242" y="685" font-size="7.2" font-weight="600" fill="#59636e" text-anchor="middle" textLength="17.568" lengthAdjust="spacingAndGlyphs">TEST</text>
+<circle class="state s5" cx="322" cy="665" r="6" fill="#d34f8c" stroke="#ffffff" stroke-width="2" filter="url(#glow)"/>
+<text x="322" y="685" font-size="7.2" font-weight="600" fill="#59636e" text-anchor="middle" textLength="30.744" lengthAdjust="spacingAndGlyphs">ITERATE</text>
+<text x="20" y="712" font-size="8.2" font-weight="600" fill="#59636e" text-anchor="start" textLength="120.048" lengthAdjust="spacingAndGlyphs">SYNTHETIC / NO LIVE DATA</text>
+<text x="340" y="712" font-size="8.2" font-weight="600" fill="#59636e" text-anchor="end" textLength="60.024" lengthAdjust="spacingAndGlyphs">MULTI-DOMAIN</text>
 </svg>
