@@ -150,10 +150,10 @@ Repository commits include all authors on the default branch. Grouped projects s
 <!-- LANGUAGES:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/languages-mobile-dark.svg?v=6574b991e503" />
-    <source media="(max-width: 600px)" srcset="./metrics/languages-mobile.svg?v=75c1d61736a1" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg?v=9df4bd0d539b" />
-    <img alt="Repository language mix" src="./metrics/languages.svg?v=b7dd5c79891f" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/languages-mobile-dark.svg?v=d098d25ce152" />
+    <source media="(max-width: 600px)" srcset="./metrics/languages-mobile.svg?v=06a34fb0634a" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg?v=c3fd28625563" />
+    <img alt="Repository language mix" src="./metrics/languages.svg?v=e4b740209030" width="880" />
   </picture>
 </p>
 <!-- LANGUAGES:END -->
