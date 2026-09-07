@@ -170,8 +170,17 @@ Repository commits include all authors on the default branch. Grouped projects s
 <sub>Project metrics refresh automatically. Skill icons by <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a>.</sub>
 
 <details open>
-<summary>Contribution calendar and GitHub overview</summary>
+<summary>Contribution Activity Console</summary>
 
-<p align="center"><img alt="GitHub overview and isometric contribution calendar" src="./metrics/overview.svg" width="480" /></p>
+<!-- OVERVIEW:START -->
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/overview-mobile-dark.svg?v=5eeb327afd62" />
+    <source media="(max-width: 600px)" srcset="./metrics/overview-mobile.svg?v=32335e269355" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/overview-dark.svg?v=121e0ff64be8" />
+    <img alt="Contribution Activity Console" src="./metrics/overview.svg?v=0555ab41f549" width="880" />
+  </picture>
+</p>
+<!-- OVERVIEW:END -->
 
 </details>
