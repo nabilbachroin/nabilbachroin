@@ -152,10 +152,10 @@ Repository commits include all authors on the default branch. Grouped projects s
 <!-- LANGUAGES:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/languages-mobile-dark.svg?v=d12094210e89" />
-    <source media="(max-width: 600px)" srcset="./metrics/languages-mobile.svg?v=c4f5b9649179" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg?v=19e1588a4aa9" />
-    <img alt="Repository language mix" src="./metrics/languages.svg?v=e1a3f2f8d160" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/languages-mobile-dark.svg?v=edeccfca8689" />
+    <source media="(max-width: 600px)" srcset="./metrics/languages-mobile.svg?v=4c92af504a96" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg?v=5aa05609c1e1" />
+    <img alt="Repository language mix" src="./metrics/languages.svg?v=6cf1adcbd6a7" width="880" />
   </picture>
 </p>
 <!-- LANGUAGES:END -->
@@ -175,10 +175,10 @@ Repository commits include all authors on the default branch. Grouped projects s
 <!-- OVERVIEW:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/overview-mobile-dark.svg?v=dfd472467d46" />
-    <source media="(max-width: 600px)" srcset="./metrics/overview-mobile.svg?v=1f240daa37d3" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/overview-dark.svg?v=81bc0152b866" />
-    <img alt="Contribution Activity Console" src="./metrics/overview.svg?v=5de956609e19" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/overview-mobile-dark.svg?v=dfc645bd6652" />
+    <source media="(max-width: 600px)" srcset="./metrics/overview-mobile.svg?v=58a4bbe06399" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/overview-dark.svg?v=2ed313987892" />
+    <img alt="Contribution Activity Console" src="./metrics/overview.svg?v=f4ae808feb8c" width="880" />
   </picture>
 </p>
 <!-- OVERVIEW:END -->
