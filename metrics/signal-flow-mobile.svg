@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="424" viewBox="0 0 360 424" role="img" aria-labelledby="title desc">
+<title id="title">Animated embedded systems signal flow</title>
+<desc id="desc">Conceptual control and audio paths with animated data packets.</desc>
+<defs>
+<pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dce5ec" stroke-width=".6" opacity=".45"/></pattern>
+<linearGradient id="header" gradientUnits="userSpaceOnUse" x1="20" y1="0" x2="340" y2="0"><stop stop-color="#069fb7"/><stop offset=".48" stop-color="#8c55d9"/><stop offset="1" stop-color="#d34f8c"/></linearGradient>
+<linearGradient id="control" gradientUnits="userSpaceOnUse" x1="20" y1="0" x2="340" y2="0"><stop stop-color="#069fb7"/><stop offset="1" stop-color="#3578e5"/></linearGradient>
+<linearGradient id="audio" gradientUnits="userSpaceOnUse" x1="20" y1="0" x2="340" y2="0"><stop stop-color="#159f72"/><stop offset=".5" stop-color="#8c55d9"/><stop offset="1" stop-color="#d34f8c"/></linearGradient>
+<filter id="glow" x="-40%" y="-80%" width="180%" height="260%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000" flood-opacity=".18"/></filter>
+</defs>
+<style>text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:0}.trace{stroke-dasharray:7 9;animation:flow 1.7s linear infinite}.trace.audio{animation-duration:2.1s}.scan{animation:scan 3.6s ease-in-out infinite}.led{animation:blink 1.8s ease-in-out infinite}.packet{filter:url(#glow)}@keyframes flow{to{stroke-dashoffset:-32}}@keyframes scan{0%,100%{opacity:.15;transform:translateX(-30px)}50%{opacity:.7;transform:translateX(30px)}}@keyframes blink{0%,100%{opacity:.35}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.trace,.scan,.led{animation:none}.packet{display:none}}</style>
+<rect x=".5" y=".5" width="359" height="423" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="1" y="1" width="358" height="422" rx="6" fill="url(#grid)" opacity=".55"/>
+<text x="20" y="33" font-size="18" font-weight="700" fill="#1f2328" text-anchor="start" textLength="175.68" lengthAdjust="spacingAndGlyphs">EMBEDDED SYSTEMS</text>
+<text x="20" y="53" font-size="10" font-weight="600" fill="#59636e" text-anchor="start" textLength="176.9" lengthAdjust="spacingAndGlyphs">SIGNAL FLOW / CONCEPTUAL VIEW</text>
+<path d="M20 69H340" stroke="url(#header)" stroke-width="1.5"/>
+<path class="scan" d="M20 69H115" stroke="url(#header)" stroke-width="4" filter="url(#glow)"/>
+<text x="20" y="95" font-size="10" font-weight="700" fill="#069fb7" text-anchor="start" textLength="79.3" lengthAdjust="spacingAndGlyphs">CONTROL / HID</text>
+<text x="20" y="259" font-size="10" font-weight="700" fill="#159f72" text-anchor="start" textLength="85.4" lengthAdjust="spacingAndGlyphs">AUDIO PIPELINE</text>
+<path d="M90 144H116" fill="none" stroke="#c7d2dc" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="trace control" d="M90 144H116" fill="none" stroke="url(#control)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle class="packet" r="4" fill="url(#control)"><animateMotion path="M90 144H116" dur="1.2s" begin="0s" repeatCount="indefinite"/></circle>
+<path d="M236 144H251V126H270" fill="none" stroke="#c7d2dc" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="trace control" d="M236 144H251V126H270" fill="none" stroke="url(#control)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle class="packet" r="4" fill="url(#control)"><animateMotion path="M236 144H251V126H270" dur="1.7s" begin="0.3s" repeatCount="indefinite"/></circle>
+<path d="M251 144V184H270" fill="none" stroke="#c7d2dc" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="trace control" d="M251 144V184H270" fill="none" stroke="url(#control)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle class="packet" r="4" fill="url(#control)"><animateMotion path="M251 144V184H270" dur="1.9s" begin="1s" repeatCount="indefinite"/></circle>
+<g filter="url(#soft)"><rect x="20" y="120" width="70" height="48" rx="5" fill="#f6f8fa" stroke="#069fb7" stroke-width="1.2"/><path d="M27 128V160" stroke="#069fb7" stroke-width="3" stroke-linecap="round"/></g>
+<text x="58" y="148" font-size="11" font-weight="700" fill="#1f2328" text-anchor="middle" textLength="33.55" lengthAdjust="spacingAndGlyphs">INPUT</text>
+<path d="M108 120H116M236 120H244" stroke="#94a3b1" stroke-width="3" stroke-linecap="round"/>
+<path d="M108 132H116M236 132H244" stroke="#94a3b1" stroke-width="3" stroke-linecap="round"/>
+<path d="M108 144H116M236 144H244" stroke="#94a3b1" stroke-width="3" stroke-linecap="round"/>
+<path d="M108 156H116M236 156H244" stroke="#94a3b1" stroke-width="3" stroke-linecap="round"/>
+<path d="M108 168H116M236 168H244" stroke="#94a3b1" stroke-width="3" stroke-linecap="round"/>
+<g filter="url(#soft)"><rect x="116" y="108" width="120" height="72" rx="7" fill="#f6f8fa" stroke="url(#control)" stroke-width="1.5"/><rect x="125" y="117" width="102" height="54" rx="4" fill="#edf3f7" stroke="#dce5ec" stroke-dasharray="3 4"/></g>
+<circle class="led" cx="219" cy="125" r="3.5" fill="#159f72" filter="url(#glow)"/>
+<text x="176" y="140" font-size="11.5" font-weight="700" fill="#1f2328" text-anchor="middle" textLength="91.195" lengthAdjust="spacingAndGlyphs">FIRMWARE CORE</text>
+<text x="176" y="161" font-size="9.5" font-weight="600" fill="#069fb7" text-anchor="middle" textLength="81.13" lengthAdjust="spacingAndGlyphs">RTOS | C | ISR</text>
+<g filter="url(#soft)"><rect x="270" y="104" width="70" height="44" rx="5" fill="#f6f8fa" stroke="#3578e5" stroke-width="1.2"/><path d="M277 112V140" stroke="#3578e5" stroke-width="3" stroke-linecap="round"/></g>
+<text x="308" y="123" font-size="11" font-weight="700" fill="#1f2328" text-anchor="middle" textLength="20.13" lengthAdjust="spacingAndGlyphs">BLE</text>
+<text x="308" y="141" font-size="9.5" font-weight="500" fill="#59636e" text-anchor="middle" textLength="28.975" lengthAdjust="spacingAndGlyphs">radio</text>
+<g filter="url(#soft)"><rect x="270" y="162" width="70" height="44" rx="5" fill="#f6f8fa" stroke="#8c55d9" stroke-width="1.2"/><path d="M277 170V198" stroke="#8c55d9" stroke-width="3" stroke-linecap="round"/></g>
+<text x="308" y="181" font-size="11" font-weight="700" fill="#1f2328" text-anchor="middle" textLength="20.13" lengthAdjust="spacingAndGlyphs">USB</text>
+<text x="308" y="199" font-size="9.5" font-weight="500" fill="#59636e" text-anchor="middle" textLength="17.385" lengthAdjust="spacingAndGlyphs">HID</text>
+<path d="M88 300H105" fill="none" stroke="#c7d2dc" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="trace audio" d="M88 300H105" fill="none" stroke="url(#audio)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle class="packet" r="4" fill="url(#audio)"><animateMotion path="M88 300H105" dur="1s" begin="0.1s" repeatCount="indefinite"/></circle>
+<path d="M170 300H187" fill="none" stroke="#c7d2dc" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="trace audio" d="M170 300H187" fill="none" stroke="url(#audio)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle class="packet" r="4" fill="url(#audio)"><animateMotion path="M170 300H187" dur="1s" begin="0.5s" repeatCount="indefinite"/></circle>
+<path d="M247 300H264" fill="none" stroke="#c7d2dc" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="trace audio" d="M247 300H264" fill="none" stroke="url(#audio)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle class="packet" r="4" fill="url(#audio)"><animateMotion path="M247 300H264" dur="1s" begin="0.9s" repeatCount="indefinite"/></circle>
+<g filter="url(#soft)"><rect x="20" y="276" width="68" height="48" rx="5" fill="#f6f8fa" stroke="#159f72" stroke-width="1.2"/><path d="M27 284V316" stroke="#159f72" stroke-width="3" stroke-linecap="round"/></g>
+<text x="57" y="297" font-size="10.5" font-weight="700" fill="#1f2328" text-anchor="middle" textLength="32.025" lengthAdjust="spacingAndGlyphs">AUDIO</text>
+<text x="57" y="315" font-size="9.5" font-weight="500" fill="#59636e" text-anchor="middle" textLength="11.59" lengthAdjust="spacingAndGlyphs">IN</text>
+<g filter="url(#soft)"><rect x="105" y="276" width="65" height="48" rx="5" fill="#f6f8fa" stroke="#8c55d9" stroke-width="1.2"/><path d="M112 284V316" stroke="#8c55d9" stroke-width="3" stroke-linecap="round"/></g>
+<text x="140.5" y="297" font-size="10.5" font-weight="700" fill="#1f2328" text-anchor="middle" textLength="32.025" lengthAdjust="spacingAndGlyphs">CODEC</text>
+<text x="140.5" y="315" font-size="9.5" font-weight="500" fill="#59636e" text-anchor="middle" textLength="46.36" lengthAdjust="spacingAndGlyphs">Opus/LC3</text>
+<g filter="url(#soft)"><rect x="187" y="276" width="60" height="48" rx="5" fill="#f6f8fa" stroke="#d34f8c" stroke-width="1.2"/><path d="M194 284V316" stroke="#d34f8c" stroke-width="3" stroke-linecap="round"/></g>
+<text x="220" y="297" font-size="11" font-weight="700" fill="#1f2328" text-anchor="middle" textLength="20.13" lengthAdjust="spacingAndGlyphs">DSP</text>
+<text x="220" y="315" font-size="9.5" font-weight="500" fill="#59636e" text-anchor="middle" textLength="28.975" lengthAdjust="spacingAndGlyphs">tuned</text>
+<g filter="url(#soft)"><rect x="264" y="276" width="76" height="48" rx="5" fill="#f6f8fa" stroke="#3578e5" stroke-width="1.2"/><path d="M271 284V316" stroke="#3578e5" stroke-width="3" stroke-linecap="round"/></g>
+<text x="305" y="304" font-size="10.5" font-weight="700" fill="#1f2328" text-anchor="middle" textLength="38.43" lengthAdjust="spacingAndGlyphs">OUTPUT</text>
+<path d="M20 367H340" stroke="#d0d7de" stroke-width="1"/>
+<path class="trace audio" d="M20 353L36 353 44 341 54 365 66 347 78 359 88 353H340" fill="none" stroke="url(#audio)" stroke-width="2" filter="url(#glow)"/>
+<text x="20" y="394" font-size="10" font-weight="600" fill="#59636e" text-anchor="start" textLength="122" lengthAdjust="spacingAndGlyphs">EVENT-DRIVEN CONTROL</text>
+<text x="340" y="394" font-size="10" font-weight="600" fill="#59636e" text-anchor="end" textLength="103.7" lengthAdjust="spacingAndGlyphs">LOW-LATENCY AUDIO</text>
+</svg>

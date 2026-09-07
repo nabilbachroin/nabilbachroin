@@ -25,6 +25,17 @@ Outside embedded systems, I build web applications and automation for everyday n
 
 <p align="center"><a href="#tech-stack">Tech Stack</a> · <a href="#selected-work">Selected Work</a> · <a href="#activity">Activity</a></p>
 
+<!-- SIGNAL:START -->
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/signal-flow-mobile-dark.svg?v=8f37913463ec" />
+    <source media="(max-width: 600px)" srcset="./metrics/signal-flow-mobile.svg?v=cfa748bebd44" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/signal-flow-dark.svg?v=b7e849643d17" />
+    <img alt="Animated embedded systems signal flow" src="./metrics/signal-flow.svg?v=cd033507a282" width="880" />
+  </picture>
+</p>
+<!-- SIGNAL:END -->
+
 ## Tech Stack
 
 **Embedded, RTOS & Protocols**
