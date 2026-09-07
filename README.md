@@ -1,7 +1,15 @@
 <h1 align="center">Nabil Bachroin</h1>
 
-<p align="center"><strong>Embedded Firmware Engineer</strong><br />
-Wireless audio · Bluetooth LE · USB HID · DSP</p>
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3200&amp;pause=1300&amp;color=45D7EE&amp;center=true&amp;vCenter=true&amp;width=360&amp;height=55&amp;repeat=true&amp;letterSpacing=0&amp;lines=Embedded+Firmware+Engineer%3BWireless+Audio+%26+USB+HID%3BOpus+Codec+%26+DSP%3BC%2C+Python+%26+TypeScript" />
+    <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3200&amp;pause=1300&amp;color=087E98&amp;center=true&amp;vCenter=true&amp;width=360&amp;height=55&amp;repeat=true&amp;letterSpacing=0&amp;lines=Embedded+Firmware+Engineer%3BWireless+Audio+%26+USB+HID%3BOpus+Codec+%26+DSP%3BC%2C+Python+%26+TypeScript" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3200&amp;pause=1300&amp;color=45D7EE&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=55&amp;repeat=true&amp;letterSpacing=0&amp;lines=Embedded+Firmware+Engineer%3BLow-Latency+Wireless+Audio+%26+HID%3BOpus+Codec+%26+DSP+Optimization%3BBare-metal+C+by+day%2C+TypeScript+by+night" />
+    <img alt="Embedded Firmware Engineer - animated introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3200&amp;pause=1300&amp;color=087E98&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=55&amp;repeat=true&amp;letterSpacing=0&amp;lines=Embedded+Firmware+Engineer%3BLow-Latency+Wireless+Audio+%26+HID%3BOpus+Codec+%26+DSP+Optimization%3BBare-metal+C+by+day%2C+TypeScript+by+night" width="600" height="55" />
+  </picture>
+</p>
+
+<p align="center">Wireless audio · Bluetooth LE · USB HID · DSP</p>
 
 <p align="center">Taipei, Taiwan · Banyuwangi, Indonesia</p>
 
@@ -15,85 +23,21 @@ Wireless audio · Bluetooth LE · USB HID · DSP</p>
 I build firmware for connected devices, with a focus on wireless input, audio codecs, and DSP optimization.
 Outside embedded systems, I build web applications and automation for everyday needs, with a research background in computer vision and 3D reconstruction.
 
-<p align="center"><a href="#selected-work">Selected Work</a> · <a href="#tech-stack">Tech Stack</a> · <a href="#activity">Activity</a></p>
-
-## Selected Work
-
-Professional work is described by technology. Personal projects and family websites remain unlinked.
-
-<!-- PROJECTS:START -->
-<p align="center">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-emb-mobile-dark.svg?v=d3db5f640f00" />
-    <source media="(max-width: 600px)" srcset="./metrics/projects-emb-mobile.svg?v=1033b3c56a8a" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-emb-dark.svg?v=b7a7dae809dc" />
-    <img alt="Embedded &amp; Firmware" src="./metrics/projects-emb.svg?v=a3ecb5b0782a" width="880" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-web-mobile-dark.svg?v=2cfff6a9c2a6" />
-    <source media="(max-width: 600px)" srcset="./metrics/projects-web-mobile.svg?v=9dd6ea4f71f7" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-web-dark.svg?v=a69c7166c2b1" />
-    <img alt="Web &amp; Automation" src="./metrics/projects-web.svg?v=6d7ef3b46176" width="880" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-ml-mobile-dark.svg?v=31f4f10286a4" />
-    <source media="(max-width: 600px)" srcset="./metrics/projects-ml-mobile.svg?v=2d49b729eece" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-ml-dark.svg?v=b85d4f273290" />
-    <img alt="Machine Learning &amp; Research" src="./metrics/projects-ml.svg?v=41e5fb991678" width="880" />
-  </picture>
-</p>
-
-Repository commits include all authors on the default branch. Grouped projects sum their repository histories; counts are not a measure of individual output.
-<details>
-<summary>Project descriptions</summary>
-
-#### Embedded & Firmware
-
-| Project | Focus | Stack |
-|---|---|---|
-| Licensed game controller firmware | USB XInput, BLE HID, dual-mode pairing and USB audio on a single device | C, BLE, USB HID |
-| Ultra-low-latency wireless HID & audio | The latency-critical path for wireless input and audio: radio scheduling, buffering and latency analysis | C, BLE, RTOS |
-| Audio codec DSP development | Opus and LC3 codec development on a resource-constrained DSP core, optimised at the cycle level | C, Assembly, DSP |
-| Wireless ESL / EPD display | Firmware for battery-powered electronic shelf labels driving e-paper panels over a wireless link | C, e-paper, BLE |
-
-#### Web & Automation
-
-| Project | Focus | Stack |
-|---|---|---|
-| Tempong Order Hub & n8n-warung | Order management for a small food business, wired to automated workflows for orders, notifications and reporting | FastAPI, Python, React, PostgreSQL, n8n |
-| family-finance | Household budgeting and finance tracker | Fastify, TypeScript, Prisma, PostgreSQL |
-| RTRS - Remote Timer Rental System | Session timers for a children's toy rental business that survive interruption and recover mid-session | React, TypeScript, Express, PostgreSQL, Docker |
-| The Birth of Bilboo | Birth announcement site for my child, containerised and self-hosted | Laravel 11, PHP 8.3, Docker |
-| Netflix-style wedding invitation | Our wedding invitation built as a streaming-service browse page, complete with title cards | Nuxt 3, Vue |
-
-#### Machine Learning & Research
-
-| Project | Focus | Stack |
-|---|---|---|
-| clusterCraft | A finite state machine for cluster coordination | Python |
-| Baby cry classification | Classifies why an infant is crying - belly pain, hunger, discomfort, tiredness - from audio converted to spectrograms | Python, Jupyter |
-| VE3DOR | NeRF-based 3D reconstruction experiments evaluated with IoU and Chamfer Distance | Python, Jupyter, nerfstudio |
-
-</details>
-<!-- PROJECTS:END -->
+<p align="center"><a href="#tech-stack">Tech Stack</a> · <a href="#selected-work">Selected Work</a> · <a href="#activity">Activity</a></p>
 
 ## Tech Stack
 
 **Embedded, RTOS & Protocols**
 
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBkPSJNMTkuNSAxMy41QTggOCAwIDEgMSAxNiA1LjgiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjEuNCAzLjJsLjYgNi4yLTYtMS41eiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjIuNiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==&logoColor=white)
-![Zephyr RTOS](https://img.shields.io/badge/Zephyr%20RTOS-009C82?style=for-the-badge&logo=linuxfoundation&logoColor=white)
-![Keil MDK](https://img.shields.io/badge/Keil%20MDK-D9820D?style=for-the-badge&logo=arm&logoColor=white)
-![Bluetooth LE](https://img.shields.io/badge/Bluetooth%20LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
-![USB HID / XInput](https://img.shields.io/badge/USB%20HID%20%2F%20XInput-2C5282?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEuOSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBkPSJNNSAxMmgxM00xMC41IDEybDMuNS00LjZNMTMuNSAxMmwtMy41IDQuNiIvPjxjaXJjbGUgY3g9IjQuNCIgY3k9IjEyIiByPSIyLjQiIGZpbGw9IiNmZmYiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTcuNiA4LjloMy40djMuNGgtMy40eiIvPjxjaXJjbGUgY3g9IjkuNiIgY3k9IjE3LjQiIHI9IjIuMiIgZmlsbD0iI2ZmZiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xOC40IDkuMmw0LjQgMi44LTQuNCAyLjh6Ii8+PC9zdmc+&logoColor=white)
-![Opus & LC3](https://img.shields.io/badge/Opus%20%26%20LC3-7B2CBF?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGcgZmlsbD0iI2ZmZiI+PHJlY3QgeD0iMi40IiB5PSI5IiB3aWR0aD0iMi44IiBoZWlnaHQ9IjYiIHJ4PSIxLjQiLz48cmVjdCB4PSI3LjIiIHk9IjQuNSIgd2lkdGg9IjIuOCIgaGVpZ2h0PSIxNSIgcng9IjEuNCIvPjxyZWN0IHg9IjEyIiB5PSI3IiB3aWR0aD0iMi44IiBoZWlnaHQ9IjEwIiByeD0iMS40Ii8+PHJlY3QgeD0iMTYuOCIgeT0iMi44IiB3aWR0aD0iMi44IiBoZWlnaHQ9IjE4LjQiIHJ4PSIxLjQiLz48L2c+PC9zdmc+&logoColor=white)
-![DSP Optimisation](https://img.shields.io/badge/DSP%20Optimisation-9333EA?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZD0iTTEuNSAxMmMyLjYtNy40IDUuMi03LjQgNy44IDBzNS4yIDcuNCA3LjggMCAzLjktNC42IDUuNC0zLjQiLz48ZyBmaWxsPSIjZmZmIj48Y2lyY2xlIGN4PSI1LjQiIGN5PSI2LjQiIHI9IjEuNyIvPjxjaXJjbGUgY3g9IjEyLjkiIGN5PSIxNy42IiByPSIxLjciLz48Y2lyY2xlIGN4PSIyMC40IiBjeT0iOC45IiByPSIxLjciLz48L2c+PC9zdmc+&logoColor=white)
+<p>
+  <img alt="FreeRTOS" src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBkPSJNMTkuNSAxMy41QTggOCAwIDEgMSAxNiA1LjgiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjEuNCAzLjJsLjYgNi4yLTYtMS41eiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjIuNiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==&amp;logoColor=white" />
+  <img alt="Zephyr RTOS" src="https://img.shields.io/badge/Zephyr%20RTOS-009C82?style=for-the-badge&amp;logo=linuxfoundation&amp;logoColor=white" />
+  <img alt="Keil MDK" src="https://img.shields.io/badge/Keil%20MDK-D9820D?style=for-the-badge&amp;logo=arm&amp;logoColor=white" />
+  <img alt="Bluetooth LE" src="https://img.shields.io/badge/Bluetooth%20LE-0082FC?style=for-the-badge&amp;logo=bluetooth&amp;logoColor=white" />
+  <img alt="USB HID / XInput" src="https://img.shields.io/badge/USB%20HID%20%2F%20XInput-2C5282?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEuOSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBkPSJNNSAxMmgxM00xMC41IDEybDMuNS00LjZNMTMuNSAxMmwtMy41IDQuNiIvPjxjaXJjbGUgY3g9IjQuNCIgY3k9IjEyIiByPSIyLjQiIGZpbGw9IiNmZmYiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTcuNiA4LjloMy40djMuNGgtMy40eiIvPjxjaXJjbGUgY3g9IjkuNiIgY3k9IjE3LjQiIHI9IjIuMiIgZmlsbD0iI2ZmZiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xOC40IDkuMmw0LjQgMi44LTQuNCAyLjh6Ii8+PC9zdmc+&amp;logoColor=white" />
+  <img alt="Opus &amp; LC3" src="https://img.shields.io/badge/Opus%20%26%20LC3-7B2CBF?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGcgZmlsbD0iI2ZmZiI+PHJlY3QgeD0iMi40IiB5PSI5IiB3aWR0aD0iMi44IiBoZWlnaHQ9IjYiIHJ4PSIxLjQiLz48cmVjdCB4PSI3LjIiIHk9IjQuNSIgd2lkdGg9IjIuOCIgaGVpZ2h0PSIxNSIgcng9IjEuNCIvPjxyZWN0IHg9IjEyIiB5PSI3IiB3aWR0aD0iMi44IiBoZWlnaHQ9IjEwIiByeD0iMS40Ii8+PHJlY3QgeD0iMTYuOCIgeT0iMi44IiB3aWR0aD0iMi44IiBoZWlnaHQ9IjE4LjQiIHJ4PSIxLjQiLz48L2c+PC9zdmc+&amp;logoColor=white" />
+  <img alt="DSP Optimisation" src="https://img.shields.io/badge/DSP%20Optimisation-9333EA?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgZD0iTTEuNSAxMmMyLjYtNy40IDUuMi03LjQgNy44IDBzNS4yIDcuNCA3LjggMCAzLjktNC42IDUuNC0zLjQiLz48ZyBmaWxsPSIjZmZmIj48Y2lyY2xlIGN4PSI1LjQiIGN5PSI2LjQiIHI9IjEuNyIvPjxjaXJjbGUgY3g9IjEyLjkiIGN5PSIxNy42IiByPSIxLjciLz48Y2lyY2xlIGN4PSIyMC40IiBjeT0iOC45IiByPSIxLjciLz48L2c+PC9zdmc+&amp;logoColor=white" />
+</p>
 
 **Languages**
 
@@ -140,25 +84,55 @@ Repository commits include all authors on the default branch. Grouped projects s
   <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/cmake-dark.svg" /><img src="./assets/icons/cmake-light.svg" alt="CMake" title="CMake" width="42" height="42" /></picture>
 </p>
 
+## Selected Work
+
+Professional work is described by technology. Personal projects and family websites remain unlinked.
+
+<!-- PROJECTS:START -->
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-emb-mobile-dark.svg?v=d6f138417ab9" />
+    <source media="(max-width: 600px)" srcset="./metrics/projects-emb-mobile.svg?v=b7578629077d" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-emb-dark.svg?v=f71c6e56599a" />
+    <img alt="Embedded &amp; Firmware" src="./metrics/projects-emb.svg?v=a366153cb858" width="880" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-web-mobile-dark.svg?v=146c9847e459" />
+    <source media="(max-width: 600px)" srcset="./metrics/projects-web-mobile.svg?v=2a24433caf45" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-web-dark.svg?v=5698e9dbf01a" />
+    <img alt="Web &amp; Automation" src="./metrics/projects-web.svg?v=80f4e74a09ea" width="880" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-ml-mobile-dark.svg?v=79e1f4b4ae46" />
+    <source media="(max-width: 600px)" srcset="./metrics/projects-ml-mobile.svg?v=8174ebb3c90b" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-ml-dark.svg?v=5ea88b2bf5c1" />
+    <img alt="Machine Learning &amp; Research" src="./metrics/projects-ml.svg?v=530b9f8a8438" width="880" />
+  </picture>
+</p>
+
+Repository commits include all authors on the default branch. Grouped projects sum their repository histories; counts are not a measure of individual output.
+
+[Read the text version of selected work](./PROJECTS.md).
+<!-- PROJECTS:END -->
+
 ## Activity
 
 <!-- LANGUAGES:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/languages-mobile-dark.svg?v=3689a26397c2" />
-    <source media="(max-width: 600px)" srcset="./metrics/languages-mobile.svg?v=2fe64c40dc2c" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg?v=f99a336bc9b5" />
-    <img alt="Repository language mix" src="./metrics/languages.svg?v=cd8aff2217ea" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/languages-mobile-dark.svg?v=95f93eebeb8d" />
+    <source media="(max-width: 600px)" srcset="./metrics/languages-mobile.svg?v=62e50903eebe" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg?v=e3e683a03479" />
+    <img alt="Repository language mix" src="./metrics/languages.svg?v=32f2bdf6985e" width="880" />
   </picture>
 </p>
 <!-- LANGUAGES:END -->
-
-<details>
-<summary>Contribution calendar and GitHub overview</summary>
-
-<p align="center"><img alt="GitHub overview and isometric contribution calendar" src="./metrics/overview.svg" width="480" /></p>
-
-</details>
 
 <p align="center">
   <picture>
@@ -168,3 +142,10 @@ Repository commits include all authors on the default branch. Grouped projects s
 </p>
 
 <sub>Project metrics refresh automatically. Skill icons by <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a>.</sub>
+
+<details open>
+<summary>Contribution calendar and GitHub overview</summary>
+
+<p align="center"><img alt="GitHub overview and isometric contribution calendar" src="./metrics/overview.svg" width="480" /></p>
+
+</details>
