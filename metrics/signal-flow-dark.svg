@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="370" viewBox="0 0 880 370" role="img" aria-labelledby="title desc">
 <title id="title">Animated low-latency wireless audio and XInput signal flow</title>
-<desc id="desc">Conceptual end-to-end paths between a USB host, dongle firmware, BLE ISO link, joypad firmware and device input-output. XInput and microphone data travel toward the host; playback audio travels toward the joypad.</desc>
+<desc id="desc">Conceptual end-to-end paths between a USB host, dongle firmware, BLE ISO link, joypad firmware and device input-output. Microphone PCM is captured by the joypad audio codec, LC3-encoded by the joypad, decoded by the dongle and delivered to the host as USB microphone input. Playback audio follows the opposite codec path.</desc>
 <defs>
 <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#25303b" stroke-width=".6" opacity=".45"/></pattern>
 <linearGradient id="header" gradientUnits="userSpaceOnUse" x1="20" y1="0" x2="860" y2="0"><stop stop-color="#35d4e8"/><stop offset=".48" stop-color="#b889ff"/><stop offset="1" stop-color="#f778ba"/></linearGradient>
@@ -64,18 +64,18 @@
 <text x="784" y="234" font-size="11.5" font-weight="700" fill="#e6edf3" text-anchor="middle" textLength="91.195" lengthAdjust="spacingAndGlyphs">DAC / SPEAKER</text>
 <text x="784" y="252" font-size="9.5" font-weight="500" fill="#8b949e" text-anchor="middle" textLength="46.36" lengthAdjust="spacingAndGlyphs">playback</text>
 <g filter="url(#soft)"><rect x="20" y="298" width="118" height="48" rx="5" fill="#151b23" stroke="#f778ba" stroke-width="1.2"/><path d="M27 306V338" stroke="#f778ba" stroke-width="3" stroke-linecap="round"/></g>
-<text x="82" y="319" font-size="11.5" font-weight="700" fill="#e6edf3" text-anchor="middle" textLength="49.105" lengthAdjust="spacingAndGlyphs">USB MIC</text>
-<text x="82" y="337" font-size="9.5" font-weight="500" fill="#8b949e" text-anchor="middle" textLength="63.745" lengthAdjust="spacingAndGlyphs">PCM capture</text>
+<text x="82" y="319" font-size="11.5" font-weight="700" fill="#e6edf3" text-anchor="middle" textLength="70.15" lengthAdjust="spacingAndGlyphs">USB MIC IN</text>
+<text x="82" y="337" font-size="9.5" font-weight="500" fill="#8b949e" text-anchor="middle" textLength="57.95" lengthAdjust="spacingAndGlyphs">host input</text>
 <g filter="url(#soft)"><rect x="176" y="298" width="140" height="48" rx="5" fill="#151b23" stroke="#f778ba" stroke-width="1.2"/><path d="M183 306V338" stroke="#f778ba" stroke-width="3" stroke-linecap="round"/></g>
 <text x="249" y="319" font-size="11.5" font-weight="700" fill="#e6edf3" text-anchor="middle" textLength="70.15" lengthAdjust="spacingAndGlyphs">LC3 DECODE</text>
-<text x="249" y="337" font-size="9.5" font-weight="500" fill="#8b949e" text-anchor="middle" textLength="17.385" lengthAdjust="spacingAndGlyphs">DSP</text>
+<text x="249" y="337" font-size="9.5" font-weight="500" fill="#8b949e" text-anchor="middle" textLength="57.95" lengthAdjust="spacingAndGlyphs">dongle DSP</text>
 <g filter="url(#soft)"><rect x="359" y="298" width="122" height="48" rx="5" fill="#151b23" stroke="#f778ba" stroke-width="1.2"/><path d="M366 306V338" stroke="#f778ba" stroke-width="3" stroke-linecap="round"/></g>
 <text x="423" y="319" font-size="11.5" font-weight="700" fill="#e6edf3" text-anchor="middle" textLength="56.12" lengthAdjust="spacingAndGlyphs">AUDIO UP</text>
 <text x="423" y="337" font-size="9.5" font-weight="500" fill="#8b949e" text-anchor="middle" textLength="52.155" lengthAdjust="spacingAndGlyphs">BLE / ISO</text>
 <g filter="url(#soft)"><rect x="524" y="298" width="140" height="48" rx="5" fill="#151b23" stroke="#f778ba" stroke-width="1.2"/><path d="M531 306V338" stroke="#f778ba" stroke-width="3" stroke-linecap="round"/></g>
 <text x="597" y="319" font-size="11.5" font-weight="700" fill="#e6edf3" text-anchor="middle" textLength="70.15" lengthAdjust="spacingAndGlyphs">LC3 ENCODE</text>
-<text x="597" y="337" font-size="9.5" font-weight="500" fill="#8b949e" text-anchor="middle" textLength="17.385" lengthAdjust="spacingAndGlyphs">DSP</text>
+<text x="597" y="337" font-size="9.5" font-weight="500" fill="#8b949e" text-anchor="middle" textLength="57.95" lengthAdjust="spacingAndGlyphs">joypad DSP</text>
 <g filter="url(#soft)"><rect x="702" y="298" width="158" height="48" rx="5" fill="#151b23" stroke="#f778ba" stroke-width="1.2"/><path d="M709 306V338" stroke="#f778ba" stroke-width="3" stroke-linecap="round"/></g>
-<text x="784" y="319" font-size="11.5" font-weight="700" fill="#e6edf3" text-anchor="middle" textLength="63.135" lengthAdjust="spacingAndGlyphs">MIC INPUT</text>
-<text x="784" y="337" font-size="9.5" font-weight="500" fill="#8b949e" text-anchor="middle" textLength="40.565" lengthAdjust="spacingAndGlyphs">capture</text>
+<text x="784" y="319" font-size="11.5" font-weight="700" fill="#e6edf3" text-anchor="middle" textLength="77.165" lengthAdjust="spacingAndGlyphs">AUDIO CODEC</text>
+<text x="784" y="337" font-size="9.5" font-weight="500" fill="#8b949e" text-anchor="middle" textLength="63.745" lengthAdjust="spacingAndGlyphs">PCM capture</text>
 </svg>
