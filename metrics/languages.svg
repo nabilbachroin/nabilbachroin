@@ -10,8 +10,8 @@
 <linearGradient id="lang-2"><stop stop-color="#b48e2b"/><stop offset=".6" stop-color="#edbb38"/><stop offset="1" stop-color="#f2ce70"/></linearGradient>
 <linearGradient id="lang-3"><stop stop-color="#b44d4d"/><stop offset=".6" stop-color="#ed6565"/><stop offset="1" stop-color="#f29090"/></linearGradient>
 <linearGradient id="lang-4"><stop stop-color="#b7527e"/><stop offset=".6" stop-color="#f16ca6"/><stop offset="1" stop-color="#f595bf"/></linearGradient>
-<linearGradient id="lang-5"><stop stop-color="#889d34"/><stop offset=".6" stop-color="#b3ce45"/><stop offset="1" stop-color="#c8dc79"/></linearGradient>
-<linearGradient id="lang-6"><stop stop-color="#336ab6"/><stop offset=".6" stop-color="#438cf0"/><stop offset="1" stop-color="#78acf4"/></linearGradient>
+<linearGradient id="lang-5"><stop stop-color="#336ab6"/><stop offset=".6" stop-color="#438cf0"/><stop offset="1" stop-color="#78acf4"/></linearGradient>
+<linearGradient id="lang-6"><stop stop-color="#889d34"/><stop offset=".6" stop-color="#b3ce45"/><stop offset="1" stop-color="#c8dc79"/></linearGradient>
 <linearGradient id="lang-7"><stop stop-color="#027494"/><stop offset=".6" stop-color="#0298c3"/><stop offset="1" stop-color="#49b5d4"/></linearGradient>
 <linearGradient id="lang-8"><stop stop-color="#677180"/><stop offset=".6" stop-color="#8795a8"/><stop offset="1" stop-color="#a9b3c0"/></linearGradient>
 </defs>
@@ -26,11 +26,11 @@
 <g clip-path="url(#composition)">
 <rect class="composition-segment" x="20.000000" y="110" width="293.050599" height="18" fill="#20bcd4"><title>C: 34.9%</title></rect>
 <rect class="composition-segment" x="313.050599" y="110" width="138.355813" height="18" fill="#f48b43"><title>Jupyter Notebook: 16.5%</title></rect>
-<rect class="composition-segment" x="451.406411" y="110" width="114.250376" height="18" fill="#edbb38"><title>Python: 13.6%</title></rect>
-<rect class="composition-segment" x="565.656788" y="110" width="82.338199" height="18" fill="#ed6565"><title>HTML: 9.8%</title></rect>
-<rect class="composition-segment" x="647.994987" y="110" width="50.802785" height="18" fill="#f16ca6"><title>C++: 6.0%</title></rect>
-<rect class="composition-segment" x="698.797771" y="110" width="41.439492" height="18" fill="#b3ce45"><title>JavaScript: 4.9%</title></rect>
-<rect class="composition-segment" x="740.237264" y="110" width="41.374710" height="18" fill="#438cf0"><title>TypeScript: 4.9%</title></rect>
+<rect class="composition-segment" x="451.406411" y="110" width="114.401474" height="18" fill="#edbb38"><title>Python: 13.6%</title></rect>
+<rect class="composition-segment" x="565.807886" y="110" width="82.338199" height="18" fill="#ed6565"><title>HTML: 9.8%</title></rect>
+<rect class="composition-segment" x="648.146084" y="110" width="50.802785" height="18" fill="#f16ca6"><title>C++: 6.0%</title></rect>
+<rect class="composition-segment" x="698.948869" y="110" width="41.374710" height="18" fill="#438cf0"><title>TypeScript: 4.9%</title></rect>
+<rect class="composition-segment" x="740.323579" y="110" width="41.288395" height="18" fill="#b3ce45"><title>JavaScript: 4.9%</title></rect>
 <rect class="composition-segment" x="781.611974" y="110" width="20.101428" height="18" fill="#0298c3"><title>Perl: 2.4%</title></rect>
 <rect class="composition-segment" x="801.713401" y="110" width="58.286599" height="18" fill="#8795a8"><title>Other: 6.9%</title></rect>
 </g>
@@ -50,7 +50,7 @@
 <text x="36" y="258" font-size="13" font-weight="400" fill="#424a53" text-anchor="start" textLength="47.58" lengthAdjust="spacingAndGlyphs">Python</text>
 <text x="860" y="258" font-size="13" font-weight="600" fill="#1f2328" text-anchor="end" textLength="39.65" lengthAdjust="spacingAndGlyphs">13.6%</text>
 <rect x="180" y="246" width="612" height="16" rx="4" fill="#eaeef2"/>
-<rect class="language-fill" x="180" y="246" width="238.597808" height="16" rx="4" fill="url(#lang-2)"/>
+<rect class="language-fill" x="180" y="246" width="238.913357" height="16" rx="4" fill="url(#lang-2)"/>
 <circle cx="24" cy="288" r="4" fill="#ed6565"/>
 <text x="36" y="292" font-size="13" font-weight="400" fill="#424a53" text-anchor="start" textLength="31.72" lengthAdjust="spacingAndGlyphs">HTML</text>
 <text x="860" y="292" font-size="13" font-weight="600" fill="#1f2328" text-anchor="end" textLength="31.72" lengthAdjust="spacingAndGlyphs">9.8%</text>
@@ -61,16 +61,16 @@
 <text x="860" y="326" font-size="13" font-weight="600" fill="#1f2328" text-anchor="end" textLength="31.72" lengthAdjust="spacingAndGlyphs">6.0%</text>
 <rect x="180" y="314" width="612" height="16" rx="4" fill="#eaeef2"/>
 <rect class="language-fill" x="180" y="314" width="106.095345" height="16" rx="4" fill="url(#lang-4)"/>
-<circle cx="24" cy="356" r="4" fill="#b3ce45"/>
-<text x="36" y="360" font-size="13" font-weight="400" fill="#424a53" text-anchor="start" textLength="79.3" lengthAdjust="spacingAndGlyphs">JavaScript</text>
+<circle cx="24" cy="356" r="4" fill="#438cf0"/>
+<text x="36" y="360" font-size="13" font-weight="400" fill="#424a53" text-anchor="start" textLength="79.3" lengthAdjust="spacingAndGlyphs">TypeScript</text>
 <text x="860" y="360" font-size="13" font-weight="600" fill="#1f2328" text-anchor="end" textLength="31.72" lengthAdjust="spacingAndGlyphs">4.9%</text>
 <rect x="180" y="348" width="612" height="16" rx="4" fill="#eaeef2"/>
-<rect class="language-fill" x="180" y="348" width="86.541264" height="16" rx="4" fill="url(#lang-5)"/>
-<circle cx="24" cy="390" r="4" fill="#438cf0"/>
-<text x="36" y="394" font-size="13" font-weight="400" fill="#424a53" text-anchor="start" textLength="79.3" lengthAdjust="spacingAndGlyphs">TypeScript</text>
+<rect class="language-fill" x="180" y="348" width="86.405975" height="16" rx="4" fill="url(#lang-5)"/>
+<circle cx="24" cy="390" r="4" fill="#b3ce45"/>
+<text x="36" y="394" font-size="13" font-weight="400" fill="#424a53" text-anchor="start" textLength="79.3" lengthAdjust="spacingAndGlyphs">JavaScript</text>
 <text x="860" y="394" font-size="13" font-weight="600" fill="#1f2328" text-anchor="end" textLength="31.72" lengthAdjust="spacingAndGlyphs">4.9%</text>
 <rect x="180" y="382" width="612" height="16" rx="4" fill="#eaeef2"/>
-<rect class="language-fill" x="180" y="382" width="86.405975" height="16" rx="4" fill="url(#lang-6)"/>
+<rect class="language-fill" x="180" y="382" width="86.225715" height="16" rx="4" fill="url(#lang-6)"/>
 <circle cx="24" cy="424" r="4" fill="#0298c3"/>
 <text x="36" y="428" font-size="13" font-weight="400" fill="#424a53" text-anchor="start" textLength="31.72" lengthAdjust="spacingAndGlyphs">Perl</text>
 <text x="860" y="428" font-size="13" font-weight="600" fill="#1f2328" text-anchor="end" textLength="31.72" lengthAdjust="spacingAndGlyphs">2.4%</text>
