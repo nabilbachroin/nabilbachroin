@@ -113,10 +113,10 @@ Professional work is described by technology. Personal projects and family websi
 
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-web-mobile-dark.svg?v=d220c8bc5331" />
-    <source media="(max-width: 600px)" srcset="./metrics/projects-web-mobile.svg?v=233443316e9b" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-web-dark.svg?v=ec5d6a5d8e8a" />
-    <img alt="Web &amp; Automation" src="./metrics/projects-web.svg?v=3cc6ceb6d1ff" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-web-mobile-dark.svg?v=7fc11cff80de" />
+    <source media="(max-width: 600px)" srcset="./metrics/projects-web-mobile.svg?v=2be0192bcbea" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-web-dark.svg?v=2c4bfa22974d" />
+    <img alt="Web &amp; Automation" src="./metrics/projects-web.svg?v=90022c407f24" width="880" />
   </picture>
 </p>
 
@@ -152,10 +152,10 @@ Repository commits include all authors on the default branch. Grouped projects s
 <!-- LANGUAGES:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/languages-mobile-dark.svg?v=f9b0bf576545" />
-    <source media="(max-width: 600px)" srcset="./metrics/languages-mobile.svg?v=0336953d12d9" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg?v=1fe11cd97eaa" />
-    <img alt="Repository language mix" src="./metrics/languages.svg?v=a1667f602b3e" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/languages-mobile-dark.svg?v=bef7f06ab4ef" />
+    <source media="(max-width: 600px)" srcset="./metrics/languages-mobile.svg?v=ec4e15c5f597" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg?v=1ac32bc8e4c4" />
+    <img alt="Repository language mix" src="./metrics/languages.svg?v=df106ebc05ba" width="880" />
   </picture>
 </p>
 <!-- LANGUAGES:END -->
@@ -175,10 +175,10 @@ Repository commits include all authors on the default branch. Grouped projects s
 <!-- OVERVIEW:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/overview-mobile-dark.svg?v=d499f97d417e" />
-    <source media="(max-width: 600px)" srcset="./metrics/overview-mobile.svg?v=8caa75a01d96" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/overview-dark.svg?v=08255cf672cd" />
-    <img alt="Contribution Activity Console" src="./metrics/overview.svg?v=0b90a6e076e9" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/overview-mobile-dark.svg?v=a70cf9baa25f" />
+    <source media="(max-width: 600px)" srcset="./metrics/overview-mobile.svg?v=d5797d8fcbb6" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/overview-dark.svg?v=f937530c8c0e" />
+    <img alt="Contribution Activity Console" src="./metrics/overview.svg?v=befd3d309745" width="880" />
   </picture>
 </p>
 <!-- OVERVIEW:END -->
