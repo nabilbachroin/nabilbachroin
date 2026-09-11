@@ -104,28 +104,28 @@ Professional work is described by technology. Personal projects and family websi
 <!-- PROJECTS:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-emb-mobile-dark.svg?v=d3db5f640f00" />
-    <source media="(max-width: 600px)" srcset="./metrics/projects-emb-mobile.svg?v=1033b3c56a8a" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-emb-dark.svg?v=b7a7dae809dc" />
-    <img alt="Embedded &amp; Firmware" src="./metrics/projects-emb.svg?v=a3ecb5b0782a" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-emb-mobile-dark.svg?v=0e8ca7064d4d" />
+    <source media="(max-width: 600px)" srcset="./metrics/projects-emb-mobile.svg?v=2e51efb79419" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-emb-dark.svg?v=775aa8a71eeb" />
+    <img alt="Embedded &amp; Firmware" src="./metrics/projects-emb.svg?v=cddab614e1d3" width="880" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-web-mobile-dark.svg?v=b8f988050500" />
-    <source media="(max-width: 600px)" srcset="./metrics/projects-web-mobile.svg?v=284700cf1da6" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-web-dark.svg?v=cc73ac68b866" />
-    <img alt="Web &amp; Automation" src="./metrics/projects-web.svg?v=ed62807906e0" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-web-mobile-dark.svg?v=e419bbb4870a" />
+    <source media="(max-width: 600px)" srcset="./metrics/projects-web-mobile.svg?v=0f7075364291" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-web-dark.svg?v=d4e9889889b0" />
+    <img alt="Web &amp; Automation" src="./metrics/projects-web.svg?v=797f5ab94832" width="880" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-ml-mobile-dark.svg?v=31f4f10286a4" />
-    <source media="(max-width: 600px)" srcset="./metrics/projects-ml-mobile.svg?v=2d49b729eece" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-ml-dark.svg?v=b85d4f273290" />
-    <img alt="Machine Learning &amp; Research" src="./metrics/projects-ml.svg?v=41e5fb991678" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-ml-mobile-dark.svg?v=6646e4205883" />
+    <source media="(max-width: 600px)" srcset="./metrics/projects-ml-mobile.svg?v=049357340332" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-ml-dark.svg?v=66322101be34" />
+    <img alt="Machine Learning &amp; Research" src="./metrics/projects-ml.svg?v=255f6ddc2829" width="880" />
   </picture>
 </p>
 
@@ -152,10 +152,10 @@ Repository commits include all authors on the default branch. Grouped projects s
 <!-- LANGUAGES:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/languages-mobile-dark.svg?v=c7b6e1d97688" />
-    <source media="(max-width: 600px)" srcset="./metrics/languages-mobile.svg?v=9276cfbacc07" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg?v=3a5d03e70c10" />
-    <img alt="Repository language mix" src="./metrics/languages.svg?v=18e768e7fe87" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/languages-mobile-dark.svg?v=6aa69bbd3b1e" />
+    <source media="(max-width: 600px)" srcset="./metrics/languages-mobile.svg?v=be4f901b4bf2" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg?v=b454e8dab01a" />
+    <img alt="Repository language mix" src="./metrics/languages.svg?v=0d99f6bf693c" width="880" />
   </picture>
 </p>
 <!-- LANGUAGES:END -->
@@ -175,10 +175,10 @@ Repository commits include all authors on the default branch. Grouped projects s
 <!-- OVERVIEW:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/overview-mobile-dark.svg?v=a59f30372bd5" />
-    <source media="(max-width: 600px)" srcset="./metrics/overview-mobile.svg?v=80298f1d55c7" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/overview-dark.svg?v=7d8a85c2821c" />
-    <img alt="Contribution Activity Console" src="./metrics/overview.svg?v=dc71cba6f354" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/overview-mobile-dark.svg?v=c5a8dc8c83f4" />
+    <source media="(max-width: 600px)" srcset="./metrics/overview-mobile.svg?v=a79f4da60290" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/overview-dark.svg?v=903699d4b600" />
+    <img alt="Contribution Activity Console" src="./metrics/overview.svg?v=d60c69db6142" width="880" />
   </picture>
 </p>
 <!-- OVERVIEW:END -->
