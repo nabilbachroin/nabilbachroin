@@ -21,7 +21,7 @@
 <text x="230" y="156" font-size="10" font-weight="400" fill="#8b949e" text-anchor="start" textLength="73.2" lengthAdjust="spacingAndGlyphs">within range</text>
 <path d="M428 96V157" stroke="#30363d"/>
 <text x="440" y="105" font-size="10" font-weight="600" fill="#8b949e" text-anchor="start" textLength="42.7" lengthAdjust="spacingAndGlyphs">CURRENT</text>
-<text x="440" y="137" font-size="24" font-weight="700" fill="#a58af5" text-anchor="start" textLength="29.28" lengthAdjust="spacingAndGlyphs">13</text>
+<text x="440" y="137" font-size="24" font-weight="700" fill="#a58af5" text-anchor="start" textLength="14.64" lengthAdjust="spacingAndGlyphs">0</text>
 <text x="440" y="156" font-size="10" font-weight="400" fill="#8b949e" text-anchor="start" textLength="61" lengthAdjust="spacingAndGlyphs">day streak</text>
 <path d="M638 96V157" stroke="#30363d"/>
 <text x="650" y="105" font-size="10" font-weight="600" fill="#8b949e" text-anchor="start" textLength="24.4" lengthAdjust="spacingAndGlyphs">BEST</text>
