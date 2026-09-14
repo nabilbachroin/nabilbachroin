@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="372" viewBox="0 0 360 372" role="img" aria-label="Repository language composition by year">
+<style>text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:0}</style>
+<defs>
+<linearGradient id="spectrum" gradientUnits="userSpaceOnUse" x1="20" y1="0" x2="340" y2="0"><stop stop-color="#20bcd4"/><stop offset=".5" stop-color="#a58af5"/><stop offset="1" stop-color="#f16ca6"/></linearGradient>
+<filter id="glow" x="-10%" y="-200%" width="120%" height="500%"><feGaussianBlur stdDeviation="2"/></filter>
+</defs>
+<rect x="0.5" y="0.5" width="359" height="371" rx="8" fill="#ffffff" stroke="#d8dee4"/>
+<text x="20" y="38" font-size="16" font-weight="600" fill="#1f2328" text-anchor="start" textLength="136.64" lengthAdjust="spacingAndGlyphs">Language Trend</text>
+<text x="20" y="58" font-size="9.5" font-weight="400" fill="#656d76" text-anchor="start" textLength="318.725" lengthAdjust="spacingAndGlyphs">Repository composition per year - not authorship volume</text>
+<path d="M20 74H340" stroke="url(#spectrum)" stroke-width="3" opacity=".55" filter="url(#glow)"/>
+<rect x="32.80" y="100.00" width="38.40" height="150" rx="4" fill="#eaeef2"/>
+<rect x="32.80" y="100.00" width="38.40" height="148.48" fill="#DA5B0B"/>
+<rect x="32.80" y="248.48" width="38.40" height="1.52" fill="#8294a8"/>
+<text x="52" y="268" font-size="10" font-weight="600" fill="#424a53" text-anchor="middle" textLength="24.4" lengthAdjust="spacingAndGlyphs">2022</text>
+<text x="52" y="282" font-size="9" font-weight="400" fill="#656d76" text-anchor="middle" textLength="38.43" lengthAdjust="spacingAndGlyphs">4 repos</text>
+<rect x="96.80" y="100.00" width="38.40" height="150" rx="4" fill="#eaeef2"/>
+<rect x="96.80" y="100.00" width="38.40" height="36.86" fill="#555555"/>
+<rect x="96.80" y="136.86" width="38.40" height="38.77" fill="#DA5B0B"/>
+<rect x="96.80" y="175.63" width="38.40" height="12.97" fill="#3572A5"/>
+<rect x="96.80" y="188.60" width="38.40" height="36.07" fill="#e34c26"/>
+<rect x="96.80" y="224.66" width="38.40" height="17.14" fill="#f34b7d"/>
+<rect x="96.80" y="241.80" width="38.40" height="8.20" fill="#8294a8"/>
+<text x="116" y="268" font-size="10" font-weight="600" fill="#424a53" text-anchor="middle" textLength="24.4" lengthAdjust="spacingAndGlyphs">2023</text>
+<text x="116" y="282" font-size="9" font-weight="400" fill="#656d76" text-anchor="middle" textLength="43.92" lengthAdjust="spacingAndGlyphs">12 repos</text>
+<rect x="160.80" y="100.00" width="38.40" height="150" rx="4" fill="#eaeef2"/>
+<rect x="160.80" y="100.00" width="38.40" height="69.71" fill="#555555"/>
+<rect x="160.80" y="169.71" width="38.40" height="19.79" fill="#DA5B0B"/>
+<rect x="160.80" y="189.50" width="38.40" height="37.52" fill="#3572A5"/>
+<rect x="160.80" y="227.02" width="38.40" height="9.05" fill="#f34b7d"/>
+<rect x="160.80" y="236.07" width="38.40" height="13.93" fill="#8294a8"/>
+<text x="180" y="268" font-size="10" font-weight="600" fill="#424a53" text-anchor="middle" textLength="24.4" lengthAdjust="spacingAndGlyphs">2024</text>
+<text x="180" y="282" font-size="9" font-weight="400" fill="#656d76" text-anchor="middle" textLength="43.92" lengthAdjust="spacingAndGlyphs">16 repos</text>
+<rect x="224.80" y="100.00" width="38.40" height="150" rx="4" fill="#eaeef2"/>
+<rect x="224.80" y="100.00" width="38.40" height="101.90" fill="#555555"/>
+<rect x="224.80" y="201.90" width="38.40" height="13.55" fill="#3572A5"/>
+<rect x="224.80" y="215.45" width="38.40" height="8.01" fill="#e34c26"/>
+<rect x="224.80" y="223.46" width="38.40" height="11.76" fill="#f1e05a"/>
+<rect x="224.80" y="235.22" width="38.40" height="14.78" fill="#8294a8"/>
+<text x="244" y="268" font-size="10" font-weight="600" fill="#424a53" text-anchor="middle" textLength="24.4" lengthAdjust="spacingAndGlyphs">2025</text>
+<text x="244" y="282" font-size="9" font-weight="400" fill="#656d76" text-anchor="middle" textLength="43.92" lengthAdjust="spacingAndGlyphs">14 repos</text>
+<rect x="288.80" y="100.00" width="38.40" height="150" rx="4" fill="#eaeef2"/>
+<rect x="288.80" y="100.00" width="38.40" height="47.39" fill="#3572A5"/>
+<rect x="288.80" y="147.39" width="38.40" height="16.81" fill="#e34c26"/>
+<rect x="288.80" y="164.20" width="38.40" height="15.46" fill="#f1e05a"/>
+<rect x="288.80" y="179.67" width="38.40" height="23.36" fill="#012456"/>
+<rect x="288.80" y="203.03" width="38.40" height="21.64" fill="#3178c6"/>
+<rect x="288.80" y="224.67" width="38.40" height="25.33" fill="#8294a8"/>
+<text x="308" y="268" font-size="10" font-weight="600" fill="#424a53" text-anchor="middle" textLength="24.4" lengthAdjust="spacingAndGlyphs">2026</text>
+<text x="308" y="282" font-size="9" font-weight="400" fill="#656d76" text-anchor="middle" textLength="43.92" lengthAdjust="spacingAndGlyphs">10 repos</text>
+<rect x="20.00" y="296.50" width="9" height="9" rx="2" fill="#555555"/>
+<text x="35" y="304" font-size="9" font-weight="400" fill="#424a53" text-anchor="start" textLength="5.49" lengthAdjust="spacingAndGlyphs">C</text>
+<rect x="56.49" y="296.50" width="9" height="9" rx="2" fill="#DA5B0B"/>
+<text x="71.49" y="304" font-size="9" font-weight="400" fill="#424a53" text-anchor="start" textLength="87.84" lengthAdjust="spacingAndGlyphs">Jupyter Notebook</text>
+<rect x="175.33" y="296.50" width="9" height="9" rx="2" fill="#3572A5"/>
+<text x="190.33" y="304" font-size="9" font-weight="400" fill="#424a53" text-anchor="start" textLength="32.94" lengthAdjust="spacingAndGlyphs">Python</text>
+<rect x="239.27" y="296.50" width="9" height="9" rx="2" fill="#e34c26"/>
+<text x="254.27" y="304" font-size="9" font-weight="400" fill="#424a53" text-anchor="start" textLength="21.96" lengthAdjust="spacingAndGlyphs">HTML</text>
+<rect x="20.00" y="314.50" width="9" height="9" rx="2" fill="#f1e05a"/>
+<text x="35" y="322" font-size="9" font-weight="400" fill="#424a53" text-anchor="start" textLength="54.9" lengthAdjust="spacingAndGlyphs">JavaScript</text>
+<rect x="105.90" y="314.50" width="9" height="9" rx="2" fill="#f34b7d"/>
+<text x="120.9" y="322" font-size="9" font-weight="400" fill="#424a53" text-anchor="start" textLength="16.47" lengthAdjust="spacingAndGlyphs">C++</text>
+<rect x="153.37" y="314.50" width="9" height="9" rx="2" fill="#012456"/>
+<text x="168.37" y="322" font-size="9" font-weight="400" fill="#424a53" text-anchor="start" textLength="54.9" lengthAdjust="spacingAndGlyphs">PowerShell</text>
+<rect x="239.27" y="314.50" width="9" height="9" rx="2" fill="#3178c6"/>
+<text x="254.27" y="322" font-size="9" font-weight="400" fill="#424a53" text-anchor="start" textLength="54.9" lengthAdjust="spacingAndGlyphs">TypeScript</text>
+<rect x="20.00" y="332.50" width="9" height="9" rx="2" fill="#8294a8"/>
+<text x="35" y="340" font-size="9" font-weight="400" fill="#424a53" text-anchor="start" textLength="27.45" lengthAdjust="spacingAndGlyphs">Other</text>
+</svg>
