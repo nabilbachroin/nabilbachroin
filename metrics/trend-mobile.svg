@@ -42,9 +42,9 @@
 <rect x="288.80" y="100.00" width="38.40" height="47.39" fill="#3572A5"/>
 <rect x="288.80" y="147.39" width="38.40" height="16.81" fill="#e34c26"/>
 <rect x="288.80" y="164.20" width="38.40" height="15.46" fill="#f1e05a"/>
-<rect x="288.80" y="179.67" width="38.40" height="23.36" fill="#012456"/>
-<rect x="288.80" y="203.03" width="38.40" height="21.64" fill="#3178c6"/>
-<rect x="288.80" y="224.67" width="38.40" height="25.33" fill="#8294a8"/>
+<rect x="288.80" y="179.66" width="38.40" height="23.36" fill="#012456"/>
+<rect x="288.80" y="203.02" width="38.40" height="21.67" fill="#3178c6"/>
+<rect x="288.80" y="224.69" width="38.40" height="25.31" fill="#8294a8"/>
 <text x="308" y="268" font-size="10" font-weight="600" fill="#424a53" text-anchor="middle" textLength="24.4" lengthAdjust="spacingAndGlyphs">2026</text>
 <text x="308" y="282" font-size="9" font-weight="400" fill="#656d76" text-anchor="middle" textLength="43.92" lengthAdjust="spacingAndGlyphs">10 repos</text>
 <rect x="20.00" y="296.50" width="9" height="9" rx="2" fill="#555555"/>
