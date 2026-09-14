@@ -11,7 +11,7 @@
 
 <p align="center">Wireless audio · Bluetooth LE · USB HID · DSP</p>
 
-<p align="center">Taipei, Taiwan · Banyuwangi, Indonesia</p>
+<p align="center">Taipei, Taiwan · Singapore · Banyuwangi, Indonesia</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nabilbachroin/"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Nabil%20Bachroin-0A66C2?logo=linkedin-white&logoColor=white" /></a>
