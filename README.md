@@ -160,6 +160,12 @@ Repository commits include all authors on the default branch. Grouped projects s
 </p>
 <!-- LANGUAGES:END -->
 
+<!-- TREND:START -->
+<!-- TREND:END -->
+
+<!-- HABITS:START -->
+<!-- HABITS:END -->
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabilbachroin/nabilbachroin/output/snake-dark.svg" />
