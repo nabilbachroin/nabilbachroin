@@ -39,11 +39,11 @@
 <text x="244" y="268" font-size="10" font-weight="600" fill="#424a53" text-anchor="middle" textLength="24.4" lengthAdjust="spacingAndGlyphs">2025</text>
 <text x="244" y="282" font-size="9" font-weight="400" fill="#656d76" text-anchor="middle" textLength="43.92" lengthAdjust="spacingAndGlyphs">14 repos</text>
 <rect x="288.80" y="100.00" width="38.40" height="150" rx="4" fill="#eaeef2"/>
-<rect x="288.80" y="100.00" width="38.40" height="47.39" fill="#3572A5"/>
-<rect x="288.80" y="147.39" width="38.40" height="16.81" fill="#e34c26"/>
-<rect x="288.80" y="164.20" width="38.40" height="15.46" fill="#f1e05a"/>
-<rect x="288.80" y="179.66" width="38.40" height="23.36" fill="#012456"/>
-<rect x="288.80" y="203.02" width="38.40" height="21.67" fill="#3178c6"/>
+<rect x="288.80" y="100.00" width="38.40" height="50.23" fill="#3572A5"/>
+<rect x="288.80" y="150.23" width="38.40" height="16.81" fill="#e34c26"/>
+<rect x="288.80" y="167.03" width="38.40" height="15.46" fill="#f1e05a"/>
+<rect x="288.80" y="182.49" width="38.40" height="21.67" fill="#3178c6"/>
+<rect x="288.80" y="204.16" width="38.40" height="20.53" fill="#012456"/>
 <rect x="288.80" y="224.69" width="38.40" height="25.31" fill="#8294a8"/>
 <text x="308" y="268" font-size="10" font-weight="600" fill="#424a53" text-anchor="middle" textLength="24.4" lengthAdjust="spacingAndGlyphs">2026</text>
 <text x="308" y="282" font-size="9" font-weight="400" fill="#656d76" text-anchor="middle" textLength="43.92" lengthAdjust="spacingAndGlyphs">10 repos</text>
@@ -59,10 +59,10 @@
 <text x="35" y="322" font-size="9" font-weight="400" fill="#424a53" text-anchor="start" textLength="54.9" lengthAdjust="spacingAndGlyphs">JavaScript</text>
 <rect x="105.90" y="314.50" width="9" height="9" rx="2" fill="#f34b7d"/>
 <text x="120.9" y="322" font-size="9" font-weight="400" fill="#424a53" text-anchor="start" textLength="16.47" lengthAdjust="spacingAndGlyphs">C++</text>
-<rect x="153.37" y="314.50" width="9" height="9" rx="2" fill="#012456"/>
-<text x="168.37" y="322" font-size="9" font-weight="400" fill="#424a53" text-anchor="start" textLength="54.9" lengthAdjust="spacingAndGlyphs">PowerShell</text>
-<rect x="239.27" y="314.50" width="9" height="9" rx="2" fill="#3178c6"/>
-<text x="254.27" y="322" font-size="9" font-weight="400" fill="#424a53" text-anchor="start" textLength="54.9" lengthAdjust="spacingAndGlyphs">TypeScript</text>
+<rect x="153.37" y="314.50" width="9" height="9" rx="2" fill="#3178c6"/>
+<text x="168.37" y="322" font-size="9" font-weight="400" fill="#424a53" text-anchor="start" textLength="54.9" lengthAdjust="spacingAndGlyphs">TypeScript</text>
+<rect x="239.27" y="314.50" width="9" height="9" rx="2" fill="#012456"/>
+<text x="254.27" y="322" font-size="9" font-weight="400" fill="#424a53" text-anchor="start" textLength="54.9" lengthAdjust="spacingAndGlyphs">PowerShell</text>
 <rect x="20.00" y="332.50" width="9" height="9" rx="2" fill="#8294a8"/>
 <text x="35" y="340" font-size="9" font-weight="400" fill="#424a53" text-anchor="start" textLength="27.45" lengthAdjust="spacingAndGlyphs">Other</text>
 </svg>
