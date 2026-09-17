@@ -39,11 +39,11 @@
 <text x="244" y="268" font-size="10" font-weight="600" fill="#c9d1d9" text-anchor="middle" textLength="24.4" lengthAdjust="spacingAndGlyphs">2025</text>
 <text x="244" y="282" font-size="9" font-weight="400" fill="#8b949e" text-anchor="middle" textLength="43.92" lengthAdjust="spacingAndGlyphs">14 repos</text>
 <rect x="288.80" y="100.00" width="38.40" height="150" rx="4" fill="#21262d"/>
-<rect x="288.80" y="100.00" width="38.40" height="50.23" fill="#3572A5"/>
-<rect x="288.80" y="150.23" width="38.40" height="16.81" fill="#e34c26"/>
-<rect x="288.80" y="167.03" width="38.40" height="15.46" fill="#f1e05a"/>
-<rect x="288.80" y="182.49" width="38.40" height="21.67" fill="#3178c6"/>
-<rect x="288.80" y="204.16" width="38.40" height="20.53" fill="#012456"/>
+<rect x="288.80" y="100.00" width="38.40" height="49.69" fill="#3572A5"/>
+<rect x="288.80" y="149.69" width="38.40" height="16.81" fill="#e34c26"/>
+<rect x="288.80" y="166.50" width="38.40" height="15.46" fill="#f1e05a"/>
+<rect x="288.80" y="181.96" width="38.40" height="21.67" fill="#3178c6"/>
+<rect x="288.80" y="203.62" width="38.40" height="21.07" fill="#012456"/>
 <rect x="288.80" y="224.69" width="38.40" height="25.31" fill="#8294a8"/>
 <text x="308" y="268" font-size="10" font-weight="600" fill="#c9d1d9" text-anchor="middle" textLength="24.4" lengthAdjust="spacingAndGlyphs">2026</text>
 <text x="308" y="282" font-size="9" font-weight="400" fill="#8b949e" text-anchor="middle" textLength="43.92" lengthAdjust="spacingAndGlyphs">10 repos</text>
