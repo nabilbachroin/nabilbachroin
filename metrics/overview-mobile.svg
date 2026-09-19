@@ -13,14 +13,14 @@
 <path d="M20 76H340" stroke="url(#spectrum)" stroke-width="5" opacity=".25" filter="url(#glow)"/>
 <path d="M20 76H340" stroke="url(#spectrum)" stroke-width="1.5"/>
 <text x="20" y="104" font-size="9.5" font-weight="600" fill="#656d76" text-anchor="start" textLength="28.975" lengthAdjust="spacingAndGlyphs">TOTAL</text>
-<text x="20" y="131" font-size="21" font-weight="700" fill="#20bcd4" text-anchor="start" textLength="38.43" lengthAdjust="spacingAndGlyphs">747</text>
+<text x="20" y="131" font-size="21" font-weight="700" fill="#20bcd4" text-anchor="start" textLength="38.43" lengthAdjust="spacingAndGlyphs">748</text>
 <text x="20" y="149" font-size="9.5" font-weight="400" fill="#656d76" text-anchor="start" textLength="75.335" lengthAdjust="spacingAndGlyphs">contributions</text>
 <path d="M180 91V146" stroke="#d0d7de"/>
 <text x="190" y="104" font-size="9.5" font-weight="600" fill="#656d76" text-anchor="start" textLength="63.745" lengthAdjust="spacingAndGlyphs">ACTIVE DAYS</text>
 <text x="190" y="131" font-size="21" font-weight="700" fill="#38c976" text-anchor="start" textLength="38.43" lengthAdjust="spacingAndGlyphs">171</text>
 <text x="190" y="149" font-size="9.5" font-weight="400" fill="#656d76" text-anchor="start" textLength="69.54" lengthAdjust="spacingAndGlyphs">within range</text>
 <text x="20" y="174" font-size="9.5" font-weight="600" fill="#656d76" text-anchor="start" textLength="40.565" lengthAdjust="spacingAndGlyphs">CURRENT</text>
-<text x="20" y="201" font-size="21" font-weight="700" fill="#a58af5" text-anchor="start" textLength="12.81" lengthAdjust="spacingAndGlyphs">2</text>
+<text x="20" y="201" font-size="21" font-weight="700" fill="#a58af5" text-anchor="start" textLength="12.81" lengthAdjust="spacingAndGlyphs">3</text>
 <text x="20" y="219" font-size="9.5" font-weight="400" fill="#656d76" text-anchor="start" textLength="57.95" lengthAdjust="spacingAndGlyphs">day streak</text>
 <path d="M180 161V216" stroke="#d0d7de"/>
 <text x="190" y="174" font-size="9.5" font-weight="600" fill="#656d76" text-anchor="start" textLength="23.18" lengthAdjust="spacingAndGlyphs">BEST</text>
@@ -28,113 +28,113 @@
 <text x="190" y="219" font-size="9.5" font-weight="400" fill="#656d76" text-anchor="start" textLength="57.95" lengthAdjust="spacingAndGlyphs">day streak</text>
 <text x="20" y="242" font-size="10" font-weight="600" fill="#656d76" text-anchor="start" textLength="97.6" lengthAdjust="spacingAndGlyphs">ACTIVITY SIGNALS</text>
 <circle cx="24" cy="266" r="3.5" fill="#20bcd4"/>
-<text x="34" y="270" font-size="10.5" font-weight="600" fill="#424a53" text-anchor="start" textLength="102.48" lengthAdjust="spacingAndGlyphs">ACTIVE WEEKS  51</text>
+<text x="34" y="270" font-size="10.5" font-weight="600" fill="#424a53" text-anchor="start" textLength="102.48" lengthAdjust="spacingAndGlyphs">ACTIVE WEEKS  50</text>
 <circle cx="194" cy="266" r="3.5" fill="#38c976"/>
 <text x="204" y="270" font-size="10.5" font-weight="600" fill="#424a53" text-anchor="start" textLength="134.505" lengthAdjust="spacingAndGlyphs">AVG / ACTIVE DAY  4.4</text>
 <circle cx="24" cy="295" r="3.5" fill="#a58af5"/>
 <text x="34" y="299" font-size="10.5" font-weight="600" fill="#424a53" text-anchor="start" textLength="76.86" lengthAdjust="spacingAndGlyphs">PEAK DAY  36</text>
 <circle cx="194" cy="295" r="3.5" fill="#f16ca6"/>
-<text x="204" y="299" font-size="10.5" font-weight="600" fill="#424a53" text-anchor="start" textLength="121.695" lengthAdjust="spacingAndGlyphs">PRIVATE ANON.  669+</text>
+<text x="204" y="299" font-size="10.5" font-weight="600" fill="#424a53" text-anchor="start" textLength="121.695" lengthAdjust="spacingAndGlyphs">PRIVATE ANON.  670+</text>
 <text x="20" y="336" font-size="10" font-weight="600" fill="#656d76" text-anchor="start" textLength="128.1" lengthAdjust="spacingAndGlyphs">ANNUAL ACTIVITY PULSE</text>
 <text x="340" y="336" font-size="8.5" font-weight="600" fill="#656d76" text-anchor="end" textLength="98.515" lengthAdjust="spacingAndGlyphs">EDGE MONTHS PARTIAL</text>
 <path d="M20 462H340" stroke="#d0d7de"/>
-<g class="bar-3d" style="--delay:80ms"><title>SEP25: 31 contributions</title>
-<polygon points="30.8571,439.317 50.8571,439.317 50.8571,462 30.8571,462" fill="#20bcd4" opacity=".96"/>
-<polygon points="50.8571,439.317 55.8571,435.317 55.8571,458 50.8571,462" fill="#168494"/>
-<polygon points="30.8571,439.317 35.8571,435.317 55.8571,435.317 50.8571,439.317" fill="#5ecfe0"/>
+<g class="bar-3d" style="--delay:80ms"><title>SEP25: 30 contributions</title>
+<polygon points="30.8571,439.939 50.8571,439.939 50.8571,462 30.8571,462" fill="#20bcd4" opacity=".96"/>
+<polygon points="50.8571,439.939 55.8571,435.939 55.8571,458 50.8571,462" fill="#168494"/>
+<polygon points="30.8571,439.939 35.8571,435.939 55.8571,435.939 50.8571,439.939" fill="#5ecfe0"/>
 </g>
-<text x="43.3571" y="428.317" font-size="8.5" font-weight="700" fill="#20bcd4" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">31</text>
+<text x="43.3571" y="428.939" font-size="8.5" font-weight="700" fill="#20bcd4" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">30</text>
 <text x="43.3571" y="479" font-size="8" font-weight="600" fill="#656d76" text-anchor="middle" textLength="24.4" lengthAdjust="spacingAndGlyphs">SEP25</text>
 <g class="bar-3d" style="--delay:145ms"><title>OCT: 55 contributions</title>
-<polygon points="76.5714,428.724 96.5714,428.724 96.5714,462 76.5714,462" fill="#38c976" opacity=".96"/>
-<polygon points="96.5714,428.724 101.571,424.724 101.571,458 96.5714,462" fill="#278d53"/>
-<polygon points="76.5714,428.724 81.5714,424.724 101.571,424.724 96.5714,428.724" fill="#70d89c"/>
+<polygon points="76.5714,429.054 96.5714,429.054 96.5714,462 76.5714,462" fill="#38c976" opacity=".96"/>
+<polygon points="96.5714,429.054 101.571,425.054 101.571,458 96.5714,462" fill="#278d53"/>
+<polygon points="76.5714,429.054 81.5714,425.054 101.571,425.054 96.5714,429.054" fill="#70d89c"/>
 </g>
-<text x="89.0714" y="417.724" font-size="8.5" font-weight="700" fill="#38c976" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">55</text>
+<text x="89.0714" y="418.054" font-size="8.5" font-weight="700" fill="#38c976" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">55</text>
 <text x="89.0714" y="479" font-size="8" font-weight="600" fill="#656d76" text-anchor="middle" textLength="14.64" lengthAdjust="spacingAndGlyphs">OCT</text>
 <g class="bar-3d" style="--delay:210ms"><title>NOV: 64 contributions</title>
-<polygon points="122.286,424.752 142.286,424.752 142.286,462 122.286,462" fill="#38c976" opacity=".96"/>
-<polygon points="142.286,424.752 147.286,420.752 147.286,458 142.286,462" fill="#278d53"/>
-<polygon points="122.286,424.752 127.286,420.752 147.286,420.752 142.286,424.752" fill="#70d89c"/>
+<polygon points="122.286,425.136 142.286,425.136 142.286,462 122.286,462" fill="#38c976" opacity=".96"/>
+<polygon points="142.286,425.136 147.286,421.136 147.286,458 142.286,462" fill="#278d53"/>
+<polygon points="122.286,425.136 127.286,421.136 147.286,421.136 142.286,425.136" fill="#70d89c"/>
 </g>
-<text x="134.786" y="413.752" font-size="8.5" font-weight="700" fill="#38c976" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">64</text>
+<text x="134.786" y="414.136" font-size="8.5" font-weight="700" fill="#38c976" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">64</text>
 <text x="134.786" y="479" font-size="8" font-weight="600" fill="#656d76" text-anchor="middle" textLength="14.64" lengthAdjust="spacingAndGlyphs">NOV</text>
 <g class="bar-3d" style="--delay:275ms"><title>DEC: 33 contributions</title>
-<polygon points="168,438.434 188,438.434 188,462 168,462" fill="#20bcd4" opacity=".96"/>
-<polygon points="188,438.434 193,434.434 193,458 188,462" fill="#168494"/>
-<polygon points="168,438.434 173,434.434 193,434.434 188,438.434" fill="#5ecfe0"/>
+<polygon points="168,438.633 188,438.633 188,462 168,462" fill="#20bcd4" opacity=".96"/>
+<polygon points="188,438.633 193,434.633 193,458 188,462" fill="#168494"/>
+<polygon points="168,438.633 173,434.633 193,434.633 188,438.633" fill="#5ecfe0"/>
 </g>
-<text x="180.5" y="427.434" font-size="8.5" font-weight="700" fill="#20bcd4" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">33</text>
+<text x="180.5" y="427.633" font-size="8.5" font-weight="700" fill="#20bcd4" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">33</text>
 <text x="180.5" y="479" font-size="8" font-weight="600" fill="#656d76" text-anchor="middle" textLength="14.64" lengthAdjust="spacingAndGlyphs">DEC</text>
 <g class="bar-3d" style="--delay:340ms"><title>JAN26: 24 contributions</title>
-<polygon points="213.714,442.407 233.714,442.407 233.714,462 213.714,462" fill="#20bcd4" opacity=".96"/>
-<polygon points="233.714,442.407 238.714,438.407 238.714,458 233.714,462" fill="#168494"/>
-<polygon points="213.714,442.407 218.714,438.407 238.714,438.407 233.714,442.407" fill="#5ecfe0"/>
+<polygon points="213.714,442.551 233.714,442.551 233.714,462 213.714,462" fill="#20bcd4" opacity=".96"/>
+<polygon points="233.714,442.551 238.714,438.551 238.714,458 233.714,462" fill="#168494"/>
+<polygon points="213.714,442.551 218.714,438.551 238.714,438.551 233.714,442.551" fill="#5ecfe0"/>
 </g>
-<text x="226.214" y="431.407" font-size="8.5" font-weight="700" fill="#20bcd4" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">24</text>
+<text x="226.214" y="431.551" font-size="8.5" font-weight="700" fill="#20bcd4" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">24</text>
 <text x="226.214" y="479" font-size="8" font-weight="600" fill="#656d76" text-anchor="middle" textLength="24.4" lengthAdjust="spacingAndGlyphs">JAN26</text>
 <g class="bar-3d" style="--delay:405ms"><title>FEB: 22 contributions</title>
-<polygon points="259.429,443.29 279.429,443.29 279.429,462 259.429,462" fill="#20bcd4" opacity=".96"/>
-<polygon points="279.429,443.29 284.429,439.29 284.429,458 279.429,462" fill="#168494"/>
-<polygon points="259.429,443.29 264.429,439.29 284.429,439.29 279.429,443.29" fill="#5ecfe0"/>
+<polygon points="259.429,443.422 279.429,443.422 279.429,462 259.429,462" fill="#20bcd4" opacity=".96"/>
+<polygon points="279.429,443.422 284.429,439.422 284.429,458 279.429,462" fill="#168494"/>
+<polygon points="259.429,443.422 264.429,439.422 284.429,439.422 279.429,443.422" fill="#5ecfe0"/>
 </g>
-<text x="271.929" y="432.29" font-size="8.5" font-weight="700" fill="#20bcd4" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">22</text>
+<text x="271.929" y="432.422" font-size="8.5" font-weight="700" fill="#20bcd4" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">22</text>
 <text x="271.929" y="479" font-size="8" font-weight="600" fill="#656d76" text-anchor="middle" textLength="14.64" lengthAdjust="spacingAndGlyphs">FEB</text>
 <g class="bar-3d" style="--delay:470ms"><title>MAR: 14 contributions</title>
-<polygon points="305.143,446.821 325.143,446.821 325.143,462 305.143,462" fill="#20bcd4" opacity=".96"/>
-<polygon points="325.143,446.821 330.143,442.821 330.143,458 325.143,462" fill="#168494"/>
-<polygon points="305.143,446.821 310.143,442.821 330.143,442.821 325.143,446.821" fill="#5ecfe0"/>
+<polygon points="305.143,446.905 325.143,446.905 325.143,462 305.143,462" fill="#20bcd4" opacity=".96"/>
+<polygon points="325.143,446.905 330.143,442.905 330.143,458 325.143,462" fill="#168494"/>
+<polygon points="305.143,446.905 310.143,442.905 330.143,442.905 325.143,446.905" fill="#5ecfe0"/>
 </g>
-<text x="317.643" y="435.821" font-size="8.5" font-weight="700" fill="#20bcd4" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">14</text>
+<text x="317.643" y="435.905" font-size="8.5" font-weight="700" fill="#20bcd4" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">14</text>
 <text x="317.643" y="479" font-size="8" font-weight="600" fill="#656d76" text-anchor="middle" textLength="14.64" lengthAdjust="spacingAndGlyphs">MAR</text>
-<path class="pulse-line" d="M43.3571,435.317 L89.0714,424.724 L134.786,420.752 L180.5,434.434 L226.214,438.407 L271.929,439.29 L317.643,442.821" fill="none" stroke="url(#spectrum)" stroke-width="1.7"/>
-<circle class="beacon" cx="43.3571" cy="435.317" r="2.4" fill="#20bcd4"/><circle class="beacon" cx="89.0714" cy="424.724" r="2.4" fill="#38c976"/><circle class="beacon" cx="134.786" cy="420.752" r="2.4" fill="#a58af5"/><circle class="beacon" cx="180.5" cy="434.434" r="2.4" fill="#f16ca6"/><circle class="beacon" cx="226.214" cy="438.407" r="2.4" fill="#20bcd4"/><circle class="beacon" cx="271.929" cy="439.29" r="2.4" fill="#38c976"/><circle class="beacon" cx="317.643" cy="442.821" r="2.4" fill="#a58af5"/>
+<path class="pulse-line" d="M43.3571,435.939 L89.0714,425.054 L134.786,421.136 L180.5,434.633 L226.214,438.551 L271.929,439.422 L317.643,442.905" fill="none" stroke="url(#spectrum)" stroke-width="1.7"/>
+<circle class="beacon" cx="43.3571" cy="435.939" r="2.4" fill="#20bcd4"/><circle class="beacon" cx="89.0714" cy="425.054" r="2.4" fill="#38c976"/><circle class="beacon" cx="134.786" cy="421.136" r="2.4" fill="#a58af5"/><circle class="beacon" cx="180.5" cy="434.633" r="2.4" fill="#f16ca6"/><circle class="beacon" cx="226.214" cy="438.551" r="2.4" fill="#20bcd4"/><circle class="beacon" cx="271.929" cy="439.422" r="2.4" fill="#38c976"/><circle class="beacon" cx="317.643" cy="442.905" r="2.4" fill="#a58af5"/>
 <rect class="scanner" x="20" y="362" width="1.5" height="88" fill="#ffffff" opacity=".22" style="--travel:318px"/>
 <path d="M20 594H340" stroke="#d0d7de"/>
 <g class="bar-3d" style="--delay:535ms"><title>APR26: 41 contributions</title>
-<polygon points="34.6667,566.903 54.6667,566.903 54.6667,594 34.6667,594" fill="#38c976" opacity=".96"/>
-<polygon points="54.6667,566.903 59.6667,562.903 59.6667,590 54.6667,594" fill="#278d53"/>
-<polygon points="34.6667,566.903 39.6667,562.903 59.6667,562.903 54.6667,566.903" fill="#70d89c"/>
+<polygon points="34.6667,567.15 54.6667,567.15 54.6667,594 34.6667,594" fill="#38c976" opacity=".96"/>
+<polygon points="54.6667,567.15 59.6667,563.15 59.6667,590 54.6667,594" fill="#278d53"/>
+<polygon points="34.6667,567.15 39.6667,563.15 59.6667,563.15 54.6667,567.15" fill="#70d89c"/>
 </g>
-<text x="47.1667" y="555.903" font-size="8.5" font-weight="700" fill="#38c976" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">41</text>
+<text x="47.1667" y="556.15" font-size="8.5" font-weight="700" fill="#38c976" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">41</text>
 <text x="47.1667" y="611" font-size="8" font-weight="600" fill="#656d76" text-anchor="middle" textLength="24.4" lengthAdjust="spacingAndGlyphs">APR26</text>
 <g class="bar-3d" style="--delay:600ms"><title>MAY: 60 contributions</title>
-<polygon points="88,558.517 108,558.517 108,594 88,594" fill="#38c976" opacity=".96"/>
-<polygon points="108,558.517 113,554.517 113,590 108,594" fill="#278d53"/>
-<polygon points="88,558.517 93,554.517 113,554.517 108,558.517" fill="#70d89c"/>
+<polygon points="88,558.878 108,558.878 108,594 88,594" fill="#38c976" opacity=".96"/>
+<polygon points="108,558.878 113,554.878 113,590 108,594" fill="#278d53"/>
+<polygon points="88,558.878 93,554.878 113,554.878 108,558.878" fill="#70d89c"/>
 </g>
-<text x="100.5" y="547.517" font-size="8.5" font-weight="700" fill="#38c976" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">60</text>
+<text x="100.5" y="547.878" font-size="8.5" font-weight="700" fill="#38c976" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">60</text>
 <text x="100.5" y="611" font-size="8" font-weight="600" fill="#656d76" text-anchor="middle" textLength="14.64" lengthAdjust="spacingAndGlyphs">MAY</text>
 <g class="bar-3d" style="--delay:665ms"><title>JUN: 129 contributions</title>
-<polygon points="141.333,528.062 161.333,528.062 161.333,594 141.333,594" fill="#f16ca6" opacity=".96"/>
-<polygon points="161.333,528.062 166.333,524.062 166.333,590 161.333,594" fill="#a94c74"/>
-<polygon points="141.333,528.062 146.333,524.062 166.333,524.062 161.333,528.062" fill="#f595bf"/>
+<polygon points="141.333,528.837 161.333,528.837 161.333,594 141.333,594" fill="#f16ca6" opacity=".96"/>
+<polygon points="161.333,528.837 166.333,524.837 166.333,590 161.333,594" fill="#a94c74"/>
+<polygon points="141.333,528.837 146.333,524.837 166.333,524.837 161.333,528.837" fill="#f595bf"/>
 </g>
-<text x="153.833" y="517.062" font-size="8.5" font-weight="700" fill="#f16ca6" text-anchor="middle" textLength="15.555" lengthAdjust="spacingAndGlyphs">129</text>
+<text x="153.833" y="517.837" font-size="8.5" font-weight="700" fill="#f16ca6" text-anchor="middle" textLength="15.555" lengthAdjust="spacingAndGlyphs">129</text>
 <text x="153.833" y="611" font-size="8" font-weight="600" fill="#656d76" text-anchor="middle" textLength="14.64" lengthAdjust="spacingAndGlyphs">JUN</text>
 <g class="bar-3d" style="--delay:730ms"><title>JUL: 46 contributions</title>
-<polygon points="194.667,564.697 214.667,564.697 214.667,594 194.667,594" fill="#38c976" opacity=".96"/>
-<polygon points="214.667,564.697 219.667,560.697 219.667,590 214.667,594" fill="#278d53"/>
-<polygon points="194.667,564.697 199.667,560.697 219.667,560.697 214.667,564.697" fill="#70d89c"/>
+<polygon points="194.667,564.973 214.667,564.973 214.667,594 194.667,594" fill="#38c976" opacity=".96"/>
+<polygon points="214.667,564.973 219.667,560.973 219.667,590 214.667,594" fill="#278d53"/>
+<polygon points="194.667,564.973 199.667,560.973 219.667,560.973 214.667,564.973" fill="#70d89c"/>
 </g>
-<text x="207.167" y="553.697" font-size="8.5" font-weight="700" fill="#38c976" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">46</text>
+<text x="207.167" y="553.973" font-size="8.5" font-weight="700" fill="#38c976" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">46</text>
 <text x="207.167" y="611" font-size="8" font-weight="600" fill="#656d76" text-anchor="middle" textLength="14.64" lengthAdjust="spacingAndGlyphs">JUL</text>
 <g class="bar-3d" style="--delay:795ms"><title>AUG: 83 contributions</title>
-<polygon points="248,548.366 268,548.366 268,594 248,594" fill="#a58af5" opacity=".96"/>
-<polygon points="268,548.366 273,544.366 273,590 268,594" fill="#7361ac"/>
-<polygon points="248,548.366 253,544.366 273,544.366 268,548.366" fill="#beabf8"/>
+<polygon points="248,548.864 268,548.864 268,594 248,594" fill="#a58af5" opacity=".96"/>
+<polygon points="268,548.864 273,544.864 273,590 268,594" fill="#7361ac"/>
+<polygon points="248,548.864 253,544.864 273,544.864 268,548.864" fill="#beabf8"/>
 </g>
-<text x="260.5" y="537.366" font-size="8.5" font-weight="700" fill="#a58af5" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">83</text>
+<text x="260.5" y="537.864" font-size="8.5" font-weight="700" fill="#a58af5" text-anchor="middle" textLength="10.37" lengthAdjust="spacingAndGlyphs">83</text>
 <text x="260.5" y="611" font-size="8" font-weight="600" fill="#656d76" text-anchor="middle" textLength="14.64" lengthAdjust="spacingAndGlyphs">AUG</text>
-<g class="bar-3d" style="--delay:860ms"><title>SEP: 145 contributions</title>
+<g class="bar-3d" style="--delay:860ms"><title>SEP: 147 contributions</title>
 <polygon points="301.333,521 321.333,521 321.333,594 301.333,594" fill="#f16ca6" opacity=".96"/>
 <polygon points="321.333,521 326.333,517 326.333,590 321.333,594" fill="#a94c74"/>
 <polygon points="301.333,521 306.333,517 326.333,517 321.333,521" fill="#f595bf"/>
 </g>
-<text x="313.833" y="510" font-size="8.5" font-weight="700" fill="#f16ca6" text-anchor="middle" textLength="15.555" lengthAdjust="spacingAndGlyphs">145</text>
+<text x="313.833" y="510" font-size="8.5" font-weight="700" fill="#f16ca6" text-anchor="middle" textLength="15.555" lengthAdjust="spacingAndGlyphs">147</text>
 <text x="313.833" y="611" font-size="8" font-weight="600" fill="#656d76" text-anchor="middle" textLength="14.64" lengthAdjust="spacingAndGlyphs">SEP</text>
-<path class="pulse-line" d="M47.1667,562.903 L100.5,554.517 L153.833,524.062 L207.167,560.697 L260.5,544.366 L313.833,517" fill="none" stroke="url(#spectrum)" stroke-width="1.7"/>
-<circle class="beacon" cx="47.1667" cy="562.903" r="2.4" fill="#20bcd4"/><circle class="beacon" cx="100.5" cy="554.517" r="2.4" fill="#38c976"/><circle class="beacon" cx="153.833" cy="524.062" r="2.4" fill="#a58af5"/><circle class="beacon" cx="207.167" cy="560.697" r="2.4" fill="#f16ca6"/><circle class="beacon" cx="260.5" cy="544.366" r="2.4" fill="#20bcd4"/><circle class="beacon" cx="313.833" cy="517" r="2.4" fill="#38c976"/>
+<path class="pulse-line" d="M47.1667,563.15 L100.5,554.878 L153.833,524.837 L207.167,560.973 L260.5,544.864 L313.833,517" fill="none" stroke="url(#spectrum)" stroke-width="1.7"/>
+<circle class="beacon" cx="47.1667" cy="563.15" r="2.4" fill="#20bcd4"/><circle class="beacon" cx="100.5" cy="554.878" r="2.4" fill="#38c976"/><circle class="beacon" cx="153.833" cy="524.837" r="2.4" fill="#a58af5"/><circle class="beacon" cx="207.167" cy="560.973" r="2.4" fill="#f16ca6"/><circle class="beacon" cx="260.5" cy="544.864" r="2.4" fill="#20bcd4"/><circle class="beacon" cx="313.833" cy="517" r="2.4" fill="#38c976"/>
 <rect class="scanner" x="20" y="494" width="1.5" height="88" fill="#ffffff" opacity=".22" style="--travel:318px"/>
 <text x="20" y="624" font-size="9.5" font-weight="600" fill="#656d76" text-anchor="start" textLength="121.695" lengthAdjust="spacingAndGlyphs">PEAK 36 / 04 SEP 2026</text>
 <polygon points="247,615 257,615 261,611 251,611" fill="#edf1f5"/>
