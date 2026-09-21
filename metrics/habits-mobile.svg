@@ -6,7 +6,7 @@
 </defs>
 <rect x="0.5" y="0.5" width="359" height="305" rx="8" fill="#ffffff" stroke="#d8dee4"/>
 <text x="20" y="38" font-size="16" font-weight="600" fill="#1f2328" text-anchor="start" textLength="126.88" lengthAdjust="spacingAndGlyphs">Coding Rhythm</text>
-<text x="20" y="58" font-size="9.5" font-weight="400" fill="#656d76" text-anchor="start" textLength="208.62" lengthAdjust="spacingAndGlyphs">1604 commits - 54 repos - peak 16:00</text>
+<text x="20" y="58" font-size="9.5" font-weight="400" fill="#656d76" text-anchor="start" textLength="208.62" lengthAdjust="spacingAndGlyphs">1605 commits - 54 repos - peak 16:00</text>
 <path d="M20 74H340" stroke="url(#spectrum)" stroke-width="3" opacity=".55" filter="url(#glow)"/>
 <text x="20" y="100" font-size="9" font-weight="400" fill="#656d76" text-anchor="start" textLength="76.86" lengthAdjust="spacingAndGlyphs">HOURS - TAIPEI</text>
 <rect x="22.53" y="146.53" width="8.27" height="13.47" rx="2" fill="url(#spectrum)" opacity="0.95"/>
@@ -22,7 +22,7 @@
 <rect x="155.87" y="135.60" width="8.27" height="24.40" rx="2" fill="url(#spectrum)" opacity="0.95"/>
 <rect x="169.20" y="124.67" width="8.27" height="35.33" rx="2" fill="url(#spectrum)" opacity="0.95"/>
 <rect x="182.53" y="132.04" width="8.27" height="27.96" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="195.87" y="139.41" width="8.27" height="20.59" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="195.87" y="139.16" width="8.27" height="20.84" rx="2" fill="url(#spectrum)" opacity="0.95"/>
 <rect x="209.20" y="117.56" width="8.27" height="42.44" rx="2" fill="url(#spectrum)" opacity="0.95"/>
 <rect x="222.53" y="121.12" width="8.27" height="38.88" rx="2" fill="url(#spectrum)" opacity="0.95"/>
 <rect x="235.87" y="114.00" width="8.27" height="46.00" rx="2" fill="url(#spectrum)" opacity="0.95"/>
@@ -39,12 +39,12 @@
 <text x="266.667" y="175" font-size="9" font-weight="400" fill="#656d76" text-anchor="middle" textLength="10.98" lengthAdjust="spacingAndGlyphs">18</text>
 <text x="20" y="201" font-size="9" font-weight="400" fill="#656d76" text-anchor="start" textLength="65.88" lengthAdjust="spacingAndGlyphs">DAYS OF WEEK</text>
 <rect x="28.69" y="215.00" width="28.34" height="40.00" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="74.40" y="220.28" width="28.34" height="34.72" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="120.11" y="228.91" width="28.34" height="26.09" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="165.83" y="228.10" width="28.34" height="26.90" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="211.54" y="230.03" width="28.34" height="24.97" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="257.26" y="248.10" width="28.34" height="6.90" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="302.97" y="251.75" width="28.34" height="3.25" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="74.40" y="220.37" width="28.34" height="34.63" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="120.11" y="228.97" width="28.34" height="26.03" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="165.83" y="228.16" width="28.34" height="26.84" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="211.54" y="230.09" width="28.34" height="24.91" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="257.26" y="248.11" width="28.34" height="6.89" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="302.97" y="251.76" width="28.34" height="3.24" rx="2" fill="url(#spectrum)" opacity="0.95"/>
 <text x="42.8571" y="270" font-size="9" font-weight="400" fill="#656d76" text-anchor="middle" textLength="5.49" lengthAdjust="spacingAndGlyphs">M</text>
 <text x="88.5714" y="270" font-size="9" font-weight="400" fill="#656d76" text-anchor="middle" textLength="5.49" lengthAdjust="spacingAndGlyphs">T</text>
 <text x="134.286" y="270" font-size="9" font-weight="400" fill="#656d76" text-anchor="middle" textLength="5.49" lengthAdjust="spacingAndGlyphs">W</text>

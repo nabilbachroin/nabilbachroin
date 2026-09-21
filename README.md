@@ -113,10 +113,10 @@ Professional work is described by technology. Personal projects and family websi
 
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-web-mobile-dark.svg?v=e67eb175cc61" />
-    <source media="(max-width: 600px)" srcset="./metrics/projects-web-mobile.svg?v=51f2035a9950" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-web-dark.svg?v=a7572b510730" />
-    <img alt="Web &amp; Automation" src="./metrics/projects-web.svg?v=a7fc87676ae6" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/projects-web-mobile-dark.svg?v=d1374d898bd2" />
+    <source media="(max-width: 600px)" srcset="./metrics/projects-web-mobile.svg?v=85adb81cdbe2" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/projects-web-dark.svg?v=1a75ecf6c699" />
+    <img alt="Web &amp; Automation" src="./metrics/projects-web.svg?v=9a67b3a2399f" width="880" />
   </picture>
 </p>
 
@@ -152,10 +152,10 @@ Repository commits include all authors on the default branch. Grouped projects s
 <!-- LANGUAGES:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/languages-mobile-dark.svg?v=1bbf4a68e0c8" />
-    <source media="(max-width: 600px)" srcset="./metrics/languages-mobile.svg?v=062e39ce9cb9" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg?v=b2b17dda0af7" />
-    <img alt="Repository language mix" src="./metrics/languages.svg?v=b35f91ed9658" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/languages-mobile-dark.svg?v=78151f30fea3" />
+    <source media="(max-width: 600px)" srcset="./metrics/languages-mobile.svg?v=6ac5f713f984" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg?v=bfa5ad31c066" />
+    <img alt="Repository language mix" src="./metrics/languages.svg?v=646e811cfafc" width="880" />
   </picture>
 </p>
 <!-- LANGUAGES:END -->
@@ -174,10 +174,10 @@ Repository commits include all authors on the default branch. Grouped projects s
 <!-- HABITS:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/habits-mobile-dark.svg?v=a4b01209630b" />
-    <source media="(max-width: 600px)" srcset="./metrics/habits-mobile.svg?v=c5a36d99549e" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/habits-dark.svg?v=eedcbffce57e" />
-    <img alt="Authored commit rhythm by hour and weekday" src="./metrics/habits.svg?v=336f245dc185" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/habits-mobile-dark.svg?v=6c328867e0fb" />
+    <source media="(max-width: 600px)" srcset="./metrics/habits-mobile.svg?v=c4f9cd55e8ca" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/habits-dark.svg?v=e19cd80e5ef3" />
+    <img alt="Authored commit rhythm by hour and weekday" src="./metrics/habits.svg?v=8041f336b2d2" width="880" />
   </picture>
 </p>
 <!-- HABITS:END -->
@@ -197,10 +197,10 @@ Repository commits include all authors on the default branch. Grouped projects s
 <!-- OVERVIEW:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/overview-mobile-dark.svg?v=ee7b7816faa8" />
-    <source media="(max-width: 600px)" srcset="./metrics/overview-mobile.svg?v=c4513bd372a1" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/overview-dark.svg?v=40d6176c1235" />
-    <img alt="Contribution Activity Console" src="./metrics/overview.svg?v=d5fd3752d82b" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/overview-mobile-dark.svg?v=62f25c47dfbe" />
+    <source media="(max-width: 600px)" srcset="./metrics/overview-mobile.svg?v=8e6437baa188" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/overview-dark.svg?v=796b89e3024b" />
+    <img alt="Contribution Activity Console" src="./metrics/overview.svg?v=60da5db93d59" width="880" />
   </picture>
 </p>
 <!-- OVERVIEW:END -->
