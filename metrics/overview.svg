@@ -13,15 +13,15 @@
 <path d="M20 76H860" stroke="url(#spectrum)" stroke-width="5" opacity=".25" filter="url(#glow)"/>
 <path d="M20 76H860" stroke="url(#spectrum)" stroke-width="1.5"/>
 <text x="20" y="105" font-size="10" font-weight="600" fill="#656d76" text-anchor="start" textLength="30.5" lengthAdjust="spacingAndGlyphs">TOTAL</text>
-<text x="20" y="137" font-size="24" font-weight="700" fill="#20bcd4" text-anchor="start" textLength="43.92" lengthAdjust="spacingAndGlyphs">787</text>
+<text x="20" y="137" font-size="24" font-weight="700" fill="#20bcd4" text-anchor="start" textLength="43.92" lengthAdjust="spacingAndGlyphs">781</text>
 <text x="20" y="156" font-size="10" font-weight="400" fill="#656d76" text-anchor="start" textLength="79.3" lengthAdjust="spacingAndGlyphs">contributions</text>
 <path d="M218 96V157" stroke="#d0d7de"/>
 <text x="230" y="105" font-size="10" font-weight="600" fill="#656d76" text-anchor="start" textLength="67.1" lengthAdjust="spacingAndGlyphs">ACTIVE DAYS</text>
-<text x="230" y="137" font-size="24" font-weight="700" fill="#38c976" text-anchor="start" textLength="43.92" lengthAdjust="spacingAndGlyphs">174</text>
+<text x="230" y="137" font-size="24" font-weight="700" fill="#38c976" text-anchor="start" textLength="43.92" lengthAdjust="spacingAndGlyphs">173</text>
 <text x="230" y="156" font-size="10" font-weight="400" fill="#656d76" text-anchor="start" textLength="73.2" lengthAdjust="spacingAndGlyphs">within range</text>
 <path d="M428 96V157" stroke="#d0d7de"/>
 <text x="440" y="105" font-size="10" font-weight="600" fill="#656d76" text-anchor="start" textLength="42.7" lengthAdjust="spacingAndGlyphs">CURRENT</text>
-<text x="440" y="137" font-size="24" font-weight="700" fill="#a58af5" text-anchor="start" textLength="14.64" lengthAdjust="spacingAndGlyphs">4</text>
+<text x="440" y="137" font-size="24" font-weight="700" fill="#a58af5" text-anchor="start" textLength="14.64" lengthAdjust="spacingAndGlyphs">0</text>
 <text x="440" y="156" font-size="10" font-weight="400" fill="#656d76" text-anchor="start" textLength="61" lengthAdjust="spacingAndGlyphs">day streak</text>
 <path d="M638 96V157" stroke="#d0d7de"/>
 <text x="650" y="105" font-size="10" font-weight="600" fill="#656d76" text-anchor="start" textLength="24.4" lengthAdjust="spacingAndGlyphs">BEST</text>
@@ -35,18 +35,18 @@
 <circle cx="444" cy="209" r="3.5" fill="#a58af5"/>
 <text x="454" y="213" font-size="10.5" font-weight="600" fill="#424a53" text-anchor="start" textLength="76.86" lengthAdjust="spacingAndGlyphs">PEAK DAY  36</text>
 <circle cx="654" cy="209" r="3.5" fill="#f16ca6"/>
-<text x="664" y="213" font-size="10.5" font-weight="600" fill="#424a53" text-anchor="start" textLength="121.695" lengthAdjust="spacingAndGlyphs">PRIVATE ANON.  709+</text>
+<text x="664" y="213" font-size="10.5" font-weight="600" fill="#424a53" text-anchor="start" textLength="121.695" lengthAdjust="spacingAndGlyphs">PRIVATE ANON.  703+</text>
 <text x="20" y="238" font-size="10" font-weight="600" fill="#656d76" text-anchor="start" textLength="128.1" lengthAdjust="spacingAndGlyphs">ANNUAL ACTIVITY PULSE</text>
 <text x="860" y="238" font-size="9" font-weight="600" fill="#656d76" text-anchor="end" textLength="197.64" lengthAdjust="spacingAndGlyphs">MONTHLY VOLUME / EDGE MONTHS PARTIAL</text>
 <path d="M20 407H860" stroke="#d0d7de"/>
 <path d="M20 373H860" stroke="#d0d7de" opacity=".55"/>
 <path d="M20 339H860" stroke="#d0d7de" opacity=".35"/>
-<g class="bar-3d" style="--delay:90ms"><title>SEP25: 22 contributions</title>
-<polygon points="41.48,383.433 71.9046,383.433 71.9046,407 41.48,407" fill="#20bcd4" opacity=".96"/>
-<polygon points="71.9046,383.433 79.9046,377.433 79.9046,401 71.9046,407" fill="#168494"/>
-<polygon points="41.48,383.433 49.48,377.433 79.9046,377.433 71.9046,383.433" fill="#5ecfe0"/>
+<g class="bar-3d" style="--delay:90ms"><title>SEP25: 16 contributions</title>
+<polygon points="41.48,386.588 71.9046,386.588 71.9046,407 41.48,407" fill="#20bcd4" opacity=".96"/>
+<polygon points="71.9046,386.588 79.9046,380.588 79.9046,401 71.9046,407" fill="#168494"/>
+<polygon points="41.48,386.588 49.48,380.588 79.9046,380.588 71.9046,386.588" fill="#5ecfe0"/>
 </g>
-<text x="60.6923" y="370.433" font-size="9.5" font-weight="700" fill="#20bcd4" text-anchor="middle" textLength="11.59" lengthAdjust="spacingAndGlyphs">22</text>
+<text x="60.6923" y="373.588" font-size="9.5" font-weight="700" fill="#20bcd4" text-anchor="middle" textLength="11.59" lengthAdjust="spacingAndGlyphs">16</text>
 <text x="60.6923" y="427" font-size="8.5" font-weight="600" fill="#656d76" text-anchor="middle" textLength="25.925" lengthAdjust="spacingAndGlyphs">SEP25</text>
 <g class="bar-3d" style="--delay:155ms"><title>OCT: 55 contributions</title>
 <polygon points="104.865,366.082 135.289,366.082 135.289,407 104.865,407" fill="#38c976" opacity=".96"/>
@@ -132,8 +132,8 @@
 </g>
 <text x="821.308" y="280" font-size="9.5" font-weight="700" fill="#f16ca6" text-anchor="middle" textLength="17.385" lengthAdjust="spacingAndGlyphs">194</text>
 <text x="821.308" y="427" font-size="8.5" font-weight="600" fill="#656d76" text-anchor="middle" textLength="25.925" lengthAdjust="spacingAndGlyphs">SEP26</text>
-<path class="pulse-line" d="M60.6923,377.433 L124.077,360.082 L187.462,355.351 L250.846,371.649 L314.231,376.381 L377.615,377.433 L441,381.639 L504.385,367.443 L567.769,357.454 L631.154,321.175 L694.538,364.814 L757.923,345.361 L821.308,287" fill="none" stroke="url(#spectrum)" stroke-width="2"/>
-<circle class="beacon" cx="60.6923" cy="377.433" r="3" fill="#20bcd4" style="animation-delay:0ms"/><circle class="beacon" cx="124.077" cy="360.082" r="3" fill="#38c976" style="animation-delay:90ms"/><circle class="beacon" cx="187.462" cy="355.351" r="3" fill="#a58af5" style="animation-delay:180ms"/><circle class="beacon" cx="250.846" cy="371.649" r="3" fill="#f16ca6" style="animation-delay:270ms"/><circle class="beacon" cx="314.231" cy="376.381" r="3" fill="#20bcd4" style="animation-delay:360ms"/><circle class="beacon" cx="377.615" cy="377.433" r="3" fill="#38c976" style="animation-delay:450ms"/><circle class="beacon" cx="441" cy="381.639" r="3" fill="#a58af5" style="animation-delay:540ms"/><circle class="beacon" cx="504.385" cy="367.443" r="3" fill="#f16ca6" style="animation-delay:630ms"/><circle class="beacon" cx="567.769" cy="357.454" r="3" fill="#20bcd4" style="animation-delay:720ms"/><circle class="beacon" cx="631.154" cy="321.175" r="3" fill="#38c976" style="animation-delay:810ms"/><circle class="beacon" cx="694.538" cy="364.814" r="3" fill="#a58af5" style="animation-delay:900ms"/><circle class="beacon" cx="757.923" cy="345.361" r="3" fill="#f16ca6" style="animation-delay:990ms"/><circle class="beacon" cx="821.308" cy="287" r="3" fill="#20bcd4" style="animation-delay:1080ms"/>
+<path class="pulse-line" d="M60.6923,380.588 L124.077,360.082 L187.462,355.351 L250.846,371.649 L314.231,376.381 L377.615,377.433 L441,381.639 L504.385,367.443 L567.769,357.454 L631.154,321.175 L694.538,364.814 L757.923,345.361 L821.308,287" fill="none" stroke="url(#spectrum)" stroke-width="2"/>
+<circle class="beacon" cx="60.6923" cy="380.588" r="3" fill="#20bcd4" style="animation-delay:0ms"/><circle class="beacon" cx="124.077" cy="360.082" r="3" fill="#38c976" style="animation-delay:90ms"/><circle class="beacon" cx="187.462" cy="355.351" r="3" fill="#a58af5" style="animation-delay:180ms"/><circle class="beacon" cx="250.846" cy="371.649" r="3" fill="#f16ca6" style="animation-delay:270ms"/><circle class="beacon" cx="314.231" cy="376.381" r="3" fill="#20bcd4" style="animation-delay:360ms"/><circle class="beacon" cx="377.615" cy="377.433" r="3" fill="#38c976" style="animation-delay:450ms"/><circle class="beacon" cx="441" cy="381.639" r="3" fill="#a58af5" style="animation-delay:540ms"/><circle class="beacon" cx="504.385" cy="367.443" r="3" fill="#f16ca6" style="animation-delay:630ms"/><circle class="beacon" cx="567.769" cy="357.454" r="3" fill="#20bcd4" style="animation-delay:720ms"/><circle class="beacon" cx="631.154" cy="321.175" r="3" fill="#38c976" style="animation-delay:810ms"/><circle class="beacon" cx="694.538" cy="364.814" r="3" fill="#a58af5" style="animation-delay:900ms"/><circle class="beacon" cx="757.923" cy="345.361" r="3" fill="#f16ca6" style="animation-delay:990ms"/><circle class="beacon" cx="821.308" cy="287" r="3" fill="#20bcd4" style="animation-delay:1080ms"/>
 <rect class="scanner" x="20" y="260" width="2" height="157" fill="#ffffff" opacity=".24" style="--travel:838px"/>
 <text x="20" y="454" font-size="9.5" font-weight="600" fill="#656d76" text-anchor="start" textLength="127.49" lengthAdjust="spacingAndGlyphs">PEAK 36 ON 04 SEP 2026</text>
 <text x="635" y="454" font-size="8.5" font-weight="600" fill="#656d76" text-anchor="start" textLength="15.555" lengthAdjust="spacingAndGlyphs">LOW</text>
