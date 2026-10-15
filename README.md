@@ -152,10 +152,10 @@ Repository commits include all authors on the default branch. Grouped projects s
 <!-- LANGUAGES:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/languages-mobile-dark.svg?v=8d3af2896f4c" />
-    <source media="(max-width: 600px)" srcset="./metrics/languages-mobile.svg?v=5feff2022331" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg?v=c9bf99fb0c98" />
-    <img alt="Repository language mix" src="./metrics/languages.svg?v=487be4ebbdee" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/languages-mobile-dark.svg?v=b97560d5994f" />
+    <source media="(max-width: 600px)" srcset="./metrics/languages-mobile.svg?v=3b76ad26b53e" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/languages-dark.svg?v=a1746e5485f7" />
+    <img alt="Repository language mix" src="./metrics/languages.svg?v=60641fca7590" width="880" />
   </picture>
 </p>
 <!-- LANGUAGES:END -->
@@ -163,8 +163,8 @@ Repository commits include all authors on the default branch. Grouped projects s
 <!-- TREND:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/trend-mobile-dark.svg?v=6e9d08d2883a" />
-    <source media="(max-width: 600px)" srcset="./metrics/trend-mobile.svg?v=f51b6fbf114a" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/trend-mobile-dark.svg?v=662dfe41c1f7" />
+    <source media="(max-width: 600px)" srcset="./metrics/trend-mobile.svg?v=54756525ab9d" />
     <source media="(prefers-color-scheme: dark)" srcset="./metrics/trend-dark.svg?v=d98610c10cc8" />
     <img alt="Repository language composition by year" src="./metrics/trend.svg?v=7859641509e1" width="880" />
   </picture>
@@ -174,10 +174,10 @@ Repository commits include all authors on the default branch. Grouped projects s
 <!-- HABITS:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/habits-mobile-dark.svg?v=545cd7183e3e" />
-    <source media="(max-width: 600px)" srcset="./metrics/habits-mobile.svg?v=6ecef4b975aa" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/habits-dark.svg?v=ac9b7bcfebd5" />
-    <img alt="Authored commit rhythm by hour and weekday" src="./metrics/habits.svg?v=48d4ebfd7b0e" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/habits-mobile-dark.svg?v=57190a30219b" />
+    <source media="(max-width: 600px)" srcset="./metrics/habits-mobile.svg?v=2b91dc9072e1" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/habits-dark.svg?v=9ec665140c09" />
+    <img alt="Authored commit rhythm by hour and weekday" src="./metrics/habits.svg?v=e4d283335848" width="880" />
   </picture>
 </p>
 <!-- HABITS:END -->
@@ -197,10 +197,10 @@ Repository commits include all authors on the default branch. Grouped projects s
 <!-- OVERVIEW:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/overview-mobile-dark.svg?v=75cd39ce5b82" />
-    <source media="(max-width: 600px)" srcset="./metrics/overview-mobile.svg?v=2113e20fe8fc" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/overview-dark.svg?v=a27e0fa17158" />
-    <img alt="Contribution Activity Console" src="./metrics/overview.svg?v=704688e94d0a" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/overview-mobile-dark.svg?v=edb2b445f27a" />
+    <source media="(max-width: 600px)" srcset="./metrics/overview-mobile.svg?v=f6dafd981dee" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/overview-dark.svg?v=ae558cabb050" />
+    <img alt="Contribution Activity Console" src="./metrics/overview.svg?v=40cc6bf92c36" width="880" />
   </picture>
 </p>
 <!-- OVERVIEW:END -->
