@@ -24,15 +24,15 @@
 <text x="20" y="101" font-size="10.5" font-weight="600" fill="#8b949e" text-anchor="start" textLength="70.455" lengthAdjust="spacingAndGlyphs">COMPOSITION</text>
 <text x="860" y="101" font-size="10.5" font-weight="600" fill="#8b949e" text-anchor="end" textLength="25.62" lengthAdjust="spacingAndGlyphs">100%</text>
 <g clip-path="url(#composition)">
-<rect class="composition-segment" x="20.000000" y="110" width="266.432631" height="18" fill="#20bcd4"><title>C: 31.7%</title></rect>
-<rect class="composition-segment" x="286.432631" y="110" width="129.119707" height="18" fill="#edbb38"><title>Python: 15.4%</title></rect>
-<rect class="composition-segment" x="415.552338" y="110" width="118.937453" height="18" fill="#f48b43"><title>Jupyter Notebook: 14.2%</title></rect>
-<rect class="composition-segment" x="534.489791" y="110" width="78.804358" height="18" fill="#b3ce45"><title>JavaScript: 9.4%</title></rect>
-<rect class="composition-segment" x="613.294149" y="110" width="70.684203" height="18" fill="#ed6565"><title>HTML: 8.4%</title></rect>
-<rect class="composition-segment" x="683.978352" y="110" width="50.174298" height="18" fill="#438cf0"><title>TypeScript: 6.0%</title></rect>
-<rect class="composition-segment" x="734.152649" y="110" width="43.641965" height="18" fill="#f16ca6"><title>C++: 5.2%</title></rect>
-<rect class="composition-segment" x="777.794615" y="110" width="20.699286" height="18" fill="#012456"><title>PowerShell: 2.5%</title></rect>
-<rect class="composition-segment" x="798.493901" y="110" width="61.506099" height="18" fill="#8795a8"><title>Other: 7.3%</title></rect>
+<rect class="composition-segment" x="20.000000" y="110" width="266.414816" height="18" fill="#20bcd4"><title>C: 31.7%</title></rect>
+<rect class="composition-segment" x="286.414816" y="110" width="129.119707" height="18" fill="#edbb38"><title>Python: 15.4%</title></rect>
+<rect class="composition-segment" x="415.534523" y="110" width="118.937453" height="18" fill="#f48b43"><title>Jupyter Notebook: 14.2%</title></rect>
+<rect class="composition-segment" x="534.471976" y="110" width="78.804358" height="18" fill="#b3ce45"><title>JavaScript: 9.4%</title></rect>
+<rect class="composition-segment" x="613.276334" y="110" width="70.684203" height="18" fill="#ed6565"><title>HTML: 8.4%</title></rect>
+<rect class="composition-segment" x="683.960537" y="110" width="50.174298" height="18" fill="#438cf0"><title>TypeScript: 6.0%</title></rect>
+<rect class="composition-segment" x="734.134835" y="110" width="43.641965" height="18" fill="#f16ca6"><title>C++: 5.2%</title></rect>
+<rect class="composition-segment" x="777.776800" y="110" width="20.699286" height="18" fill="#012456"><title>PowerShell: 2.5%</title></rect>
+<rect class="composition-segment" x="798.476086" y="110" width="61.523914" height="18" fill="#8795a8"><title>Other: 7.3%</title></rect>
 </g>
 <text x="20" y="157" font-size="10.5" font-weight="600" fill="#8b949e" text-anchor="start" textLength="153.72" lengthAdjust="spacingAndGlyphs">BARS: RELATIVE TO LEADER</text>
 <text x="860" y="157" font-size="10.5" font-weight="600" fill="#8b949e" text-anchor="end" textLength="32.025" lengthAdjust="spacingAndGlyphs">SHARE</text>
@@ -45,42 +45,42 @@
 <text x="36" y="224" font-size="13" font-weight="400" fill="#c9d1d9" text-anchor="start" textLength="47.58" lengthAdjust="spacingAndGlyphs">Python</text>
 <text x="860" y="224" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="end" textLength="39.65" lengthAdjust="spacingAndGlyphs">15.4%</text>
 <rect x="180" y="212" width="612" height="16" rx="4" fill="#21262d"/>
-<rect class="language-fill" x="180" y="212" width="296.590025" height="16" rx="4" fill="url(#lang-1)"/>
+<rect class="language-fill" x="180" y="212" width="296.609857" height="16" rx="4" fill="url(#lang-1)"/>
 <circle cx="24" cy="254" r="4" fill="#f48b43"/>
 <text x="36" y="258" font-size="13" font-weight="400" fill="#c9d1d9" text-anchor="start" textLength="126.88" lengthAdjust="spacingAndGlyphs">Jupyter Notebook</text>
 <text x="860" y="258" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="end" textLength="39.65" lengthAdjust="spacingAndGlyphs">14.2%</text>
 <rect x="180" y="246" width="612" height="16" rx="4" fill="#21262d"/>
-<rect class="language-fill" x="180" y="246" width="273.201225" height="16" rx="4" fill="url(#lang-2)"/>
+<rect class="language-fill" x="180" y="246" width="273.219493" height="16" rx="4" fill="url(#lang-2)"/>
 <circle cx="24" cy="288" r="4" fill="#b3ce45"/>
 <text x="36" y="292" font-size="13" font-weight="400" fill="#c9d1d9" text-anchor="start" textLength="79.3" lengthAdjust="spacingAndGlyphs">JavaScript</text>
 <text x="860" y="292" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="end" textLength="31.72" lengthAdjust="spacingAndGlyphs">9.4%</text>
 <rect x="180" y="280" width="612" height="16" rx="4" fill="#21262d"/>
-<rect class="language-fill" x="180" y="280" width="181.014866" height="16" rx="4" fill="url(#lang-3)"/>
+<rect class="language-fill" x="180" y="280" width="181.026970" height="16" rx="4" fill="url(#lang-3)"/>
 <circle cx="24" cy="322" r="4" fill="#ed6565"/>
 <text x="36" y="326" font-size="13" font-weight="400" fill="#c9d1d9" text-anchor="start" textLength="31.72" lengthAdjust="spacingAndGlyphs">HTML</text>
 <text x="860" y="326" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="end" textLength="31.72" lengthAdjust="spacingAndGlyphs">8.4%</text>
 <rect x="180" y="314" width="612" height="16" rx="4" fill="#21262d"/>
-<rect class="language-fill" x="180" y="314" width="162.362741" height="16" rx="4" fill="url(#lang-4)"/>
+<rect class="language-fill" x="180" y="314" width="162.373598" height="16" rx="4" fill="url(#lang-4)"/>
 <circle cx="24" cy="356" r="4" fill="#438cf0"/>
 <text x="36" y="360" font-size="13" font-weight="400" fill="#c9d1d9" text-anchor="start" textLength="79.3" lengthAdjust="spacingAndGlyphs">TypeScript</text>
 <text x="860" y="360" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="end" textLength="31.72" lengthAdjust="spacingAndGlyphs">6.0%</text>
 <rect x="180" y="348" width="612" height="16" rx="4" fill="#21262d"/>
-<rect class="language-fill" x="180" y="348" width="115.251162" height="16" rx="4" fill="url(#lang-5)"/>
+<rect class="language-fill" x="180" y="348" width="115.258868" height="16" rx="4" fill="url(#lang-5)"/>
 <circle cx="24" cy="390" r="4" fill="#f16ca6"/>
 <text x="36" y="394" font-size="13" font-weight="400" fill="#c9d1d9" text-anchor="start" textLength="23.79" lengthAdjust="spacingAndGlyphs">C++</text>
 <text x="860" y="394" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="end" textLength="31.72" lengthAdjust="spacingAndGlyphs">5.2%</text>
 <rect x="180" y="382" width="612" height="16" rx="4" fill="#21262d"/>
-<rect class="language-fill" x="180" y="382" width="100.246289" height="16" rx="4" fill="url(#lang-6)"/>
+<rect class="language-fill" x="180" y="382" width="100.252993" height="16" rx="4" fill="url(#lang-6)"/>
 <circle cx="24" cy="424" r="4" fill="#012456"/>
 <text x="36" y="428" font-size="13" font-weight="400" fill="#c9d1d9" text-anchor="start" textLength="79.3" lengthAdjust="spacingAndGlyphs">PowerShell</text>
 <text x="860" y="428" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="end" textLength="31.72" lengthAdjust="spacingAndGlyphs">2.5%</text>
 <rect x="180" y="416" width="612" height="16" rx="4" fill="#21262d"/>
-<rect class="language-fill" x="180" y="416" width="47.546590" height="16" rx="4" fill="url(#lang-7)"/>
+<rect class="language-fill" x="180" y="416" width="47.549769" height="16" rx="4" fill="url(#lang-7)"/>
 <circle cx="24" cy="458" r="4" fill="#8795a8"/>
 <text x="36" y="462" font-size="13" font-weight="400" fill="#c9d1d9" text-anchor="start" textLength="39.65" lengthAdjust="spacingAndGlyphs">Other</text>
 <text x="860" y="462" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="end" textLength="31.72" lengthAdjust="spacingAndGlyphs">7.3%</text>
 <rect x="180" y="450" width="612" height="16" rx="4" fill="#21262d"/>
-<rect class="language-fill" x="180" y="450" width="141.280491" height="16" rx="4" fill="url(#lang-8)"/>
+<rect class="language-fill" x="180" y="450" width="141.330861" height="16" rx="4" fill="url(#lang-8)"/>
 <path d="M20 487H860" stroke="#30363d"/>
 <text x="20" y="508" font-size="10.5" font-weight="400" fill="#8b949e" text-anchor="start" textLength="313.845" lengthAdjust="spacingAndGlyphs">Public + private; selected vendor repos excluded.</text>
 <text x="20" y="524" font-size="10.5" font-weight="400" fill="#8b949e" text-anchor="start" textLength="345.87" lengthAdjust="spacingAndGlyphs">Repository composition, not authorship or coding time.</text>

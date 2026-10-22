@@ -41,13 +41,13 @@
 <text x="244" y="268" font-size="10" font-weight="600" fill="#424a53" text-anchor="middle" textLength="24.4" lengthAdjust="spacingAndGlyphs">2025</text>
 <text x="244" y="282" font-size="9" font-weight="400" fill="#656d76" text-anchor="middle" textLength="43.92" lengthAdjust="spacingAndGlyphs">14 repos</text>
 <rect x="288.80" y="100.00" width="38.40" height="150" rx="4" fill="#eaeef2"/>
-<rect x="288.80" y="100.00" width="38.40" height="12.57" fill="#555555"/>
-<rect x="288.80" y="112.57" width="38.40" height="53.24" fill="#3572A5"/>
-<rect x="288.80" y="165.81" width="38.40" height="14.00" fill="#e34c26"/>
-<rect x="288.80" y="179.80" width="38.40" height="12.79" fill="#f1e05a"/>
-<rect x="288.80" y="192.60" width="38.40" height="5.24" fill="#4F5D95"/>
-<rect x="288.80" y="197.83" width="38.40" height="18.05" fill="#3178c6"/>
-<rect x="288.80" y="215.89" width="38.40" height="34.11" fill="#8294a8"/>
+<rect x="288.80" y="100.00" width="38.40" height="12.55" fill="#555555"/>
+<rect x="288.80" y="112.55" width="38.40" height="53.24" fill="#3572A5"/>
+<rect x="288.80" y="165.79" width="38.40" height="14.00" fill="#e34c26"/>
+<rect x="288.80" y="179.79" width="38.40" height="12.79" fill="#f1e05a"/>
+<rect x="288.80" y="192.58" width="38.40" height="5.24" fill="#4F5D95"/>
+<rect x="288.80" y="197.82" width="38.40" height="18.05" fill="#3178c6"/>
+<rect x="288.80" y="215.87" width="38.40" height="34.13" fill="#8294a8"/>
 <text x="308" y="268" font-size="10" font-weight="600" fill="#424a53" text-anchor="middle" textLength="24.4" lengthAdjust="spacingAndGlyphs">2026</text>
 <text x="308" y="282" font-size="9" font-weight="400" fill="#656d76" text-anchor="middle" textLength="43.92" lengthAdjust="spacingAndGlyphs">12 repos</text>
 <rect x="20.00" y="296.50" width="9" height="9" rx="2" fill="#555555"/>
