@@ -41,15 +41,15 @@
 <text x="608" y="308" font-size="11" font-weight="600" fill="#424a53" text-anchor="middle" textLength="26.84" lengthAdjust="spacingAndGlyphs">2025</text>
 <text x="608" y="322" font-size="10" font-weight="400" fill="#656d76" text-anchor="middle" textLength="48.8" lengthAdjust="spacingAndGlyphs">14 repos</text>
 <rect x="728.00" y="100.00" width="96.00" height="190" rx="4" fill="#eaeef2"/>
-<rect x="728.00" y="100.00" width="96.00" height="15.90" fill="#555555"/>
-<rect x="728.00" y="115.90" width="96.00" height="67.44" fill="#3572A5"/>
-<rect x="728.00" y="183.34" width="96.00" height="17.73" fill="#e34c26"/>
-<rect x="728.00" y="201.07" width="96.00" height="16.21" fill="#f1e05a"/>
-<rect x="728.00" y="217.27" width="96.00" height="6.63" fill="#4F5D95"/>
-<rect x="728.00" y="223.91" width="96.00" height="22.87" fill="#3178c6"/>
-<rect x="728.00" y="246.78" width="96.00" height="43.22" fill="#8294a8"/>
+<rect x="728.00" y="100.00" width="96.00" height="14.68" fill="#555555"/>
+<rect x="728.00" y="114.68" width="96.00" height="62.25" fill="#3572A5"/>
+<rect x="728.00" y="176.93" width="96.00" height="21.53" fill="#e34c26"/>
+<rect x="728.00" y="198.46" width="96.00" height="22.70" fill="#f1e05a"/>
+<rect x="728.00" y="221.15" width="96.00" height="6.21" fill="#4F5D95"/>
+<rect x="728.00" y="227.37" width="96.00" height="21.11" fill="#3178c6"/>
+<rect x="728.00" y="248.48" width="96.00" height="41.52" fill="#8294a8"/>
 <text x="776" y="308" font-size="11" font-weight="600" fill="#424a53" text-anchor="middle" textLength="26.84" lengthAdjust="spacingAndGlyphs">2026</text>
-<text x="776" y="322" font-size="10" font-weight="400" fill="#656d76" text-anchor="middle" textLength="48.8" lengthAdjust="spacingAndGlyphs">12 repos</text>
+<text x="776" y="322" font-size="10" font-weight="400" fill="#656d76" text-anchor="middle" textLength="48.8" lengthAdjust="spacingAndGlyphs">13 repos</text>
 <rect x="20.00" y="336.50" width="9" height="9" rx="2" fill="#555555"/>
 <text x="35" y="344" font-size="10" font-weight="400" fill="#424a53" text-anchor="start" textLength="6.1" lengthAdjust="spacingAndGlyphs">C</text>
 <rect x="57.10" y="336.50" width="9" height="9" rx="2" fill="#DA5B0B"/>
@@ -58,10 +58,10 @@
 <text x="200.7" y="344" font-size="10" font-weight="400" fill="#424a53" text-anchor="start" textLength="36.6" lengthAdjust="spacingAndGlyphs">Python</text>
 <rect x="253.30" y="336.50" width="9" height="9" rx="2" fill="#e34c26"/>
 <text x="268.3" y="344" font-size="10" font-weight="400" fill="#424a53" text-anchor="start" textLength="24.4" lengthAdjust="spacingAndGlyphs">HTML</text>
-<rect x="308.70" y="336.50" width="9" height="9" rx="2" fill="#f34b7d"/>
-<text x="323.7" y="344" font-size="10" font-weight="400" fill="#424a53" text-anchor="start" textLength="18.3" lengthAdjust="spacingAndGlyphs">C++</text>
-<rect x="358.00" y="336.50" width="9" height="9" rx="2" fill="#f1e05a"/>
-<text x="373" y="344" font-size="10" font-weight="400" fill="#424a53" text-anchor="start" textLength="61" lengthAdjust="spacingAndGlyphs">JavaScript</text>
+<rect x="308.70" y="336.50" width="9" height="9" rx="2" fill="#f1e05a"/>
+<text x="323.7" y="344" font-size="10" font-weight="400" fill="#424a53" text-anchor="start" textLength="61" lengthAdjust="spacingAndGlyphs">JavaScript</text>
+<rect x="400.70" y="336.50" width="9" height="9" rx="2" fill="#f34b7d"/>
+<text x="415.7" y="344" font-size="10" font-weight="400" fill="#424a53" text-anchor="start" textLength="18.3" lengthAdjust="spacingAndGlyphs">C++</text>
 <rect x="450.00" y="336.50" width="9" height="9" rx="2" fill="#4F5D95"/>
 <text x="465" y="344" font-size="10" font-weight="400" fill="#424a53" text-anchor="start" textLength="18.3" lengthAdjust="spacingAndGlyphs">PHP</text>
 <rect x="499.30" y="336.50" width="9" height="9" rx="2" fill="#3178c6"/>
