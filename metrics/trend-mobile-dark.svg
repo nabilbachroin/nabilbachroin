@@ -43,10 +43,10 @@
 <rect x="288.80" y="100.00" width="38.40" height="150" rx="4" fill="#21262d"/>
 <rect x="288.80" y="100.00" width="38.40" height="10.75" fill="#555555"/>
 <rect x="288.80" y="110.75" width="38.40" height="45.63" fill="#3572A5"/>
-<rect x="288.80" y="156.38" width="38.40" height="16.55" fill="#e34c26"/>
-<rect x="288.80" y="172.93" width="38.40" height="26.54" fill="#f1e05a"/>
+<rect x="288.80" y="156.38" width="38.40" height="16.52" fill="#e34c26"/>
+<rect x="288.80" y="172.90" width="38.40" height="26.57" fill="#f1e05a"/>
 <rect x="288.80" y="199.47" width="38.40" height="4.55" fill="#4F5D95"/>
-<rect x="288.80" y="204.02" width="38.40" height="15.48" fill="#3178c6"/>
+<rect x="288.80" y="204.03" width="38.40" height="15.48" fill="#3178c6"/>
 <rect x="288.80" y="219.50" width="38.40" height="30.50" fill="#8294a8"/>
 <text x="308" y="268" font-size="10" font-weight="600" fill="#c9d1d9" text-anchor="middle" textLength="24.4" lengthAdjust="spacingAndGlyphs">2026</text>
 <text x="308" y="282" font-size="9" font-weight="400" fill="#8b949e" text-anchor="middle" textLength="43.92" lengthAdjust="spacingAndGlyphs">14 repos</text>
