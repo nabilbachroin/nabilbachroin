@@ -197,10 +197,10 @@ Repository commits include all authors on the default branch. Grouped projects s
 <!-- OVERVIEW:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/overview-mobile-dark.svg?v=4e66b628ec71" />
-    <source media="(max-width: 600px)" srcset="./metrics/overview-mobile.svg?v=d38e6ca9be26" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/overview-dark.svg?v=d0ee43709561" />
-    <img alt="Contribution Activity Console" src="./metrics/overview.svg?v=bb9afb701c8c" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/overview-mobile-dark.svg?v=9fda09849ed9" />
+    <source media="(max-width: 600px)" srcset="./metrics/overview-mobile.svg?v=4106d69284b8" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/overview-dark.svg?v=e562be3c40b9" />
+    <img alt="Contribution Activity Console" src="./metrics/overview.svg?v=61e74748e4fa" width="880" />
   </picture>
 </p>
 <!-- OVERVIEW:END -->
