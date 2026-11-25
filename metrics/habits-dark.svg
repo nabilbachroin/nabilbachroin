@@ -6,33 +6,33 @@
 </defs>
 <rect x="0.5" y="0.5" width="879" height="325" rx="8" fill="#0d1117" stroke="#30363d"/>
 <text x="20" y="38" font-size="19" font-weight="600" fill="#e6edf3" text-anchor="start" textLength="150.67" lengthAdjust="spacingAndGlyphs">Coding Rhythm</text>
-<text x="20" y="58" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start" textLength="570.35" lengthAdjust="spacingAndGlyphs">1754 authored commits across 62 repositories - peak 14:00 - busiest Mon - Asia/Taipei</text>
+<text x="20" y="58" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start" textLength="570.35" lengthAdjust="spacingAndGlyphs">1764 authored commits across 62 repositories - peak 14:00 - busiest Mon - Asia/Taipei</text>
 <path d="M20 74H860" stroke="url(#spectrum)" stroke-width="3" opacity=".55" filter="url(#glow)"/>
 <text x="20" y="100" font-size="10" font-weight="400" fill="#8b949e" text-anchor="start" textLength="158.6" lengthAdjust="spacingAndGlyphs">HOURS OF DAY - ASIA/TAIPEI</text>
-<rect x="26.65" y="157.16" width="21.70" height="14.84" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="61.65" y="166.78" width="21.70" height="5.22" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="96.65" y="169.53" width="21.70" height="2.47" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="131.65" y="169.80" width="21.70" height="2.20" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="26.65" y="157.23" width="21.70" height="14.77" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="61.65" y="166.80" width="21.70" height="5.20" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="96.65" y="169.54" width="21.70" height="2.46" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="131.65" y="169.81" width="21.70" height="2.19" rx="2" fill="url(#spectrum)" opacity="0.95"/>
 <rect x="166.65" y="170.50" width="21.70" height="1.50" rx="2" fill="url(#spectrum)" opacity="0.95"/>
 <rect x="201.65" y="170.50" width="21.70" height="1.50" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="236.65" y="170.35" width="21.70" height="1.65" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="271.65" y="168.43" width="21.70" height="3.57" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="306.65" y="167.33" width="21.70" height="4.67" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="341.65" y="160.73" width="21.70" height="11.27" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="376.65" y="144.51" width="21.70" height="27.49" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="411.65" y="130.49" width="21.70" height="41.51" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="446.65" y="137.09" width="21.70" height="34.91" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="481.65" y="146.44" width="21.70" height="25.56" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="236.65" y="170.36" width="21.70" height="1.64" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="271.65" y="168.44" width="21.70" height="3.56" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="306.65" y="167.35" width="21.70" height="4.65" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="341.65" y="160.78" width="21.70" height="11.22" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="376.65" y="144.64" width="21.70" height="27.36" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="411.65" y="130.69" width="21.70" height="41.31" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="446.65" y="137.25" width="21.70" height="34.75" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="481.65" y="145.74" width="21.70" height="26.26" rx="2" fill="url(#spectrum)" opacity="0.95"/>
 <rect x="516.65" y="114.00" width="21.70" height="58.00" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="551.65" y="124.45" width="21.70" height="47.55" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="586.65" y="119.22" width="21.70" height="52.78" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="621.65" y="124.72" width="21.70" height="47.28" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="656.65" y="142.59" width="21.70" height="29.41" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="691.65" y="156.06" width="21.70" height="15.94" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="726.65" y="163.75" width="21.70" height="8.25" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="761.65" y="162.10" width="21.70" height="9.90" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="796.65" y="154.41" width="21.70" height="17.59" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="831.65" y="152.76" width="21.70" height="19.24" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="551.65" y="123.30" width="21.70" height="48.70" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="586.65" y="119.47" width="21.70" height="52.53" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="621.65" y="124.67" width="21.70" height="47.33" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="656.65" y="142.73" width="21.70" height="29.27" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="691.65" y="156.13" width="21.70" height="15.87" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="726.65" y="163.79" width="21.70" height="8.21" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="761.65" y="162.15" width="21.70" height="9.85" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="796.65" y="154.49" width="21.70" height="17.51" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="831.65" y="152.85" width="21.70" height="19.15" rx="2" fill="url(#spectrum)" opacity="0.95"/>
 <text x="37.5" y="187" font-size="10" font-weight="400" fill="#8b949e" text-anchor="middle" textLength="12.2" lengthAdjust="spacingAndGlyphs">00</text>
 <text x="142.5" y="187" font-size="10" font-weight="400" fill="#8b949e" text-anchor="middle" textLength="12.2" lengthAdjust="spacingAndGlyphs">03</text>
 <text x="247.5" y="187" font-size="10" font-weight="400" fill="#8b949e" text-anchor="middle" textLength="12.2" lengthAdjust="spacingAndGlyphs">06</text>
@@ -43,12 +43,12 @@
 <text x="772.5" y="187" font-size="10" font-weight="400" fill="#8b949e" text-anchor="middle" textLength="12.2" lengthAdjust="spacingAndGlyphs">21</text>
 <text x="20" y="213" font-size="10" font-weight="400" fill="#8b949e" text-anchor="start" textLength="73.2" lengthAdjust="spacingAndGlyphs">DAYS OF WEEK</text>
 <rect x="42.80" y="227.00" width="74.40" height="48.00" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="162.80" y="231.28" width="74.40" height="43.72" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="282.80" y="244.35" width="74.40" height="30.65" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="402.80" y="241.23" width="74.40" height="33.77" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="522.80" y="243.19" width="74.40" height="31.81" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="642.80" y="266.21" width="74.40" height="8.79" rx="2" fill="url(#spectrum)" opacity="0.95"/>
-<rect x="762.80" y="268.87" width="74.40" height="6.13" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="162.80" y="231.45" width="74.40" height="43.55" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="282.80" y="244.79" width="74.40" height="30.21" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="402.80" y="241.71" width="74.40" height="33.29" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="522.80" y="243.65" width="74.40" height="31.35" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="642.80" y="266.33" width="74.40" height="8.67" rx="2" fill="url(#spectrum)" opacity="0.95"/>
+<rect x="762.80" y="268.96" width="74.40" height="6.04" rx="2" fill="url(#spectrum)" opacity="0.95"/>
 <text x="80" y="290" font-size="10" font-weight="400" fill="#8b949e" text-anchor="middle" textLength="18.3" lengthAdjust="spacingAndGlyphs">Mon</text>
 <text x="200" y="290" font-size="10" font-weight="400" fill="#8b949e" text-anchor="middle" textLength="18.3" lengthAdjust="spacingAndGlyphs">Tue</text>
 <text x="320" y="290" font-size="10" font-weight="400" fill="#8b949e" text-anchor="middle" textLength="18.3" lengthAdjust="spacingAndGlyphs">Wed</text>
