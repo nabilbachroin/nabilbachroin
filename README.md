@@ -174,10 +174,10 @@ Repository commits include all authors on the default branch. Grouped projects s
 <!-- HABITS:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/habits-mobile-dark.svg?v=8f7004f1e051" />
-    <source media="(max-width: 600px)" srcset="./metrics/habits-mobile.svg?v=a6f4aa25427f" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/habits-dark.svg?v=300624c16993" />
-    <img alt="Authored commit rhythm by hour and weekday" src="./metrics/habits.svg?v=c2ffa9cc7d3e" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/habits-mobile-dark.svg?v=98c77563282a" />
+    <source media="(max-width: 600px)" srcset="./metrics/habits-mobile.svg?v=99e48525c13f" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/habits-dark.svg?v=0bf06c881e9c" />
+    <img alt="Authored commit rhythm by hour and weekday" src="./metrics/habits.svg?v=654b3e8e394f" width="880" />
   </picture>
 </p>
 <!-- HABITS:END -->
@@ -197,10 +197,10 @@ Repository commits include all authors on the default branch. Grouped projects s
 <!-- OVERVIEW:START -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/overview-mobile-dark.svg?v=58cecc6cf8c1" />
-    <source media="(max-width: 600px)" srcset="./metrics/overview-mobile.svg?v=7e3c4182821a" />
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics/overview-dark.svg?v=7d3638c82161" />
-    <img alt="Contribution Activity Console" src="./metrics/overview.svg?v=66d6d2656513" width="880" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./metrics/overview-mobile-dark.svg?v=2ab01a7d1983" />
+    <source media="(max-width: 600px)" srcset="./metrics/overview-mobile.svg?v=2d263805a539" />
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics/overview-dark.svg?v=2ff76659b0ac" />
+    <img alt="Contribution Activity Console" src="./metrics/overview.svg?v=9cd4dbc2ee41" width="880" />
   </picture>
 </p>
 <!-- OVERVIEW:END -->
